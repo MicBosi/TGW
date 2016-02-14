@@ -56,19 +56,6 @@ google_color_url = ["008000","008000","008000","AECCEB"];
           </td>
           -->
         <tr>
-        <td rowspan=1 width=150 style="border: 1px solid gray;" valign=middle align=center>
-          <form style="margin:0px; padding:0px" method="post" action="<?php echo $base_website_address; ?>/pommo/user/process.php" name="signup">
-          The Guitar Wizard <b>Newsletter</b><br>
-
-            <br>
-            <input type="text" name="Email" id="email" maxlength="60" value="tuamail@email.xyz" style="margin-bottom:5px"/><br>
-            <input type="hidden" name="pommo_signup" value="true" />
-            <input type="submit" value=" Iscriviti Adesso! " style="padding: 0px; margin:0px"/><br>
-
-            <small><a target="_blank" style="background: rgb(10,10,40)" href="<?php echo $base_website_address; ?>/pommo/user/login.php">modifica/cancella iscrizione</a></small>
-
-          </form>
-        </td>
           <td style="border: 1px solid gray;" align=center>
             <h1 style="padding: 0px; margin: 0px; font-weight: normal; font-size: 24px; color: fff080">
             <a title="Trova Discografie, Spartiti, Accordi, Testi, Tablature Di Artisti Italiani E Stranieri" href="<?php echo "$base_website_address/$spartiti_dir/index.html"; ?>">
@@ -127,14 +114,6 @@ google_color_url = ["008000","008000","008000","AECCEB"];
     <table border=0 cellpadding="0" cellspacing="0">
       <tr>
         <td valign=top align=center style="text-align: top; border: 1px solid white;">
-          <div align=center style="font-size: 10px; font-family: Verdana; border: 1px dashed gray; margin: 4px;">
-            <a href="amici.html" target="_top">SITI AMICI</a>
-          </div>
-
-          <div align=left style="font-size: 10px; font-family: Verdana; border: 1px dashed gray; margin: 4px;">
-          <?php write_bookmarks(false); ?>
-          </div>
-
           <!-- SKYSCRAPER -->
           <script type="text/javascript"><!--
           google_ad_client = "pub-1457183695568112";
@@ -636,16 +615,3 @@ google_color_url = ["008000","008000","008000","AECCEB"];
 
     <?php require("$contents_dir/$spartiti_dir/tabgrid.php"); ?>
 
-    <table border=0 width=900 cellpadding=5 cellspacing=1 style="background-color: 080820; border: 2px solid #8080ff">
-    <tr>
-      <td align=left valign=top>
-        <h2 style="font-family: Georgia"><a href="<?php echo "$base_website_address"; ?>/amici.html">Siti Amici</a></h2>
-        <div width=100% style="text-align: justify; border: 0px solid white; margin-top: 10px; font-size: 10px; font-family: Verdana">
-          <?php require("$contents_dir/links_footer.php"); ?>
-        </div>
-        <div width=100% style="border: 0px solid white; text-align: right; margin-top: 10px; font-size: 12px; font-family: Verdana">
-          <a href="<?php echo $base_website_address; ?>/?data=linkexchange" target="_blank" title="Segnala il tuo sito a The Guitar Wizard!">[Aggiungi il tuo sito]</a>
-        </div>
-      </td>
-    </tr>
-    </table>

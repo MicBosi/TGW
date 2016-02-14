@@ -67,10 +67,6 @@
       <tr>
         <td width=1% align=center valign=top style="border: 1px solid gray;">
         
-          <div align=left style="font-size: 10px; font-family: Verdana; border: 1px dashed gray; margin: 4px;">
-          <?php write_bookmarks(false); ?>
-          </div>
-
 	<script type="text/javascript"><!--
 	google_ad_client = "ca-pub-1457183695568112";
 	/* CollonnaSinistraNew */

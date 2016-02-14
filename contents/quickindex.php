@@ -5,7 +5,6 @@
 <font size=2>
 <ul>
   RISORSE
-  <div class="li"><a href="<?php echo $base_website_address; ?>/?data=linkexchange" target="_blank" title="Segnala il tuo sito a The Guitar Wizard!">Segnala il tuo sito a The Guitar Wizard!</a><br><br></div>
   <div class="li"><a title="Trova Discografie, Spartiti, Accordi, Testi, Tablature Di Artisti Italiani E Stranieri" href="<?php echo "$base_website_address/$spartiti_dir/index.html"; ?>">
     Discografie, Spartiti, Accordi, Testi, Tablature Di Artisti Italiani E Stranieri</a></div>
   <br>
