@@ -41,6 +41,9 @@ pre {
     font-family: monospace;
     font-size: 16px;
 }
+h1, h2 {
+    font-weight: normal;
+}
 div.c2 {
     padding: 10px;
     text-align: justify;
@@ -105,4 +108,9 @@ table.tabindex td {
     font-weight: normal;
     font-size: 60px;
     color: #fff080;
+}
+h2.back-link {
+    text-transform: capitalize;
+    font-family: 'IM Fell English SC', serif;
+    font-weight: normal;
 }

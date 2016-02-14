@@ -99,7 +99,7 @@
 
             <div style="text-align: center; margin-top: 2em;">
               <div style="display: inline-block; border: 1px solid blue; padding: 2em;">
-                    <h2 style="margin: 0; padding: 0;"><a href="<?php echo $base_website_address; ?>" target="_top">Torna al menù principale</a></h2>
+                    <h2 class="back-link" style="margin: 0; padding: 0;"><a href="<?php echo $base_website_address; ?>" target="_top">Torna al menù principale</a></h2>
               </div>
             </div>
           </div>
