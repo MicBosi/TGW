@@ -1,0 +1,108 @@
+@import url(https://fonts.googleapis.com/css?family=IM+Fell+English+SC|Quintessential&subset=latin,latin-ext);
+/*
+	font-family: 'Great Vibes', cursive;
+	font-family: 'Niconne', cursive;
+	font-family: 'Alex Brush', cursive;
+	font-family: 'Allura', cursive;
+	font-family: 'Fontdiner Swanky', cursive;
+	font-family: 'Merienda One', cursive;
+	font-family: 'Italianno', cursive;
+	font-family: 'Mr De Haviland', cursive;
+	font-family: 'Arizonia', cursive;
+	font-family: 'Oleo Script Swash Caps', cursive;
+	font-family: 'IM Fell English SC', serif;
+	font-family: 'Pompiere', cursive;
+	font-family: 'Henny Penny', cursive;
+	font-family: 'Griffy', cursive;
+	font-family: 'Italiana', serif;
+	font-family: 'Stalemate', cursive;
+	font-family: 'Quintessential', cursive;
+	font-family: 'Ruthie', cursive;
+	font-family: 'Lakki Reddy', cursive;
+*/
+a:link,
+a:visited {
+    text-decoration: none;
+    color: #fff080
+}
+a:hover {
+    text-decoration: none;
+    color: red;
+}
+body {
+    background-image: url(images/gw-shadow.jpg);
+    background-position: center 75;
+    background-repeat: no-repeat;
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: 'Quintessential', cursive;
+}
+pre {
+    font-family: monospace;
+    font-size: 16px;
+}
+div.c2 {
+    padding: 10px;
+    text-align: justify;
+    font-weight: normal;
+}
+img.c1 {
+    margin-top: 5px;
+    padding: 5px;
+    border: 1px solid white
+}
+table.tabindex td {
+    border 1px solid white;
+    padding: 10px;
+}
+#default-content {
+    font-family: 'Quintessential', cursive;
+    font-size: 20px;
+}
+#default-content h1 {
+    text-transform: capitalize;
+    font-family: 'IM Fell English SC', serif;
+    font-size: 40px;
+    font-weight: normal;
+}
+#default-content h2 {
+    text-transform: capitalize;
+    font-family: 'IM Fell English SC', serif;
+    font-weight: normal;
+}
+#default-content p {
+    font-family: 'Quintessential', cursive;
+    font-size: 28px;
+}
+#default-content ul {
+    font-family: 'Quintessential', cursive;
+    font-size: 20px;
+}
+#content-index h1 {
+    text-transform: capitalize;
+    font-family: 'IM Fell English SC', serif;
+    font-size: 40px;
+    font-weight: normal;
+}
+#content-index h2 {
+    text-transform: capitalize;
+    font-family: 'IM Fell English SC', serif;
+    font-weight: normal;
+}
+#content-index p {
+    font-family: 'Quintessential', cursive;
+    font-size: 28px;
+}
+#content-index ul {
+    font-family: 'Quintessential', cursive;
+    font-size: 20px;
+}
+#tgw-title {
+    font-family: 'IM Fell English SC', serif;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    font-weight: normal;
+    font-size: 60px;
+    color: #fff080;
+}

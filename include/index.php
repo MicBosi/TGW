@@ -43,28 +43,7 @@ if ( file_exists($content_path) == false )
   $content_path = "errors/404.php";
 }
 
-
 $header = extract_header_info($content_path);
 $template_directory = "template/".(isset($header['template'])?$header['template']:"default");
 
-require("$template_directory/index.php");
-
 ?>
-
-  <div style="padding: 5px; margin: 4em 0 1em 0; font-family: 'IM Fell English SC', serif; font-size: 16px;">
-      <a href="https://michelebosi.com">&copy; Copyright 2000-<?php echo date("Y") ?> Michele Bosi</a>
-  </div>
-  
-  <?php if ($activate_google_analitics) { ?>
-
-  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-  </script>
-  <script type="text/javascript">
-  _uacct = "UA-1058203-4";
-  urchinTracker();
-  </script>
-
-  <?php } ?>
-
-  </body>
-</html>
