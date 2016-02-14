@@ -1297,7 +1297,7 @@ template: default
     che ti porteranno dritto alle fonti piu' accreditate da cui reperire i migliori spartiti, accordi, testi e tablature che ti interessano.
     Spesso per trovare
     degli spartiti o accordi di adeguata qualita' e' necessario verificare piu' fonti, per cui e' preferibile controllare almeno due o tre versioni della stessa canzone da siti diversi.\n
-    Nel database sono presenti ben $songcount canzoni di $artistcount artisti!</p><p>Non dimenticarti di salvare questa pagina usando il tuo servizio di bookmark preferito! (vedi colonna di sinistra)</p>
+    Nel database sono presenti ben $songcount canzoni di $artistcount artisti!</p>
     <p>Buona ricerca!</p>\n");
     
     fwrite($fout, "<?php require(\"tabgrid.php\"); ?".">\n");

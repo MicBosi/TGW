@@ -12,7 +12,8 @@ template: tablature
     Spesso per trovare
     degli spartiti o accordi di adeguata qualita' e' necessario verificare piu' fonti, per cui e' preferibile controllare almeno due o tre versioni della stessa canzone da siti diversi.
 
-    Nel database sono presenti ben 17304 canzoni di 85 artisti!</p><p>Non dimenticarti di salvare questa pagina usando il tuo servizio di bookmark preferito! (vedi colonna di sinistra)</p>
+    Nel database sono presenti ben 17304 canzoni di 85 artisti!</p>
+    
     <p>Buona ricerca!</p>
 <?php require("adsense_leaderboard.php"); ?>
 <?php require("tabgrid.php"); ?>
