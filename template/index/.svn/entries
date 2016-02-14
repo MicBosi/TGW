@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="58"
+   name=""
+   committed-date="2007-04-08T19:34:44.390625Z"
+   url="file:///C:/=%20Repos/TheGuitarWizard/TheGuitarWizard_PHP_2.9/template/index"
+   last-author="Master"
+   kind="dir"
+   uuid="cad809a9-0b0d-3a44-9be6-40e5f415dd44"
+   repos="file:///C:/=%20Repos/TheGuitarWizard"
+   revision="60"/>
+<entry
+   committed-rev="40"
+   name="stylesheet.css"
+   text-time="2007-03-31T17:58:43.218750Z"
+   committed-date="2007-03-31T18:44:03.937500Z"
+   checksum="c770aad1f4b8c861ec8d7093ff4a994f"
+   last-author="Master"
+   kind="file"/>
+<entry
+   committed-rev="58"
+   name="index.php"
+   text-time="2007-04-08T17:06:15.828125Z"
+   committed-date="2007-04-08T19:34:44.390625Z"
+   checksum="16d462b07660738e3f43b2e7f85bbba2"
+   last-author="Master"
+   kind="file"/>
+<entry
+   committed-rev="34"
+   name="header.php"
+   text-time="2007-03-24T14:12:09.125000Z"
+   committed-date="2007-03-25T18:52:36.406250Z"
+   checksum="d5392d2ca38e7c374749e4d4dd63d80f"
+   last-author="Master"
+   kind="file"/>
+</wc-entries>

@@ -1,2 +1,2 @@
-# TGW
-TGW - Elegant Edition (coming soon)
+# The Guitar Wizard IV
+Elegant Edition (coming soon)

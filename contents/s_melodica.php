@@ -1,0 +1,691 @@
+<!--
+keywords: spartiti, chitarra, spartiti chitarra, testi, canzoni, tablature, corso, lezioni, scale, accordi, sweep, tapping, picking, musica
+description: Questa lezione mostra le diteggiature e gli schemi della scala melodica.
+title: Scala minore melodica
+-->
+<h1 class="title"><?php echo $header['title']; ?></h1>
+
+<font size=5>P</font>er ora sono presenti solo le classiche diteggiature a BOX, presto aggiungero' le diteggiature a tre note per corda e quelle oblique. <br>
+
+
+<br>
+<font size=5>S</font>cala Minore Melodica.<br>
+
+<table bgcolor=white><tr><td><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1b.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><br><!
+><img src="fragments/nota1b.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1b.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><br><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1b.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1b.gif"><!
+><br><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1b.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><br><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1b.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1b.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><br><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1b.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+></td></tr>
+</table>
+
+<br>
+BOX I
+<table bgcolor=white><tr><td><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7r.gif"><!
+><img src="fragments/nota1b.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2r.gif"><!
+><img src="fragments/nota3r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><br><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><br><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2r.gif"><!
+><img src="fragments/nota3r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><br><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7r.gif"><!
+><img src="fragments/nota1b.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><br><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><br><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7r.gif"><!
+><img src="fragments/nota1b.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2r.gif"><!
+><img src="fragments/nota3r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+></td></tr>
+</table>
+
+<br>
+BOX II
+<table bgcolor=white><tr><td><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2r.gif"><!
+><img src="fragments/nota3r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><br><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7r.gif"><!
+><img src="fragments/nota1b.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><br><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><br><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7r.gif"><!
+><img src="fragments/nota1b.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2r.gif"><!
+><img src="fragments/nota3r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><br><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><br><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2r.gif"><!
+><img src="fragments/nota3r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+></td></tr>
+</table>
+
+
+<br>
+BOX III
+<table bgcolor=white><tr><td><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><br><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7r.gif"><!
+><img src="fragments/nota1b.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2r.gif"><!
+><img src="fragments/nota3r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><br><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><br><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2r.gif"><!
+><img src="fragments/nota3r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><br><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7r.gif"><!
+><img src="fragments/nota1b.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><br><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+></td></tr>
+</table>
+
+
+<br>
+BOX IV
+<table bgcolor=white><tr><td><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><br><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2r.gif"><!
+><img src="fragments/nota3r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><br><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7r.gif"><!
+><img src="fragments/nota1b.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><br><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><br><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7r.gif"><!
+><img src="fragments/nota1b.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2r.gif"><!
+><img src="fragments/nota3r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><br><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+></td></tr>
+</table>
+
+
+<br>
+BOX V
+<table bgcolor=white><tr><td><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7r.gif"><!
+><img src="fragments/nota1b.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><br><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><br><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7r.gif"><!
+><img src="fragments/nota1b.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2r.gif"><!
+><img src="fragments/nota3r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><br><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><br><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2r.gif"><!
+><img src="fragments/nota3r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7.gif"><!
+><img src="fragments/nota1.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><br><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6r.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota7r.gif"><!
+><img src="fragments/nota1b.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota2.gif"><!
+><img src="fragments/nota3.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota4.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota5.gif"><!
+><img src="fragments/nonnota.gif"><!
+><img src="fragments/nota6.gif"><!
+></td></tr>
+</table>
