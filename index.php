@@ -1,8 +1,17 @@
-<?php require("include/index.php"); ?>
+<?php require("include/index.php"); 
+/*
+	TODO:
+	- divisione teoria/pratica
+	- nuova grafica: accordi, scale, box, video
+	- video progressioni/accordi
+	- FB comments
+	- copy cleanup
+*/
+?>
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="UTF-8">
+        <meta charset="utf-8">
 		<title><?php echo $header['title']; ?></title>
 		<meta name="description" content="<?php echo $header['description']; ?>" >
 		<meta name="keywords" content="<?php echo $header['keywords']; ?>" />
