@@ -42,7 +42,7 @@ h1, h2 {
 }
 pre {
     font-family: monospace;
-    font-size: 14px;
+    font-size: 12px;
 }
 div.c2 {
     padding: 10px;
@@ -59,6 +59,7 @@ table.tabindex td {
     padding: 10px;
 }
 #default-content {
+    padding: 0 1em;
     font-family: 'Quintessential', cursive;
     font-size: 22px;
     line-height: 1.8;
