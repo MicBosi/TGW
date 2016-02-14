@@ -1,11 +1,22 @@
 <?php require("include/index.php"); 
 /*
 	TODO:
-	- divisione teoria/pratica
-	- nuova grafica: accordi, scale, box, video
-	- video progressioni/accordi
-	- FB comments
-	- copy cleanup
+	- Update graphics:
+		==|> JS library to render chords and scales.
+
+		* Chords and scales generated via JS/Canvas/SVG (ex. http://chordography.blogspot.co.uk, http://einaregilsson.com/chord-image-generator)
+			* Traverse all canvas objects with 'chord' class and read "data-" fields for parameters.
+			* Library of preset chords.
+		* Accordi (photo, schemi, tabs, audio, video).
+		* Strumming (video, tabs).
+		* Chord transposer.
+		* Scale (box, tabs, video, audio) - Again using JS.
+		* Chord progression builder, interactive.
+			* Play/save/share songs.
+	- Divisione teoria/pratica.
+	- Video progressioni/accordi.
+	- FB comments.
+	- Copy cleanup.
 */
 ?>
 <!DOCTYPE html>
