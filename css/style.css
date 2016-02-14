@@ -37,12 +37,12 @@ body {
     color: #FFFFFF;
     font-family: 'Quintessential', cursive;
 }
-pre {
-    font-family: monospace;
-    font-size: 16px;
-}
 h1, h2 {
     font-weight: normal;
+}
+pre {
+    font-family: monospace;
+    font-size: 14px;
 }
 div.c2 {
     padding: 10px;
@@ -60,7 +60,9 @@ table.tabindex td {
 }
 #default-content {
     font-family: 'Quintessential', cursive;
-    font-size: 20px;
+    font-size: 22px;
+    line-height: 1.8;
+    font-weight: normal;
 }
 #default-content h1 {
     text-transform: capitalize;
