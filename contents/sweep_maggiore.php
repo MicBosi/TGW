@@ -21,7 +21,7 @@ title: Sweep picking su accordi maggiori
 <font size=5>Q</font>uesta e la prossima sezione presentano dei pattern molto usati per correre su e giu' lungo tutte e sei le corde, con una estensione di più di due ottave!
 <br>Queste posizioni sono quelle che ho trovato più frequentemente sulle varie lezioni/video/tablature che ho visto, tutte le altre posizioni esistenti le puoi facilmente ricavare tagliando e/o concatenando queste posizioni base, a questo scopo sono molto utili tecniche quali il legato (Hammer On/Pull Off) e lo Slide.
 <br>Le posizioni segnate in rosso e in blu indicano le note che formano lo sweep. I pallini blu indicano che la stessa nota puo' essere suonata in due punti diversi. 
-<BR>Gli schemi A e C non sono difficili da memorizzare inquanto, a parte qualche piccola aggiunta, sono quasi identici a due accordi barrè che dovresti conoscere, lo schema B invece è quello che probabilmente rimmarrà più duro da digerire.
+<br>Gli schemi A e C non sono difficili da memorizzare inquanto, a parte qualche piccola aggiunta, sono quasi identici a due accordi barrè che dovresti conoscere, lo schema B invece è quello che probabilmente rimmarrà più duro da digerire.
 <br>
 <br>Imparare queste 3 posizioni base aiuterà immensamente il tuo senso d'orientamento  sulla tastiera e inoltre potrai trovare Sweep su accordi inconsueti apportando delle semplici modifiche a questi.
 <br>

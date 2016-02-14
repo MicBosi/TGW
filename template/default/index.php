@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+  <meta charset="UTF-8">
   <?php require("header.php"); ?>
   </head>
   <body bgcolor="#000000" text="#ffffff">
@@ -130,7 +131,7 @@
 
           <div style="text-align: center;">
             <div style="display: inline-block; border: 1px solid blue; padding: 5px; margin: 5px; font-weight: bold;">
-                  <a href="<?php echo $base_website_address; ?>" target="_top">Torna al menù principale</a>
+                  <a href="<?php echo $base_website_address; ?>" target="_top">Torna al menÃ¹ principale</a>
             </div>
           </div>
 

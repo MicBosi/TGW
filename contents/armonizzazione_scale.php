@@ -118,7 +118,7 @@ Locria
 </td></tr>
 </table>
 
-<BR>
+<br>
 <font size=5>A</font>rmonizzazione a quadriadi delle scale modali costruite sulla Scala Minore Armonica: <br>
 <table cellspacing=5 cellpadding=5  bgcolor=#000000>
 <tr>
@@ -219,7 +219,7 @@ Superlocrio diminuito
 </table>
 
 
-<BR>
+<br>
 <font size=5>A</font>rmonizzazione a quadriadi delle scale modali costruite sulla Scala Minore Melodica:<br>
 
 <table cellspacing=5 cellpadding=5  bgcolor=#000000>

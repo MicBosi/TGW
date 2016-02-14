@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+  <meta charset="UTF-8">
   <?php require("header.php"); ?>
   </head>
   <body bgcolor="#000000" text="#ffffff">

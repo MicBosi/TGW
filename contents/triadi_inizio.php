@@ -328,7 +328,7 @@ BLU = terza minore.<br>
 </td></tr>
 </table>
 
-<BR>
+<br>
 
 <font size=5>I</font>o suggerirei di esercitarsi sulla scala Pentatonica cercando volutamente di ricadere ogni misura (ogni tempo forte) in una 3a o 5a o 8a (tonica) della scala che stiamo usando, cercando di fissare bene queste note all'interno dei nostri box.<br>
 Una volta diventati pratici su certe note un ottimo esercizio può essere quello di compiere ampi salti tra i vari box e/o ottave...

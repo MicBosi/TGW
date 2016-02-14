@@ -12,7 +12,7 @@ Esse vengono classificate a seconda dell'idea di conclusione più o meno accentua
 <li type=square>SEMICONCLUSIVE
 <li type=square>NON CONCLUSIVE
 </FONT>
-<BR><BR>
+<br><br>
 <font size=5>C</font>he a loro volta si dividono in:<br>
 <!FONT SIZE=-1>
 <ol type=square>
@@ -23,14 +23,14 @@ Esse vengono classificate a seconda dell'idea di conclusione più o meno accentua
 Ad es. Sol ==> Do
 <li>PLAGALE: quando si passa da un accordo costruito sul IV ad uno costruito sul I grado.<br>
 Ad es. Fa ==> Do
-</ol><BR>
+</ol><br>
 
 
 <li>SEMICONCLUSIVA
 
 <ol type=square>
 <li>IMPERFETTA: quando si passa da un accordo costruito sul V ad uno costruito sul I grado e almeno uno dei due accordi è allo stato di rivolto.<br>
-</ol>	<BR>
+</ol>	<br>
 
 <li>NON CONCLUSIVA
 
@@ -40,7 +40,7 @@ Ad es. Rem ==> Sol
 <li>D'INGANNO: quando si passa da un accordo costruito sul V ad uno costruito su un grado diverso dal I.<br>
 <li>EVITATA: quando si passa da un accordo costruito sul V ad uno costruito su un'altra tonalità.<br>
 Ad es. Sol (tonalità di Do MAggiore) ==> Re (tonalità di Sol Maggiore).
-</ol><BR>
+</ol><br>
 
 </ol>	
 <!/FONT>

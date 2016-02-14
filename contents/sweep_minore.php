@@ -21,7 +21,7 @@ title: Sweep picking su accordi minori
 <font size=5>Q</font>uesta sezione presenta i pattern degli Sweep minori su tutte e sei le corde. Essi sono molto simili a quelli Maggiori visti nella sezione precedente.
 <br>Ricordati che queste non sono le unice posizioni possibili ma puoi ottenere delle posizioni personalizzate modificando queste e usando il legato (Hammer On/Pull Off) e lo Slide.
 <br>Anche qui le posizioni segnate in rosso e in blu indicano le note che formano lo sweep. I pallini blu indicano che la stessa nota puo' essere suonata in due punti diversi. 
-<BR>Gli schemi A e C non sono difficili da memorizzare, a parte qualche piccola aggiunta sono quasi identici a due accordi barrè che dovresti conoscere, anche qui lo schema B è quello che probabilmente rimmarrà più ostico.
+<br>Gli schemi A e C non sono difficili da memorizzare, a parte qualche piccola aggiunta sono quasi identici a due accordi barrè che dovresti conoscere, anche qui lo schema B è quello che probabilmente rimmarrà più ostico.
 <br>
 <br>Ricordati sempre le regole base per lo Sweep:
 <li>Le note devono suonare una alla volta.

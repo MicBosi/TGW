@@ -7,7 +7,7 @@ title: Leggere gli accordi negli spartiti per chitarra
 
 <b><font size=5>L</font></b>e note naturali Do, Re, Mi, Fa, Sol, La, Si hanno anche un'altro nome rispettivamente C, D, E, F, G, A, B.<br>
 La prima infatti è la <i>notazione latina</i> la seconda èla <i>notazione anglosassone</i>.<br>
-<BR>Ricapitolando:<br>
+<br>Ricapitolando:<br>
 Do = C<br>
 Re = D<br>
 Mi = E<br>

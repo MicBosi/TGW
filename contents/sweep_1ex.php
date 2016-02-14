@@ -331,7 +331,7 @@ Anche questo va eseguito a terzine (o sestine). Attenzione a rispettare le indic
 
 <br><b><i><font size=4>EX 14</font></i></b>
 <br>I seguenti due esercizi riprendono l'idea dei due precedenti ma su diteggiature di triadi diverse.
-<BR>Questo esercizio è basato su una triade maggiore.
+<br>Questo esercizio è basato su una triade maggiore.
 <pre>
                          n n  n v   v   n n n v   v   n n n v   v   n n n v   v   
 |-T-|---|---|---|-O-|  |------1-5p1---|-----2-6p2---|-----3-7p3---|-----4-8p4---

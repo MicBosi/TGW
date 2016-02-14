@@ -19,7 +19,7 @@ $cfg_dir = "cfg";
 $spartiti_dir = "discografia-canzoni";
 $activate_google_analitics = false;
 $base_website_address = "localhost:8080/theguitarwizard";
-// $base_website_address = "www.theguitarwizard.com";
+// $base_website_address = "theguitarwizard.com";
 $website_title = "The Guitar Wizard";
 $rss_description = "The Guitar Wizard";
 

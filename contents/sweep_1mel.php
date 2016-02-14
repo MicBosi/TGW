@@ -7,7 +7,7 @@ title: Sweep picking: esercizi melodici
 
 <font size=5>O</font>ra che abbiamo preso un po' di confidenza con lo Sweep, possiamo cercare di fare qualcosa di melodicamente più decente.
 <br>
-<bR>
+<br>
 Rivolti di triade maggiore.
 <table bgcolor=white><tr><td><!
 ><img src="fragments/nonnota.gif"><!
@@ -108,7 +108,7 @@ Rivolti di triade maggiore.
 ></td></tr>
 </table>
 
-<BR>
+<br>
 Rivolti di triade minore.
 <table bgcolor=white><tr><td><!
 ><img src="fragments/nonnota.gif"><!

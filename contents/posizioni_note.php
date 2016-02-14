@@ -6,7 +6,7 @@ title: Posizioni delle note
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
 <b><font size=5>D</font></b>i seguito presento le posizioni delle note sulla tastiera.
-<BR>
+<br>
 Per imparare le note su tutta la tastiera puo essere utile il seguente stratagemma: prima impara
  le note della prima e ultima corda, i due MI, poi impara le posizioni delle note sulla corda 
 numero 5, il LA. 

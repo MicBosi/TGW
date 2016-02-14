@@ -188,7 +188,7 @@ Locria
 </td></tr>
 </table>
 
-<BR>
+<br>
 <font size=5>P</font>er quanto riguarda la Scala Minore Armonica qui sotto sono presentate le scale modali costruite sui suoi sette gradi e i relativi schemi: <br><br>
 
 <table cellspacing=5 cellpadding=5  bgcolor=#000000>
@@ -290,7 +290,7 @@ Superlocrio diminuito
 </table>
 
 
-<BR>
+<br>
 <font size=5>P</font>er quanto riguarda la Scala Minore Melodica qui sotto sono presentate le scale modali costruite sui suoi sette gradi e i relativi schemi: <br><br>
 
 <table cellspacing=5 cellpadding=5  bgcolor=#000000>

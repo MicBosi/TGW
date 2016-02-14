@@ -8,7 +8,7 @@ title: Scala blues
 <font size=5>L</font>a prima scala che presentiamo in questa sede si chiama proprio <i>Scala Blues</i>, cosi' detta perché fra le tante usate in questo genere essa è la più frequente.<br>
 Essa deriva dalla scala pentatonica a cui si aggiunge una nota: la quinta diminuita alla scala Pentatonica Minore o la terza minore alla Pentatonica Maggiore, esse sono in realtà la stessa nota.<br>
 
-<br>Ad esempio: prendiamo la scala Pentatonica Minore di La per costruire la <i>Scala Blues Minore di La</i>: <bR>
+<br>Ad esempio: prendiamo la scala Pentatonica Minore di La per costruire la <i>Scala Blues Minore di La</i>: <br>
 
 <table  width="70%" border="0" cellspacing=5  cellpadding=0>
 

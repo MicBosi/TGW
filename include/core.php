@@ -93,7 +93,7 @@
 
   function print_msg($msg)
   {
-    echo "$msg<br/>\n";
+    echo "$msg<br>\n";
   }
 
   function parse_menu($file_name)

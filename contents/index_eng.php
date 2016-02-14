@@ -34,24 +34,24 @@ google_color_url = ["008000","008000","008000","AECCEB"];
           <td style="border: 1px solid gray;">
           <center>
           <font face="Georgia, Bedford" size="3"><a href="/forums/index.php#5" target="_blank">I Vostri
-          Articoli</a><sup>new!</sup></font><br/>
+          Articoli</a><sup>new!</sup></font><br>
           </center>
           </td>
           <td style="border: 1px solid gray;">
           <center>
           <font face="Georgia, Bedford" size="3"><a href="/forums/index.php#3" target="_blank">Domande Musica &amp;
-          Chitarra</a><sup>new!</sup></font><br/>
+          Chitarra</a><sup>new!</sup></font><br>
           </center>
           </td>
           <td style="border: 1px solid gray;">
           <center>
-          <font face="Georgia, Bedford" size="3"><a href="/forums/index.php#2" target="_blank">Annunci</a><sup>new!</sup></font><br/>
+          <font face="Georgia, Bedford" size="3"><a href="/forums/index.php#2" target="_blank">Annunci</a><sup>new!</sup></font><br>
           </center>
           </td>
           <td style="border: 1px solid gray;">
           <center>
           <font face="Georgia, Bedford" size="3"><a href="/forums/index.php#4" target="_blank">Pronto
-          Professionisti</a><sup>new!</sup></font><br/>
+          Professionisti</a><sup>new!</sup></font><br>
           </center>
           </td>
           -->
@@ -286,8 +286,8 @@ google_color_url = ["008000","008000","008000","AECCEB"];
                     <li>Substitutions</li>
                     <li>
                       Secondary dominants
-                    <br/>
-                    <br/></li>
+                    <br>
+                    <br></li>
                   </ul></td>
                 <td valign="top">
                   <ul>
@@ -331,8 +331,8 @@ google_color_url = ["008000","008000","008000","AECCEB"];
                     <H1 style="padding: 0px; margin: 0px; margin-top: 16px; font-weight: normal; font-size: 16px">READING THE CHORDS</H1>
                     <li>
                     <a title="leggere gli chords negli guitar tablature" href="accordi_siglatura.html">Chord names</a>
-                    <br/>
-                    <br/></li>
+                    <br>
+                    <br></li>
                   </ul></td>
                 <td valign="top">
                   <ul>
@@ -359,8 +359,8 @@ google_color_url = ["008000","008000","008000","AECCEB"];
                       Hexatonic scale</li>
                     <li>
                       Exotic scales
-                    <br/>
-                    <br/></li>
+                    <br>
+                    <br></li>
                   </ul>
 
                   </td>
@@ -429,8 +429,8 @@ google_color_url = ["008000","008000","008000","AECCEB"];
                   <ul>
                     <li>
                     <a href="pattern_intro.html">Patterns introduction</a>
-                    <br/>
-                    <br/>
+                    <br>
+                    <br>
                     FINGER EXERCIZES</li>
                     <li>
                       Exercizes outside the guitar</li>
@@ -440,8 +440,8 @@ google_color_url = ["008000","008000","008000","AECCEB"];
                       Exercizes with 3 fingers</li>
                     <li>
                       Exercizes with 4 fingers
-                    <br/>
-                    <br/>
+                    <br>
+                    <br>
                     MELODIC PATTERNS</li>
                     <li>
                     <a title="esercizi per sciogliere le dita e pattern principali" href="3_pattern_principali.html">Main patterns</a></li>
@@ -451,8 +451,8 @@ google_color_url = ["008000","008000","008000","AECCEB"];
                       Moving on the neck</li>
                     <li>
                       Licks
-                    <br/>
-                    <br/></li>
+                    <br>
+                    <br></li>
                   </ul></td>
                 <td valign="top">
                   <!--b-->
@@ -472,8 +472,8 @@ google_color_url = ["008000","008000","008000","AECCEB"];
                       Rhythm</li>
                     <li>
                       Licks &amp; Solos
-                    <br/>
-                    <br/></li>
+                    <br>
+                    <br></li>
                   </ul></td>
                 <td valign="top" align="center">
                 &nbsp;
