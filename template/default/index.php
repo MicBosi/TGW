@@ -107,31 +107,33 @@
             </tr>
           </table>
 
-          <div><?php require($content_path); ?></div>
-          <br>
-          <br>
+          <div id="default-content">
+            <?php require($content_path); ?>
+            <br>
+            <br>
 
-          <table border=0 cellspacing="0" cellpadding="0">
-            <tr>
-              <td>
-		<script type="text/javascript"><!--
-		google_ad_client = "ca-pub-1457183695568112";
-		/* LargeRectangleBasso */
-		google_ad_slot = "4712684750";
-		google_ad_width = 336;
-		google_ad_height = 280;
-		//-->
-		</script>
-		<script type="text/javascript"
-		src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-		</script>
-              </td>
-            </tr>
-          </table>
+            <table border=0 cellspacing="0" cellpadding="0">
+              <tr>
+                <td>
+              		<script type="text/javascript"><!--
+              		google_ad_client = "ca-pub-1457183695568112";
+              		/* LargeRectangleBasso */
+              		google_ad_slot = "4712684750";
+              		google_ad_width = 336;
+              		google_ad_height = 280;
+              		//-->
+              		</script>
+              		<script type="text/javascript"
+              		src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+              		</script>
+                </td>
+              </tr>
+            </table>
 
-          <div style="text-align: center;">
-            <div style="display: inline-block; border: 1px solid blue; padding: 5px; margin: 5px; font-weight: bold;">
-                  <a href="<?php echo $base_website_address; ?>" target="_top">Torna al menù principale</a>
+            <div style="text-align: center; margin-top: 2em;">
+              <div style="display: inline-block; border: 1px solid blue; padding: 2em;">
+                    <h2 style="margin: 0; padding: 0;"><a href="<?php echo $base_website_address; ?>" target="_top">Torna al menù principale</a></h2>
+              </div>
             </div>
           </div>
 

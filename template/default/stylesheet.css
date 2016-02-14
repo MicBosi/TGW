@@ -1,3 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=IM+Fell+English+SC|Quintessential&subset=latin,latin-ext);
+/*
+	font-family: 'Great Vibes', cursive;
+	font-family: 'Niconne', cursive;
+	font-family: 'Alex Brush', cursive;
+	font-family: 'Allura', cursive;
+	font-family: 'Fontdiner Swanky', cursive;
+	font-family: 'Merienda One', cursive;
+	font-family: 'Italianno', cursive;
+	font-family: 'Mr De Haviland', cursive;
+	font-family: 'Arizonia', cursive;
+	font-family: 'Oleo Script Swash Caps', cursive;
+	font-family: 'IM Fell English SC', serif;
+	font-family: 'Pompiere', cursive;
+	font-family: 'Henny Penny', cursive;
+	font-family: 'Griffy', cursive;
+	font-family: 'Italiana', serif;
+	font-family: 'Stalemate', cursive;
+	font-family: 'Quintessential', cursive;
+	font-family: 'Ruthie', cursive;
+	font-family: 'Lakki Reddy', cursive;
+*/
 a:link, a:visited { text-decoration: none; color: #fff080 }
 a:hover { text-decoration: none; color: red; }
 body { background-image: url("images/gw-shadow.jpg"); background-position: center 75; background-repeat: no-repeat; background-color: #000000; color: #FFFFFF; }
@@ -8,3 +30,27 @@ td.content_td { padding: 4px; }
 li { padding-left: 5px; margin: 0px; }
 ul { padding-left: 0px; margin: 0px; }
 div.li { padding:0px; padding-left: 5px; background: url(dot.png) no-repeat left 6px; }
+#default-content {
+	font-family: 'Quintessential', cursive;
+	font-size: 20px;
+}
+#default-content h1 {
+	text-transform: capitalize;
+	font-family: 'IM Fell English SC', serif;
+	font-size: 40px;
+	font-weight: normal;
+}
+#default-content h2 {
+	text-transform: capitalize;
+	font-family: 'IM Fell English SC', serif;
+	font-weight: normal;
+}
+#default-content p {
+	font-family: 'Quintessential', cursive;
+	font-size: 28px;
+}
+#default-content ul {
+	font-family: 'Quintessential', cursive;
+	font-size: 20px;
+}
+
