@@ -225,7 +225,7 @@ title: Scala minore naturale
 
 
 <pre>
-<font color=white bgcolor=red><b><i>BOX I, tonalit‡ di LAm (DO)</i>:</b>
+<font color=white bgcolor=red><b><i>BOX I, tonalit√† di LAm (DO)</i>:</b>
 
    ASCENDENTE                           DISCENDENTE
 ||-----------------------------6-7-8--|-8-7-6------------------------------||
@@ -347,7 +347,7 @@ title: Scala minore naturale
 
 
 <pre>
-<font color=white bgcolor=red><b><i>BOX II, tonalit‡ di MIm (SOL)</i>:</b>
+<font color=white bgcolor=red><b><i>BOX II, tonalit√† di MIm (SOL)</i>:</b>
 
    ASCENDENTE                           DISCENDENTE
 ||-----------------------------2-3-5--|-5-3-2------------------------------||
@@ -469,7 +469,7 @@ title: Scala minore naturale
 
 
 <pre>
-<font color=white bgcolor=red><b><i>BOX III, tonalit‡ di MIm (SOL)</i>:</b>
+<font color=white bgcolor=red><b><i>BOX III, tonalit√† di MIm (SOL)</i>:</b>
 
    ASCENDENTE                           DISCENDENTE
 ||-----------------------------5-7-8--|--8-7-5------------------------------||
@@ -593,7 +593,7 @@ title: Scala minore naturale
 
 
 <pre>
-<font color=white bgcolor=red><b><i>BOX IV, tonalit‡ di MIm (SOL)</i>:</b>
+<font color=white bgcolor=red><b><i>BOX IV, tonalit√† di MIm (SOL)</i>:</b>
 
    ASCENDENTE                               DISCENDENTE
 ||---------------------------------7-8-10-|-10-8-7---------------------------------||
@@ -715,7 +715,7 @@ title: Scala minore naturale
 
 
 <pre>
-<font color=white bgcolor=red><b><i>BOX V, tonalit‡ di LAm (DO)</i>:</b>
+<font color=white bgcolor=red><b><i>BOX V, tonalit√† di LAm (DO)</i>:</b>
 
    ASCENDENTE                         DISCENDENTE
 ||-----------------------------3-5--|-5-3------------------------------||

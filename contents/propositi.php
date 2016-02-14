@@ -8,10 +8,10 @@ title: Obbiettivi Di Questo Corso Di Chitarra Online
 <font size=><center>
 <br>
 <font color=red size=+2>
-Cosa Ë <i>The Guitar Wizard</i>?<br>
+Cosa √® <i>The Guitar Wizard</i>?<br>
 </font>
-<i>The Guitar Wizard</i> vuole essere non solo un corso di chitarra online ma una facile e veloce guida al mondo della musica oltre che della chitarra. Il suo obbiettivo Ë quello di esporre in maniera chiara e semplice, per quanto possibile, argomenti ritenuti ostici e antipatici dai pi˘ ma che invece sono i pi˘ divertenti e interessanti da esplorare.
-<font size=5>A</font>l momento <i>The Guitar Wizard</i> st‡ venendo totalmente ristrutturato, sia il corso di chitarra in sÈ che il resto del sito (uscita prevista per fine primavera) e nella prossima versione sar‡ migliorato graficamente, tecnologicamente ed arricchito di contenuti multimediali.
+<i>The Guitar Wizard</i> vuole essere non solo un corso di chitarra online ma una facile e veloce guida al mondo della musica oltre che della chitarra. Il suo obbiettivo √® quello di esporre in maniera chiara e semplice, per quanto possibile, argomenti ritenuti ostici e antipatici dai pi√π ma che invece sono i pi√π divertenti e interessanti da esplorare.
+<font size=5>A</font>l momento <i>The Guitar Wizard</i> st√† venendo totalmente ristrutturato, sia il corso di chitarra in s√© che il resto del sito (uscita prevista per fine primavera) e nella prossima versione sar√† migliorato graficamente, tecnologicamente ed arricchito di contenuti multimediali.
 <br><br>
 <font color=red size=+2>
 A Chi Interessa <i>The Guitar Wizard</i>?<br>
@@ -20,18 +20,18 @@ A Chi Interessa <i>The Guitar Wizard</i>?<br>
 
 <br><br>
 <font color=red size=+2>
-Come Ë Strutturato <i>The Guitar Wizard</i>?<br>
+Come √® Strutturato <i>The Guitar Wizard</i>?<br>
 </font>
-<i>The Guitar Wizard</i> Ë un corso di chitarra online diviso in tanti singoli argomenti organizzati in sezioni e spiegati in dettaglio uno a uno. Essi sono disposti in  ordine, cosi' che possano essere consultati in maniera sequenziale seguendo un filo logico.
+<i>The Guitar Wizard</i> √® un corso di chitarra online diviso in tanti singoli argomenti organizzati in sezioni e spiegati in dettaglio uno a uno. Essi sono disposti in  ordine, cosi' che possano essere consultati in maniera sequenziale seguendo un filo logico.
 Nonostante tale disposizione logica, io suggerisco di riferirsi alla sezione "percorsi" per sfruttare al meglio <i>The Guitar Wizard</i>.
-Essa Ë la sezione chiave di tutto il corso di chitarra: ti permetter‡ di ottimizzare il tuo tempo e di pianificare in maniera efficiente e personalizzata il tuo percorso di studio.
+Essa √® la sezione chiave di tutto il corso di chitarra: ti permetter√† di ottimizzare il tuo tempo e di pianificare in maniera efficiente e personalizzata il tuo percorso di studio.
 
 <br><br>
 <font color=red size=+2>
 Chi Sviluppa <i>The Guitar Wizard</i>?<br>
 </font>
-<font size=5>Q</font>uesto corso di chitarra Ë sviluppato da Michele Bosi (chitarrista tutto meno che professionista), che nel suo tempo libero migliora e aggiunge gli argomenti che via via apprende e affronta nel suo percorso di studi da autodidatta.
-<font size=5>T</font>utti possono partecipare allo sviluppo di <i>The Guitar Wizard</i>. Chiunque voglia arricchire questo corso di chitarra online con la propria esperienza e con le proprie opinioni Ë invitato a contattarmi tramite email a: <br>
+<font size=5>Q</font>uesto corso di chitarra √® sviluppato da Michele Bosi (chitarrista tutto meno che professionista), che nel suo tempo libero migliora e aggiunge gli argomenti che via via apprende e affronta nel suo percorso di studi da autodidatta.
+<font size=5>T</font>utti possono partecipare allo sviluppo di <i>The Guitar Wizard</i>. Chiunque voglia arricchire questo corso di chitarra online con la propria esperienza e con le proprie opinioni √® invitato a contattarmi tramite email a: <br>
 <br>
 <b><i>&#x68;&#x65;&#x6C;&#x6C;&#x6F;&#x40;&#x6D;&#x69;&#x63;&#x68;&#x65;&#x6C;&#x65;&#x62;&#x6F;&#x73;&#x69;&#x2E;&#x63;&#x6F;&#x6D;</i></b>
 <br>

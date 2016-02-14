@@ -173,7 +173,7 @@ google_color_url = ["008000","008000","008000","AECCEB"];
                   <font size="2">
                     Queste lezioni introducono i concetti fondamentali della teoria musicale e dell'armonia,
                     fondamentale per qualsiasi corso di chitarra degno di tale nome. Le lezioni spiegheranno
-                    come sono costruite le scale, gli accordi, cosa significa armonizzazione, cosa Ë la tonalit‡
+                    come sono costruite le scale, gli accordi, cosa significa armonizzazione, cosa √® la tonalit√†
                     e molto altro.
                   </font></td>
                 <td style="border: 1px solid gray;" background="images/bluesky.jpg" valign="top" width=25%>
@@ -182,13 +182,13 @@ google_color_url = ["008000","008000","008000","AECCEB"];
                     Le seguenti lezioni affronteranno il tema degli accordi, partendo dalla teoria ma con
                     particolare enfasi riguardo l'applicazione di questi concetti sulla chitarra. Le lezioni
                     mostreranno le diverse diteggiature delle varie tipologie di triadi fino ad arrivare a
-                    presentare gli schemi degli accordi pi˘ usati.
+                    presentare gli schemi degli accordi pi√π usati.
                   </font></td>
                 <td style="border: 1px solid gray;" background="images/bluesky.jpg" valign="top" width=25%>
                   <H1 style="padding: 0px; margin: 0px; font-weight: normal; font-size: 16px">SCALE</H1>
                   <font size="2">
                     Parte fondamentale del corso di chitarra sono le seguenti lezioni che mostrano
-                    le diteggiature delle scale pi˘ usate come la scala Maggiore, Minore, Melodica,
+                    le diteggiature delle scale pi√π usate come la scala Maggiore, Minore, Melodica,
                     Armonica, la scala Pentatonica, la scala Blues etc. In ogni lezione sono presentati gli schemi
                     delle scale e relative tablature per chitarra.
                     
@@ -253,7 +253,7 @@ google_color_url = ["008000","008000","008000","AECCEB"];
                     <li>
                     <a title="teoria per chitarra: suoni, toni e semitoni" href="toni.html">Suoni, Toni e Semitoni</a></li>
                     <li>
-                    <a title="teoria per chitarra: costruzione e tonalit‡ di una scala" href="scale_intervalli_tonalita.html">Scale, Intervalli, Tonalit‡</a></li>
+                    <a title="teoria per chitarra: costruzione e tonalit√† di una scala" href="scale_intervalli_tonalita.html">Scale, Intervalli, Tonalit√†</a></li>
                     <li>
                     <a title="teoria per chitarra: modulazione tra scale" href="circolo_delle_quinte.html">Circolo Delle Quarte e Quinte</a></li>
                     <li>
@@ -323,7 +323,7 @@ google_color_url = ["008000","008000","008000","AECCEB"];
                     <li>
                     <a title="accordi base per chitarra" href="primi_accordi.html">Primi Accordi</a></li>
                     <li>
-                    <a title="accordi per chitarra con il barrË" href="accordi_barre.html">Primi Accordi Col BarrË</a></li>
+                    <a title="accordi per chitarra con il barr√®" href="accordi_barre.html">Primi Accordi Col Barr√®</a></li>
                     <li>
                     <a title="power chord con la chitarra" href="power_chords.html">Power Chords</a></li>
                     <li>
@@ -394,13 +394,13 @@ google_color_url = ["008000","008000","008000","AECCEB"];
               <tr>
                 <td style="border: 1px solid gray;" background="images/bluesky.jpg" valign="top">
                   <H1 style="padding: 0px; margin: 0px; margin-top: 0px; font-weight: normal; font-size: 16px">TECHICHE</H1>
-                  <font size="2"> Le seguenti lezioni rappresentano la parte pi˘ tecnica del presente corso di chitarra. Per
-                  ognuna delle tecniche per chitarra pi˘ famose Ë infatti presente un gruppo di lezioni che ti permetter‡
-                  di espandere la tua creativit‡ con la chitarra.
+                  <font size="2"> Le seguenti lezioni rappresentano la parte pi√π tecnica del presente corso di chitarra. Per
+                  ognuna delle tecniche per chitarra pi√π famose √® infatti presente un gruppo di lezioni che ti permetter√†
+                  di espandere la tua creativit√† con la chitarra.
                   </font></td>
                 <td style="border: 1px solid gray;" background="images/bluesky.jpg" valign="top">
                   <H1 style="padding: 0px; margin: 0px; margin-top: 0px; font-weight: normal; font-size: 16px">ESERCIZI DI TECNICA</H1>
-                  <font size="2"> La seguenti lezioni di questo corso di chitarra ti mostreranno alcuni degli esercizi pi˘ utili
+                  <font size="2"> La seguenti lezioni di questo corso di chitarra ti mostreranno alcuni degli esercizi pi√π utili
                   allo scioglimento delle dita, ma anche patterns comuni che vengono spesso riutilizzati e combinati assieme
                   negli assoli e nelle improvvisazioni.
                   </font></td>
@@ -553,7 +553,7 @@ google_color_url = ["008000","008000","008000","AECCEB"];
           <td style="border: 1px solid gray;" valign="top" width="33%">
             <H1 style="padding: 0px; margin: 0px; font-weight: normal; font-size: 16px">
             <a href="link_didattica.html">DIDATTICA ON LINE</a></H1>
-            Internet offre una quantit‡ di informazioni sorprendente anche per il chitarrista ma non Ë facile districarsi in questo complicato labirinto. Qui troverai i link ai migliori siti di didattica per chitarra ed una
+            Internet offre una quantit√† di informazioni sorprendente anche per il chitarrista ma non √® facile districarsi in questo complicato labirinto. Qui troverai i link ai migliori siti di didattica per chitarra ed una
             breve presentazione di ognuno di essi.</td>
           <td style="border: 1px solid gray;" valign="middle" align="center" width="33%">
             <H1 style="padding: 0px; margin: 0px; font-weight: bold; font-size: 16px">
@@ -570,18 +570,18 @@ google_color_url = ["008000","008000","008000","AECCEB"];
           <td style="border: 1px solid gray;" valign="top" width="33%">
             <H1 style="padding: 0px; margin: 0px; font-weight: normal; font-size: 16px">
             <a href="link_software.html">SOFTWARE &amp; HARDWARE</a></H1>
-            Se cerchi un software per scrivere, ascoltare, creare musica e tablature con il computer questa Ë la sezione
+            Se cerchi un software per scrivere, ascoltare, creare musica e tablature con il computer questa √® la sezione
             che fa per te.</td>
           <td style="border: 1px solid gray;" valign="top" align="center" width="33%">
             <H1 style="padding: 0px; margin: 0px; font-weight: normal; font-size: 16px">
             <a href="link_ascolti.html">ASCOLTI SUGGERITI</a></H1>
-            Questa Ë una personale collezione di link ai siti di alcuni dei musicisti che preferisco da i quali Ë possibile scaricare anche file audio e video, sono certo
+            Questa √® una personale collezione di link ai siti di alcuni dei musicisti che preferisco da i quali √® possibile scaricare anche file audio e video, sono certo
             che li troverai interessanti.</td>
           <td style="border: 1px solid gray;" valign="top" align="right" width="33%">
             <H1 style="padding: 0px; margin: 0px; font-weight: normal; font-size: 16px">
             <a href="link_vari.html">VARI</a></H1>
             Qui troverai un elenco di collegamenti ordinati per
-            categorie, di varia (e dubbia) utilit‡.</td>
+            categorie, di varia (e dubbia) utilit√†.</td>
         </tr>
       </tbody>
     </table>

@@ -7,7 +7,7 @@ title: Triadi diminuite
 
 <font size=5>D</font>i seguito viene riportato lo schema generale della triade diminuita lungo la tastiera della chitarra con i primi schemi dei rivolti della triade presi uno a uno sulle varie corde.<br>
 Come abbiamo detto per le triadi maggiori e minori, per capire l'importanza di questi schemi basti pensare che molti chitarristi basano gran parte della loro improvvisazione solo sulle triadi.<br>
-Presto aggiungero' le principali posizioni per effettuare i primi sweep diminuiti (che sono tra i più difficili)!<br>
+Presto aggiungero' le principali posizioni per effettuare i primi sweep diminuiti (che sono tra i piÃ¹ difficili)!<br>
 <br>
 
 

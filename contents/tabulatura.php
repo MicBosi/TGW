@@ -18,8 +18,8 @@ MI  -0--|--3--7--------------------|---------------------------------|----------
 </pre>
 
 <br>
-<b><font size=5>L</font></b>a tabulatura è un metodo molto antico di scrivere la musica, esso essenzialmente si differenzia dal pentagramma per il fatto che specifica l'altezza delle note indicando quale tasto premere su una specifica corda.<br>
-La tabulatura infatti consiste in sei righi che rappresentano le sei corde della chitarra: la linea più bassa indica la corda più grave e la linea più alta indica la corda più acuta.<br>
+<b><font size=5>L</font></b>a tabulatura Ã¨ un metodo molto antico di scrivere la musica, esso essenzialmente si differenzia dal pentagramma per il fatto che specifica l'altezza delle note indicando quale tasto premere su una specifica corda.<br>
+La tabulatura infatti consiste in sei righi che rappresentano le sei corde della chitarra: la linea piÃ¹ bassa indica la corda piÃ¹ grave e la linea piÃ¹ alta indica la corda piÃ¹ acuta.<br>
 I numeri che vi sono scritti indicano in successione temporale quale tasto o quali tasti vanno premuti sopra la corda su cui si trova il numero in questione. Se due o tre numeri sono verticalmente sovrapposti, come all'inizio e alla fine dell'esempio sopra, vuol dire che quelle note vanno suonate contemporaneamente.<br>
 Le barre verticali indicano il confine tra una battuta ed un'altra.<br>
 Gli altri simboli maggiormente diffusi sono:
@@ -40,11 +40,11 @@ MI  -0--|-3--5-------------------|----------------------|----------
 
 <b><font size=5>I</font></b> simboli "^" e "v" indicano il verso della plettrata: ^=giu', v=su'. Al posto del simbolo "^" a volte troviamo "n".<br>
 I numeri che stanno sotto al tabulato indicano le dita da usare: 0=corda a vuoto, 1=indice, 2=medio, 3=anulare, 4=mignolo.<br>
-Quando dopo un numero incontriamo le lettere "h" (hammer on) o "p" (pull off) significa che le note immediatamente prima e dopo "h" o "p" devono essere suonate con la tecnica del legato e non essere plettrate. Incontriamo "h" quando il tasto che viene dopo "h" è più alto del primo, viceversa incontriamo "p" quando il numero del tasto che segue "p" è più piccolo di quello che lo precede.<br>
-Una "T" sopra una nota significa che quella nota è eseguita con la tecnica del tapping della mano destra.<br>
+Quando dopo un numero incontriamo le lettere "h" (hammer on) o "p" (pull off) significa che le note immediatamente prima e dopo "h" o "p" devono essere suonate con la tecnica del legato e non essere plettrate. Incontriamo "h" quando il tasto che viene dopo "h" Ã¨ piÃ¹ alto del primo, viceversa incontriamo "p" quando il numero del tasto che segue "p" Ã¨ piÃ¹ piccolo di quello che lo precede.<br>
+Una "T" sopra una nota significa che quella nota Ã¨ eseguita con la tecnica del tapping della mano destra.<br>
 <br>
 <b><font size=5>D</font></b>i solito la tabulatura non riporta le lunghezze delle note, per sapere la lunghezza delle le note si deve ascoltare direttamente la musica e ricordare. Per facilitare questo compito comunque possiamo orientarci senza troppi problemi grazie alle barre verticali che ci dicono quando cominciano e finiscono le battute.<br>
-Spesso per dare l'idea che una nota è più lunga di un'altra si usa lasciare dopo la nota interessata uno spazio adeguatamente lungo.<br>
+Spesso per dare l'idea che una nota Ã¨ piÃ¹ lunga di un'altra si usa lasciare dopo la nota interessata uno spazio adeguatamente lungo.<br>
 
 
 

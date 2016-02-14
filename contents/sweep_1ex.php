@@ -19,20 +19,20 @@ title: Sweep picking: esercizi introduttivi
           </table>
           <br>
 
-<font size=5>R</font>icapitolando, quello che devi tenere a mente è:
+<font size=5>R</font>icapitolando, quello che devi tenere a mente Ã¨:
 <li>Le note devono suonare una alla volta.
 <li>Due note sullo stesso tasto ma su corde diverse le suoni con lo stesso dito, usando il Rolling.
-<li>Il Rolling è il movimento leggermente rotatorio che un dito compie per far risuonare una corda e ammutolire le altre.
+<li>Il Rolling Ã¨ il movimento leggermente rotatorio che un dito compie per far risuonare una corda e ammutolire le altre.
 <li>Per ammutolire le corde si usa anche il Palm Muting.
 <li>Il movimento del plettro lungo le corde deve essere fluido e non "scattoso".
 <br>
 <br>
 <br>Questi che seguono sono degli esercizi non proprio musicali che servono a prendere un po' di confidenza con lo Sweep. 
-<br>Mentre ti eserciti, specialmente all'inizio concentrati separatamente una volta sulla fluidità della plettrata e una volta sulla precisione delle singole note specialmente per quanto riguarda il Rolling.
-<br>Fai questi esercizi il più possibile tutti i giorni, facendo pero' attenzione a non farti male alle articolazioni, lascia che si adattino con calma e naturalmente a questi nuovi movimenti.
-<br>Questi esercizi vanno eseguiti <b>sia in avanti che indietro</b>, comunque sono molto ripetitivi quindi non ti deve spaventare la loro quantità, inoltre alcune diteggiature dovrebbero esserti già familiari inquanto non sono altro che frammenti di triadi. 
+<br>Mentre ti eserciti, specialmente all'inizio concentrati separatamente una volta sulla fluiditÃ  della plettrata e una volta sulla precisione delle singole note specialmente per quanto riguarda il Rolling.
+<br>Fai questi esercizi il piÃ¹ possibile tutti i giorni, facendo pero' attenzione a non farti male alle articolazioni, lascia che si adattino con calma e naturalmente a questi nuovi movimenti.
+<br>Questi esercizi vanno eseguiti <b>sia in avanti che indietro</b>, comunque sono molto ripetitivi quindi non ti deve spaventare la loro quantitÃ , inoltre alcune diteggiature dovrebbero esserti giÃ  familiari inquanto non sono altro che frammenti di triadi. 
 <br>
-<br>Gli esercizi sono presentati come tablature accompagnati da uno schema come quello qua sotto che riassume la posizione delle dita usate, quando a un dito sono assegnate due o più corde sai che li' devi fare un piccolo barrè e usare la tecnica del Rolling. La lettera "T" indica che in quella posizione troviamo la tonica della triade.
+<br>Gli esercizi sono presentati come tablature accompagnati da uno schema come quello qua sotto che riassume la posizione delle dita usate, quando a un dito sono assegnate due o piÃ¹ corde sai che li' devi fare un piccolo barrÃ¨ e usare la tecnica del Rolling. La lettera "T" indica che in quella posizione troviamo la tonica della triade.
 <pre>
     _____Rolling con l'indice     _______Rolling con l'anulare
    /                             / 
@@ -47,7 +47,7 @@ title: Sweep picking: esercizi introduttivi
 
 <br>
 <br><b><i><font size=4>EX 1</font></i></b>
-<br>Da fare prima con il dito indice poi con il medio e poi con l'anulare l'esercizio arriva al 10° tasto ma se vuoi puoi farlo arrivare anche fino al 24! Quando hai preso confidenza con la diteggiatura
+<br>Da fare prima con il dito indice poi con il medio e poi con l'anulare l'esercizio arriva al 10Â° tasto ma se vuoi puoi farlo arrivare anche fino al 24! Quando hai preso confidenza con la diteggiatura
  potresti cambiare dita mentre sali o scendi.
 <pre>
 |---|-T-|---|---|
@@ -164,7 +164,7 @@ title: Sweep picking: esercizi introduttivi
 </pre>
 
 <br><b><i><font size=4>EX 5</font></i></b>
-<br>La diteggiatura è quasi identica al precedente ma su corde diverse.
+<br>La diteggiatura Ã¨ quasi identica al precedente ma su corde diverse.
 <br>Ormai credo che si sia capito la filosofia di questi esercizi, quindi da qui in avanti li vedrai "compattati".
 <pre>
 |---|---|---|---|
@@ -186,7 +186,7 @@ title: Sweep picking: esercizi introduttivi
 </pre>
 
 <br><b><i><font size=4>EX 6</font></i></b>
-<br>Anche qui usa le coppie di dita indice/medio e poi medio/anulare ma in piu è utile che qui alleni anche la coppia anulare/mignolo.
+<br>Anche qui usa le coppie di dita indice/medio e poi medio/anulare ma in piu Ã¨ utile che qui alleni anche la coppia anulare/mignolo.
 <pre>
 |---|---|---|---|  o  |---|---|---|---|  o  |---|---|---|---|
 |---|---|---|---|  p  |---|---|---|---|  p  |---|---|---|---|
@@ -206,7 +206,7 @@ title: Sweep picking: esercizi introduttivi
 </pre>
 
 <br><b><i><font size=4>EX 7</font></i></b>
-<br>Questa è una diteggiatura molto importante e non troppo difficile, come vedi non ci sono Rolling da fare. 
+<br>Questa Ã¨ una diteggiatura molto importante e non troppo difficile, come vedi non ci sono Rolling da fare. 
 <pre>
 |-O-|---|---|---|
 |---|-O-|---|---|
@@ -227,7 +227,7 @@ title: Sweep picking: esercizi introduttivi
 </pre>
 
 <br><b><i><font size=4>EX 8</font></i></b>
-<br>Questa diteggiatura la conosci di sicuro è una triade maggiore e ti ritroverai ad usarla spesso.
+<br>Questa diteggiatura la conosci di sicuro Ã¨ una triade maggiore e ti ritroverai ad usarla spesso.
 <pre>
                       n n n v v v n n n v v v n n n         v v v n n n v v v n n n v v v
 |-O-|---|---|---|  ||-----1-2---------3-4---------5-       -5---------4-3---------2-1-----||
@@ -240,7 +240,7 @@ title: Sweep picking: esercizi introduttivi
 </pre>
 
 <br><b><i><font size=4>EX 9</font></i></b>
-<br>Anche questa diteggiatura la conosci di sicuro è la triade minore relativa a quella vista sopra.
+<br>Anche questa diteggiatura la conosci di sicuro Ã¨ la triade minore relativa a quella vista sopra.
 <pre>
                       n n n v v v n n n v v v n n n         v v v n n n v v v n n n v v v
 |-O-|---|---|---|  ||-----0-1---------2-3---------4-       -4---------3-2---------1-0-----||
@@ -268,7 +268,7 @@ title: Sweep picking: esercizi introduttivi
 
 <br><b><i><font size=4>EX 11</font></i></b>
 <br>Simile al precedente ma con diteggiatura leggermente diversa.
-<br>Anche qui la diteggiatura da usare è una sola.
+<br>Anche qui la diteggiatura da usare Ã¨ una sola.
 <pre>
                       n n n v v v n n n v v v n n n         v v v n n n v v v n n n v v v
 |---|---|---|---|  ||-------------------------------       -------------------------------||
@@ -281,10 +281,10 @@ title: Sweep picking: esercizi introduttivi
 </pre>
 
 <br><b><i><font size=4>EX 12</font></i></b>
-<br>Questo esercizio va eseguito a terzine (o sestine) ed è basato su una triade maggiore.
-<br>E' presente anche un piccolo legato, il movimento del plettro all'inizio ti sembrerà 
-innaturale ma col tempo diventerà un punto di forza.
-Questo esercizio è più impegnativo degli altri ma anche più divertente.
+<br>Questo esercizio va eseguito a terzine (o sestine) ed Ã¨ basato su una triade maggiore.
+<br>E' presente anche un piccolo legato, il movimento del plettro all'inizio ti sembrerÃ  
+innaturale ma col tempo diventerÃ  un punto di forza.
+Questo esercizio Ã¨ piÃ¹ impegnativo degli altri ma anche piÃ¹ divertente.
 <pre>
                       n n  n v   v   n n n v   v   n n n v   v   n n n v   v   
 |-O-|---|---|-O-|  ||------2-5p2---|-----3-6p3---|-----4-7p4---|-----5-8p5---
@@ -306,7 +306,7 @@ Questo esercizio è più impegnativo degli altri ma anche più divertente.
 </pre>
 
 <br><b><i><font size=4>EX 13</font></i></b>
-<br>Uguale all'esercizio visto sopra ma basato su una triade minore ed è un po' più difficile del precedente.
+<br>Uguale all'esercizio visto sopra ma basato su una triade minore ed Ã¨ un po' piÃ¹ difficile del precedente.
 Anche questo va eseguito a terzine (o sestine). Attenzione a rispettare le indicazioni del plettro.
 <pre>
                          n n  n v   v   n n n v   v   n n n v   v   n n n v   v   
@@ -331,7 +331,7 @@ Anche questo va eseguito a terzine (o sestine). Attenzione a rispettare le indic
 
 <br><b><i><font size=4>EX 14</font></i></b>
 <br>I seguenti due esercizi riprendono l'idea dei due precedenti ma su diteggiature di triadi diverse.
-<br>Questo esercizio è basato su una triade maggiore.
+<br>Questo esercizio Ã¨ basato su una triade maggiore.
 <pre>
                          n n  n v   v   n n n v   v   n n n v   v   n n n v   v   
 |-T-|---|---|---|-O-|  |------1-5p1---|-----2-6p2---|-----3-7p3---|-----4-8p4---
@@ -374,7 +374,7 @@ Anche questo va eseguito a terzine (o sestine). Attenzione a rispettare le indic
  --------------|-------------|-------------|-------------||
   1 1 1 4 1 1    1 1 1 4 1 1   1 1 1 4 1 1   1 1 1 4 1 1 
 </pre>
-Esercizi di questo genere puoi inventarli tu in base alle tue esigense personali, ti basta dare un'occhiata alla sezione <a href="triade_maggiore.html">Triade Maggiore</a> e <a href="triade_minore.html">Triade Minore</a> per trovare tutte le posizioni possibili e immaginabili, se vuoi creare qualcosa di più esotico dai un'occhiata alle sezioni <a href="triade_aumentata.html">Triade Aumentata</a> e <a href="triade_diminuita.html">Triade Diminuita</a>
+Esercizi di questo genere puoi inventarli tu in base alle tue esigense personali, ti basta dare un'occhiata alla sezione <a href="triade_maggiore.html">Triade Maggiore</a> e <a href="triade_minore.html">Triade Minore</a> per trovare tutte le posizioni possibili e immaginabili, se vuoi creare qualcosa di piÃ¹ esotico dai un'occhiata alle sezioni <a href="triade_aumentata.html">Triade Aumentata</a> e <a href="triade_diminuita.html">Triade Diminuita</a>
 <br>
 <br>
 <center>

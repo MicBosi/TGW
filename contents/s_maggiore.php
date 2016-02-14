@@ -7,7 +7,7 @@ title: Scala maggiore
 
 <font size=5>P</font>er ora sono presenti solo le classiche diteggiature a BOX, presto aggiungero' le diteggiature a tre note per corda e oblique. Ricorda che queste diteggiature valgono anche per la scala minore naturale, basta pensare come tonica la nota numero 6.
 <br>Sotto al tablatura troverai l'indicazione delle dita da usare ( 1=INDICE, 2=MEDIO, 3=ANULARE, 4=MIGNOLO).
-<br>Le dita da usare possono variare leggermente a seconda delle tue preferenze, le tablature indicano quelle su cui io personalmente ho trovato maggiore fluidit‡.
+<br>Le dita da usare possono variare leggermente a seconda delle tue preferenze, le tablature indicano quelle su cui io personalmente ho trovato maggiore fluidit√†.
 
 
 <br><br>
@@ -241,7 +241,7 @@ BOX I
 </table>
 
 <pre>
-<font color=white bgcolor=red><b><i>BOX I TAB., tonalit‡ di SOL</i>:</b>
+<font color=white bgcolor=red><b><i>BOX I TAB., tonalit√† di SOL</i>:</b>
 
    ASCENDENTE                           DISCENDENTE
 ||-----------------------------2-3-5--|-5-3-2------------------------------||
@@ -371,7 +371,7 @@ BOX II
 </table>
 
 <pre>
-<font color=white bgcolor=red><b><i>BOX II, tonalit‡ di SOL</i>:</b>
+<font color=white bgcolor=red><b><i>BOX II, tonalit√† di SOL</i>:</b>
 
    ASCENDENTE                           DISCENDENTE
 ||-----------------------------5-7-8--|--8-7-5------------------------------||
@@ -500,7 +500,7 @@ BOX III
 
 
 <pre>
-<font color=white bgcolor=red><b><i>BOX III, tonalit‡ di SOL</i>:</b>
+<font color=white bgcolor=red><b><i>BOX III, tonalit√† di SOL</i>:</b>
 
    ASCENDENTE                               DISCENDENTE
 ||---------------------------------7-8-10-|-10-8-7---------------------------------||
@@ -632,7 +632,7 @@ BOX IV
 
 
 <pre>
-<font color=white bgcolor=red><b><i>BOX IV, tonalit‡ di DO</i>:</b>
+<font color=white bgcolor=red><b><i>BOX IV, tonalit√† di DO</i>:</b>
 
    ASCENDENTE                         DISCENDENTE
 ||-----------------------------3-5--|-5-3------------------------------||
@@ -762,7 +762,7 @@ BOX V
 
 
 <pre>
-<font color=white bgcolor=red><b><i>BOX V, tonalit‡ di DO</i>:</b>
+<font color=white bgcolor=red><b><i>BOX V, tonalit√† di DO</i>:</b>
 
    ASCENDENTE                           DISCENDENTE
 ||-----------------------------6-7-8--|-8-7-6------------------------------||

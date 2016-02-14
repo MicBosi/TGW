@@ -6,8 +6,8 @@ title: Percorsi di studio della chitarra
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
 <font size=4><center><i>Sezione in allestimento...<font !size=-1>un lungo allestimento...</font></i></center></font>
-<br><i>ATTENZIONE: il contenuto di questa sezione <u>non Ë legge nÈ oro colato</u> Ë solamente il mio tentativo personale di ordinare in qualche modo l'immenso materiale che un bravo chitarrista, sempre secondo me, dovrebbe conoscere.
-<br>Non Ë detto che tu la debba pensare come me e in questo caso non esitare a spedirmi una email, condividere le idee Ë il modo migliore e pi˘ veloce per migliorarle!</i>
+<br><i>ATTENZIONE: il contenuto di questa sezione <u>non √® legge n√© oro colato</u> √® solamente il mio tentativo personale di ordinare in qualche modo l'immenso materiale che un bravo chitarrista, sempre secondo me, dovrebbe conoscere.
+<br>Non √® detto che tu la debba pensare come me e in questo caso non esitare a spedirmi una email, condividere le idee √® il modo migliore e pi√π veloce per migliorarle!</i>
 <br>
 
 <br><b><font size=5>I</font></b> contenuti del sito sono essenzialmente di tre tipi:
@@ -18,7 +18,7 @@ title: Percorsi di studio della chitarra
 <br><b><font size=5>C</font></b>oncetti teorici.
 <br>A questa categoria appartengono:
 <li>La lettura della notazione musicale classica (pentagramma, chiavi, note, pause, segni dinamici etc.), dei tablature, degli schemi degli accordi.
-<li>La teoria generale dei toni/semitoni, costruzione delle scale, vari tipi di scale, tonalit‡ e rapporti tra le scale, ritmi e tempi.
+<li>La teoria generale dei toni/semitoni, costruzione delle scale, vari tipi di scale, tonalit√† e rapporti tra le scale, ritmi e tempi.
 <li>Armonia: consonanze e dissonanze, armonici, triadi, armonizzazioni delle scale, vari tipi di accordi, rapporti tra i vari tipi di accordi e tra accordi e scale.
 <br>
 <br><b><font size=5>C</font></b>onoscenze Pratiche.
@@ -38,10 +38,10 @@ title: Percorsi di studio della chitarra
 <br>
 
 
-<br><b><font size=5>L</font></b>o schemetto rappresentato qua sopra rappresenta a grandi linee gran parte del contenuto del sito (la sezione con gli accompagnamenti per le improvvisazioni, l'ear-training, una parte della lettura musicale, alcune parti, molto interessanti, dell'armonia, nonchË lo studio specifico delle tecniche quali sweep, tapping etc. purtroppo non sono ancora state comprese).
-<br>Per ora l'unico consiglio che posso darti per orientarti meglio e decidere cosa studiare Ë questo: <i> devi assolutamente chiederti cosa vuoi diventare e quali capacit‡ vuoi sviluppare maggiormente</i>. 
-<br>Quando ti sarai dato una risposta, il che non Ë affatto facile, saprai quali sono le cose che ti interessano e quali no.
+<br><b><font size=5>L</font></b>o schemetto rappresentato qua sopra rappresenta a grandi linee gran parte del contenuto del sito (la sezione con gli accompagnamenti per le improvvisazioni, l'ear-training, una parte della lettura musicale, alcune parti, molto interessanti, dell'armonia, nonch√® lo studio specifico delle tecniche quali sweep, tapping etc. purtroppo non sono ancora state comprese).
+<br>Per ora l'unico consiglio che posso darti per orientarti meglio e decidere cosa studiare √® questo: <i> devi assolutamente chiederti cosa vuoi diventare e quali capacit√† vuoi sviluppare maggiormente</i>. 
+<br>Quando ti sarai dato una risposta, il che non √® affatto facile, saprai quali sono le cose che ti interessano e quali no.
 <br>Personalmente, in caso di indecisione, ti consiglio di privilegiare l'aspetto pratico, ovvero, impara nuovi accordi ed esercitati con impegno, impara un box, poi un'altro, poi una scala, fai pratica, improvvisa, mescola accordi e scale, cerca di ricordare le toniche e le note dell'accordo di tonica, cura la precisione e la purezza del suono, l'eleganza del movimento, crea.
 <br>
-<br><b><font size=5>A</font></b>ppena avro' un briciolo di tempo su questa sezione troverai esattamente quali argomenti sono coperti da GuitarWizard e quali no. Quali imparare, come e perchÈ. Quali esercizi privilegiare e  quali capacit‡ sviluppare in funzione delle tue inclinazioni personali.
-<br>Francamente Ë un lavoro ciclopico, nonostante cio', nel frattempo, getto le basi e coltivo le idee...
+<br><b><font size=5>A</font></b>ppena avro' un briciolo di tempo su questa sezione troverai esattamente quali argomenti sono coperti da GuitarWizard e quali no. Quali imparare, come e perch√©. Quali esercizi privilegiare e  quali capacit√† sviluppare in funzione delle tue inclinazioni personali.
+<br>Francamente √® un lavoro ciclopico, nonostante cio', nel frattempo, getto le basi e coltivo le idee...

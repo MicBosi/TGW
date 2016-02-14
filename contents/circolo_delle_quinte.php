@@ -1,24 +1,24 @@
 <!--
 keywords: spartiti, chitarra, spartiti chitarra, testi, canzoni, tablature, corso, lezioni, scale, accordi, sweep, tapping, picking, musica
-description: Questa lezione spiega cosa Ë il circolo delle quarte e delle quinte.
+description: Questa lezione spiega cosa √® il circolo delle quarte e delle quinte.
 title: Circolo delle quarte e quinte
 -->
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
-<font size=5>C</font>ome abbiamo visto in <a href="scale_intervalli_tonalita.html">Scale, Intervalli, Tonalit‡</a>, le scale non sono altro che degli schemi astratti applicabili a tutte e 12 le note, ovvero a tutte e 12 le tonalit‡. Spesse volte comunque capita che un pezzo musicale  moduli tonalit‡, cioË cambi tonalit‡ innalzandola o abbassandola. Ad esempio puo' capitare che un pezzo cominci con una Scala Maggiore di Do, poi si ritrovi in Sol e magari poi ritorni in Do.<br>
+<font size=5>C</font>ome abbiamo visto in <a href="scale_intervalli_tonalita.html">Scale, Intervalli, Tonalit√†</a>, le scale non sono altro che degli schemi astratti applicabili a tutte e 12 le note, ovvero a tutte e 12 le tonalit√†. Spesse volte comunque capita che un pezzo musicale  moduli tonalit√†, cio√® cambi tonalit√† innalzandola o abbassandola. Ad esempio puo' capitare che un pezzo cominci con una Scala Maggiore di Do, poi si ritrovi in Sol e magari poi ritorni in Do.<br>
 Questo tipo di modulazione si dice <i>tonale</i>.<br>
-In genere per cambiare tonalit‡ si sceglie una tonalit‡ di arrivo che sia il pi˘ vicino possibile a quella di partenza. Per "vicino" si intende una tonalit‡ con il numero di note diverse da quelle della scala di partenza il pi˘ basso posibile.<br>Due tonalit‡ diverse hanno solitamente almeno una nota diversa tra loro.<br> Se dobbiamo arrivare ad una tonalit‡ con 3 o 4 note diverse rispetto a quella di partenza, prima moduliamo a quella che ne ha una sola, poi a quella che ne ha due e cosi' via.<br>
-Se ad esempio stiamo scrivendo un pezzo in tonalit‡ di Do, Scala Maggiore (Do Re Mi Fa Sol La Si) e vogliamo modulare alla tonalit‡ della Scala Maggiore di Re (Re Mi Fa# Sol La Si Do#), vediamo che le note da modificare sono 2 Fa->Fa# e Do->Do#, percui decidiamo di passare prima dalla Scala Maggiore Di Sol (Sol La Si Do Re Mi Fa# ) cambiando il Fa poi, dopo qualche nota, aggiungiamo il Do# mancante e il gioco Ë fatto.<br>Se cambiassimo due note contemporaneamente otterremo un effetto alquanto sgradevole per il nostro orecchio.<br>
-Ogni tonalit‡ Ë contraddistinta da un certo numero di diesis e bemolle applicati a determinate note, queste alterazioni vengono poste all'inizio del pentagramma, vengono dette <i>alterazioni in chiave</i> e sono costanti per tutta la durata del pezzo a meno che non venga specificato diversamente.<br>
-Ad esempio la tonalit‡ di Do Maggiore Ëcaratterizzata dal non avere alcuna alterazione, la tonalit‡ di Sol Maggiore ha il <i>Fa# in chiave</i>, la tonalit‡ di Re Maggiore ha il <i>Fa# e il Do# in chiave</i>.<br>
-Utilizzando le note di ogni Scala Maggiore Ë possibile costruire un <i>Scala Minore Naturale</i>, detta anche <i>relativa minore</i>, essa Ë costruita a partire da un tono 1 e 1/2 sotto la tonica della Scala Maggiore e si denota con una "m" subito dopo il nome della tonalit‡. Ad esempio la relativa minore della Scala Maggiore di Do Ë la Scala Minore Naturale di La (Lam).<br><br>
+In genere per cambiare tonalit√† si sceglie una tonalit√† di arrivo che sia il pi√π vicino possibile a quella di partenza. Per "vicino" si intende una tonalit√† con il numero di note diverse da quelle della scala di partenza il pi√π basso posibile.<br>Due tonalit√† diverse hanno solitamente almeno una nota diversa tra loro.<br> Se dobbiamo arrivare ad una tonalit√† con 3 o 4 note diverse rispetto a quella di partenza, prima moduliamo a quella che ne ha una sola, poi a quella che ne ha due e cosi' via.<br>
+Se ad esempio stiamo scrivendo un pezzo in tonalit√† di Do, Scala Maggiore (Do Re Mi Fa Sol La Si) e vogliamo modulare alla tonalit√† della Scala Maggiore di Re (Re Mi Fa# Sol La Si Do#), vediamo che le note da modificare sono 2 Fa->Fa# e Do->Do#, percui decidiamo di passare prima dalla Scala Maggiore Di Sol (Sol La Si Do Re Mi Fa# ) cambiando il Fa poi, dopo qualche nota, aggiungiamo il Do# mancante e il gioco √® fatto.<br>Se cambiassimo due note contemporaneamente otterremo un effetto alquanto sgradevole per il nostro orecchio.<br>
+Ogni tonalit√† √® contraddistinta da un certo numero di diesis e bemolle applicati a determinate note, queste alterazioni vengono poste all'inizio del pentagramma, vengono dette <i>alterazioni in chiave</i> e sono costanti per tutta la durata del pezzo a meno che non venga specificato diversamente.<br>
+Ad esempio la tonalit√† di Do Maggiore √®caratterizzata dal non avere alcuna alterazione, la tonalit√† di Sol Maggiore ha il <i>Fa# in chiave</i>, la tonalit√† di Re Maggiore ha il <i>Fa# e il Do# in chiave</i>.<br>
+Utilizzando le note di ogni Scala Maggiore √® possibile costruire un <i>Scala Minore Naturale</i>, detta anche <i>relativa minore</i>, essa √® costruita a partire da un tono 1 e 1/2 sotto la tonica della Scala Maggiore e si denota con una "m" subito dopo il nome della tonalit√†. Ad esempio la relativa minore della Scala Maggiore di Do √® la Scala Minore Naturale di La (Lam).<br><br>
 
 Esempi di alterazioni in chiave.<br>
 <img src="fragments/diesis in chiave.gif" alt="Alterazioni in chiave">
 <img src="fragments/bemolle in chiave.gif" alt="Alterazioni in chiave"><br><br>
 
 
-<font size=5>L</font>o schema seguente indica le varie tonalit‡ (Scale Maggiori e relative minori) con le caratteristiche alterazioni in chiave. Le tonalit‡ dello stesso colore si susseguono aumentando o diminuendo di uno il numero di alterazioni in chiave.<br><br>
+<font size=5>L</font>o schema seguente indica le varie tonalit√† (Scale Maggiori e relative minori) con le caratteristiche alterazioni in chiave. Le tonalit√† dello stesso colore si susseguono aumentando o diminuendo di uno il numero di alterazioni in chiave.<br><br>
 
 <table border=0 bgcolor=black cellpadding=2>
 <tr>
@@ -195,6 +195,6 @@ Fa#<br>
 </tr>
 </table> </td> </tr> </table>
 <br>
-<font size=5>L</font>o schema puo' essere letto da destra verso sinistra: in questo caso le tonalit‡ dello stesso colore distano tra loro una quinta giusta.<br>
-Oppure puo' essere letto da sinistra verso destra: in questo caso le tonalit‡ dello stesso colore distano tra loro di una quarta giusta.<br>
-Le tonalit‡ maggiori di Si e Do<i>b</i> (e le loro relative minori) sono in realt‡ tonalit‡ <i>omofone</i>, ovvero hanno nomi diversi ma i loro suoni sono uguali. La stessa cosa vale per le coppie Sol<i>b</i>-Fa# e Re<i>b</i>-C#
+<font size=5>L</font>o schema puo' essere letto da destra verso sinistra: in questo caso le tonalit√† dello stesso colore distano tra loro una quinta giusta.<br>
+Oppure puo' essere letto da sinistra verso destra: in questo caso le tonalit√† dello stesso colore distano tra loro di una quarta giusta.<br>
+Le tonalit√† maggiori di Si e Do<i>b</i> (e le loro relative minori) sono in realt√† tonalit√† <i>omofone</i>, ovvero hanno nomi diversi ma i loro suoni sono uguali. La stessa cosa vale per le coppie Sol<i>b</i>-Fa# e Re<i>b</i>-C#

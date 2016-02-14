@@ -6,7 +6,7 @@ title: Leggere gli accordi negli spartiti per chitarra
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
 <b><font size=5>L</font></b>e note naturali Do, Re, Mi, Fa, Sol, La, Si hanno anche un'altro nome rispettivamente C, D, E, F, G, A, B.<br>
-La prima infatti è la <i>notazione latina</i> la seconda èla <i>notazione anglosassone</i>.<br>
+La prima infatti Ã¨ la <i>notazione latina</i> la seconda Ã¨la <i>notazione anglosassone</i>.<br>
 <br>Ricapitolando:<br>
 Do = C<br>
 Re = D<br>
@@ -16,7 +16,7 @@ Sol= G<br>
 La = A<br>
 Si = B<br>
 
-<br><b><font size=5>P</font></b>er quanto riguarda la rappresentazione degli accordi, il seguente schema mostra quella più usata:<br>
+<br><b><font size=5>P</font></b>er quanto riguarda la rappresentazione degli accordi, il seguente schema mostra quella piÃ¹ usata:<br>
 
 
 <table border=0>
@@ -40,7 +40,7 @@ MI<br>
 
 
 
-<br><b><font size=5>L</font></b>o schema rappresenta i primi quattro tasti del manico della chitarra, le linee orizzontali rappresentano le sei corde, in basso la più grave in alto la più acuta, le linee verticali rappresentano i tasti, la prima linea verticale più spessa indica il capotasto.<br>
+<br><b><font size=5>L</font></b>o schema rappresenta i primi quattro tasti del manico della chitarra, le linee orizzontali rappresentano le sei corde, in basso la piÃ¹ grave in alto la piÃ¹ acuta, le linee verticali rappresentano i tasti, la prima linea verticale piÃ¹ spessa indica il capotasto.<br>
 Lo zero prima del capotasto indica che relativa la corda va suonata a vuoto, la "X" indica che la corda non va suonata.<br>
 I numeri che stanno dopo il capotasto indicano il dito da usare per premere il relativo tasto/corda, secondo il seguente schema:<br>
 <br>1 = Indice.
@@ -48,8 +48,8 @@ I numeri che stanno dopo il capotasto indicano il dito da usare per premere il r
 <br>3 = Anulare.
 <br>4 = Mignolo.
 <br>
-<br><b><font size=5>S</font></b>pesso si usa una notazione più sintetica per descrivere un accordo che indica solo il numero del tasto che viene premuto, ad esempio l'accordo mostrato sopra secondo questa notazione viene descritto cosi': X32010.<br>
-In questa notazione i numeri indicano il numero del tasto da premere e non il dito da usare, la nota più grave è quella a destra e la più acuta è a sinistra. La "X" indica che la corda non deve essere usata, lo "0" indica che la corda deve essere suonata senza premere alcun tasto (corda a vuoto). Un eventuale numero romano in basso indica la posizione dell'accordo sulla tastiera.<br>
+<br><b><font size=5>S</font></b>pesso si usa una notazione piÃ¹ sintetica per descrivere un accordo che indica solo il numero del tasto che viene premuto, ad esempio l'accordo mostrato sopra secondo questa notazione viene descritto cosi': X32010.<br>
+In questa notazione i numeri indicano il numero del tasto da premere e non il dito da usare, la nota piÃ¹ grave Ã¨ quella a destra e la piÃ¹ acuta Ã¨ a sinistra. La "X" indica che la corda non deve essere usata, lo "0" indica che la corda deve essere suonata senza premere alcun tasto (corda a vuoto). Un eventuale numero romano in basso indica la posizione dell'accordo sulla tastiera.<br>
 Ad es.<br><br>
 
 Sol

@@ -38,7 +38,7 @@
   <div class="li">
   <a title="teoria per chitarra: suoni, toni e semitoni" href="<?php echo "$base_website_address/"; ?>toni.html">Suoni, Toni e Semitoni</a></div>
   <div class="li">
-  <a title="teoria per chitarra: costruzione e tonalit‡ di una scala" href="<?php echo "$base_website_address/"; ?>scale_intervalli_tonalita.html">Scale, Intervalli, Tonalit‡</a></div>
+  <a title="teoria per chitarra: costruzione e tonalit√† di una scala" href="<?php echo "$base_website_address/"; ?>scale_intervalli_tonalita.html">Scale, Intervalli, Tonalit√†</a></div>
   <div class="li">
   <a title="teoria per chitarra: modulazione tra scale" href="<?php echo "$base_website_address/"; ?>circolo_delle_quinte.html">Circolo Delle Quarte e Quinte</a></div>
   <div class="li">
@@ -84,7 +84,7 @@
   <div class="li">
   <a title="accordi base per chitarra" href="<?php echo "$base_website_address/"; ?>primi_accordi.html">Primi Accordi</a></div>
   <div class="li">
-  <a title="accordi per chitarra con il barrË" href="<?php echo "$base_website_address/"; ?>accordi_barre.html">Primi Accordi Col BarrË</a></div>
+  <a title="accordi per chitarra con il barr√®" href="<?php echo "$base_website_address/"; ?>accordi_barre.html">Primi Accordi Col Barr√®</a></div>
   <div class="li">
   <a title="power chord con la chitarra" href="<?php echo "$base_website_address/"; ?>power_chords.html">Power Chords</a></div>
   <div class="li">

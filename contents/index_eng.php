@@ -251,7 +251,7 @@ google_color_url = ["008000","008000","008000","AECCEB"];
                     <li>
                     <a title="teoria per chitarra: suoni, toni e semitoni" href="toni.html">Sounds, tones and halftones</a></li>
                     <li>
-                    <a title="teoria per chitarra: costruzione e tonalità di una scala" href="scale_intervalli_tonalita.html">Scales, intervals and pitch</a></li>
+                    <a title="teoria per chitarra: costruzione e tonalitÃ  di una scala" href="scale_intervalli_tonalita.html">Scales, intervals and pitch</a></li>
                     <li>
                     <a title="teoria per chitarra: modulazione tra scale" href="circolo_delle_quinte.html">The circle of fourths and fifths</a></li>
                     <li>
@@ -311,7 +311,7 @@ google_color_url = ["008000","008000","008000","AECCEB"];
                     <li>
                     <a title="chords base per chitarra" href="primi_accordi.html">First chords</a></li>
                     <li>
-                    <a title="chords per chitarra con il barrè" href="accordi_barre.html">First barrè chords</a></li>
+                    <a title="chords per chitarra con il barrÃ¨" href="accordi_barre.html">First barrÃ¨ chords</a></li>
                     <li>
                     <a title="power chords con la chitarra" href="power_chords.html">Power chords</a></li>
                     <li>

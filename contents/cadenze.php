@@ -6,7 +6,7 @@ title: Cadenze degli accordi
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
 <font size=5>S</font>i chiama cadenza la successione di accordi che concludono un inciso, una frase o un brano.<br>
-Esse vengono classificate a seconda dell'idea di conclusione pi˘ o meno accentuata che trasmettono. Esse possono essere dette.<br>
+Esse vengono classificate a seconda dell'idea di conclusione pi√π o meno accentuata che trasmettono. Esse possono essere dette.<br>
 <FONT SIZE=-1>
 <li type=square>CONCLUSIVE
 <li type=square>SEMICONCLUSIVE
@@ -29,7 +29,7 @@ Ad es. Fa ==> Do
 <li>SEMICONCLUSIVA
 
 <ol type=square>
-<li>IMPERFETTA: quando si passa da un accordo costruito sul V ad uno costruito sul I grado e almeno uno dei due accordi Ë allo stato di rivolto.<br>
+<li>IMPERFETTA: quando si passa da un accordo costruito sul V ad uno costruito sul I grado e almeno uno dei due accordi √® allo stato di rivolto.<br>
 </ol>	<br>
 
 <li>NON CONCLUSIVA
@@ -38,8 +38,8 @@ Ad es. Fa ==> Do
 <li>SOSPESA: quando si passa da un accordo qualunque ad uno costruito sul V grado.<br>
 Ad es. Rem ==> Sol
 <li>D'INGANNO: quando si passa da un accordo costruito sul V ad uno costruito su un grado diverso dal I.<br>
-<li>EVITATA: quando si passa da un accordo costruito sul V ad uno costruito su un'altra tonalit‡.<br>
-Ad es. Sol (tonalit‡ di Do MAggiore) ==> Re (tonalit‡ di Sol Maggiore).
+<li>EVITATA: quando si passa da un accordo costruito sul V ad uno costruito su un'altra tonalit√†.<br>
+Ad es. Sol (tonalit√† di Do MAggiore) ==> Re (tonalit√† di Sol Maggiore).
 </ol><br>
 
 </ol>	

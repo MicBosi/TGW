@@ -1,6 +1,6 @@
 <!--
 keywords: spartiti, chitarra, spartiti chitarra, testi, canzoni, tablature, corso, lezioni, scale, accordi, sweep, tapping, picking, musica
-description: Questa lezione mostra con dei semplici schemi le relazioni tra i principali accordi barrè ed il loro sviluppo sulla tastiera della chitarra.
+description: Questa lezione mostra con dei semplici schemi le relazioni tra i principali accordi barrÃ¨ ed il loro sviluppo sulla tastiera della chitarra.
 title: Relazioni tra gli accordi
 -->
 <h1 class="title"><?php echo $header['title']; ?></h1>
@@ -271,22 +271,22 @@ MI<br>
 
 
 <br>
-<font size=5>G</font>li schemi qua sotto rappresentano una tastiera con le posizioni degli accordi tipo I e tipo II in tonalità di Do maggiore: <br>
-- la riga più bassa rappresenta tutti gli accordi fatti sul tipo I. <br>
-- la riga più alta rappresenta tutti gli accordi fatti sul tipo II.<br>
+<font size=5>G</font>li schemi qua sotto rappresentano una tastiera con le posizioni degli accordi tipo I e tipo II in tonalitÃ  di Do maggiore: <br>
+- la riga piÃ¹ bassa rappresenta tutti gli accordi fatti sul tipo I. <br>
+- la riga piÃ¹ alta rappresenta tutti gli accordi fatti sul tipo II.<br>
 - i numeri romani rappresentano i gradi della scala e gli accordi costruiti su di essi con il relativo modo maggiore o minore o diminuito.<br>
-- i numeri con sfondo blu indicano i tasti su cui effettuare il barrè.<br>
-- gli accordi siglati con "dim" non sono accordi del tipo I e II visti sopra, essi sono usati più raramente quindi per ora basterà ignorarli.<br>
+- i numeri con sfondo blu indicano i tasti su cui effettuare il barrÃ¨.<br>
+- gli accordi siglati con "dim" non sono accordi del tipo I e II visti sopra, essi sono usati piÃ¹ raramente quindi per ora basterÃ  ignorarli.<br>
 
-<br><font size=5>M</font>emorizzando tali schemi e riportandoli in tutte le tonalità essi ci sono molto utili per
-trovare al volo un certo accordo barrè, senza perdere tempo in vergognosi e ripetuti 
+<br><font size=5>M</font>emorizzando tali schemi e riportandoli in tutte le tonalitÃ  essi ci sono molto utili per
+trovare al volo un certo accordo barrÃ¨, senza perdere tempo in vergognosi e ripetuti 
 tentativi alla cieca. <br>
 Per facilitarci la memorizzazione ricordiamoci che tra un accordo in posizione I ed uno in posizione II passa un intervallo di quarta ascendente ( ad es. [I]-II-III-[IV] ), che possiamo immaginarlo anche come quinta discendente ( ad es. [I]-VII-VI-V-[IV] .<br>
-Le posizioni più importanti da avere sott'occhio sono quelle degli accordi sul I° IV° e V° grado.<br>
+Le posizioni piÃ¹ importanti da avere sott'occhio sono quelle degli accordi sul IÂ° IVÂ° e VÂ° grado.<br>
 I POWER-CHORD traggono il massimo del vantaggio da questi schemi, specialmente per i metallari!<br>
 
 
-<br><font size=5>D</font>isposizione degli accordi barrè sulla tastiera in DO maggiore:
+<br><font size=5>D</font>isposizione degli accordi barrÃ¨ sulla tastiera in DO maggiore:
 <table border="0" width="100%" cellpadding="5" BGCOLOR="#404040" >
 <tr align="center">
 <td bgcolor="#000045"><h3> II </td>

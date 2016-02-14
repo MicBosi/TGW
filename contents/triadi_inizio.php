@@ -5,7 +5,7 @@ title: Triadi: prime diteggiature
 -->
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
-<font size=5>I</font>n questo paragrafo presento le posizioni degli intervalli di 3° 5° e 8°, molto utili per trovare le note lungo tutta la tastiera di un certo accordo o per far saltare un fraseggio su una nota specifica. Ad esempio le note preferite per cominciare un fraseggio solitamente sono il I° (ovviamente) il V° e il IV° grado della scala che stiamo usando.<br>
+<font size=5>I</font>n questo paragrafo presento le posizioni degli intervalli di 3Â° 5Â° e 8Â°, molto utili per trovare le note lungo tutta la tastiera di un certo accordo o per far saltare un fraseggio su una nota specifica. Ad esempio le note preferite per cominciare un fraseggio solitamente sono il IÂ° (ovviamente) il VÂ° e il IVÂ° grado della scala che stiamo usando.<br>
 Questi schemi ci permettono di trovare queste note "al volo" quando vogliamo e sono indispensabili per effettuare i bicordi e i fraseggi armonizzati classici del Rhythm & Blues e usati a piene mani anche da un certo Hendrix!<br>
 Anche se un singolo schema appare abbastanza semplice, per essere "digerite" necessitano di una certa pratica e in particolare per essere visualizzate bene all'interno dei nostri BOX.
 Esse ci sono di grande aiuto anche per avere una vista ampia sulla tastiera.<br>
@@ -331,4 +331,4 @@ BLU = terza minore.<br>
 <br>
 
 <font size=5>I</font>o suggerirei di esercitarsi sulla scala Pentatonica cercando volutamente di ricadere ogni misura (ogni tempo forte) in una 3a o 5a o 8a (tonica) della scala che stiamo usando, cercando di fissare bene queste note all'interno dei nostri box.<br>
-Una volta diventati pratici su certe note un ottimo esercizio può essere quello di compiere ampi salti tra i vari box e/o ottave...
+Una volta diventati pratici su certe note un ottimo esercizio puÃ² essere quello di compiere ampi salti tra i vari box e/o ottave...

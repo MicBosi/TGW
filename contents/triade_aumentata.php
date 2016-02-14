@@ -6,8 +6,8 @@ title: Triadi aumentate
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
 <font size=5>D</font>i seguito viene riportato lo schema generale della triade aumentata lungo la tastiera della chitarra con i primi schemi dei rivolti della triade presi uno a uno sulle varie corde.<br>
-Anche se questo tipo di triade èun po' più raro da trovarsi esso permette di dare un pizzico di originalità al nostro sound.<br>
-Presto aggiungero' le principali posizioni per effettuare i primi sweep aumentati (anche questi particolarmente complicati... ma non sarà uno sweep a spaventarci giusto?)<br>
+Anche se questo tipo di triade Ã¨un po' piÃ¹ raro da trovarsi esso permette di dare un pizzico di originalitÃ  al nostro sound.<br>
+Presto aggiungero' le principali posizioni per effettuare i primi sweep aumentati (anche questi particolarmente complicati... ma non sarÃ  uno sweep a spaventarci giusto?)<br>
 <br>
 
 
@@ -114,7 +114,7 @@ Presto aggiungero' le principali posizioni per effettuare i primi sweep aumentat
 </table>
 
 
-<br><font size=5>C</font>ome vediamo questa triade presenta un andamento particolarmente simmetrico lungo la tastiera, cio' la rende più facile da ricordare ma anche molto difficile da suonare.
+<br><font size=5>C</font>ome vediamo questa triade presenta un andamento particolarmente simmetrico lungo la tastiera, cio' la rende piÃ¹ facile da ricordare ma anche molto difficile da suonare.
 <br>Qui di seguito evidenziamo meglio con colori alternati i rivolti della triade aumentata su  gruppi di tre corde, le note contrassegnate dal colore bianco servono solo come orientamento.<br><br>
 
 <font size=5>T</font>riade aumentata rivolti sulle corde: Sol, Si, Mi.<br>

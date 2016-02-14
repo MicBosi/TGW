@@ -56,7 +56,7 @@
 <b>46.</b> <a href="<?php echo "$base_website_address/$spartiti_dir" ?>/spartiti-chitarra-testi-accordi-lucio-dalla.html" title="Trova accordi, spartiti, tablature e testi di Lucio Dalla">Lucio Dalla</a><br />
 <b>47.</b> <a href="<?php echo "$base_website_address/$spartiti_dir" ?>/spartiti-chitarra-testi-accordi-mango.html" title="Trova accordi, spartiti, tablature e testi di Mango">Mango</a><br />
 <b>48.</b> <a href="<?php echo "$base_website_address/$spartiti_dir" ?>/spartiti-chitarra-testi-accordi-marco-masini.html" title="Trova accordi, spartiti, tablature e testi di Marco Masini">Marco Masini</a><br />
-<b>49.</b> <a href="<?php echo "$base_website_address/$spartiti_dir" ?>/spartiti-chitarra-testi-accordi-max-gazzè.html" title="Trova accordi, spartiti, tablature e testi di Max Gazzè">Max Gazzè</a><br />
+<b>49.</b> <a href="<?php echo "$base_website_address/$spartiti_dir" ?>/spartiti-chitarra-testi-accordi-max-gazzÃ¨.html" title="Trova accordi, spartiti, tablature e testi di Max GazzÃ¨">Max GazzÃ¨</a><br />
 <b>50.</b> <a href="<?php echo "$base_website_address/$spartiti_dir" ?>/spartiti-chitarra-testi-accordi-metallica.html" title="Trova accordi, spartiti, tablature e testi di Metallica">Metallica</a><br />
 </td>
 <td valign=top>

@@ -5,8 +5,8 @@ title: Scale modali
 -->
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
-<font size=5>A</font>bbiamo visto che ogni Scala Maggiore ha in sË una relativa minore la cui tonica ha sede sul VI∞ grado della Scala Maggiore. A questo punto Ë lecito chiedersi se Ë possibile costruire delle scale a partire da ognuno dei gradi della Scala Maggiore.<br>
-La risposta Ë si: esse vengono chiamate scale modali e oltre ad essere costruibili sulla Scala Maggiore, anche sulle altre scale, come la Minore Naturale o la Minore Melodica, possono essere costruite 7 scale modali, ognuna che parte da uno specifico grado della scala, ognuna con un nome, una struttura e una sonorit‡ propria.<br>
+<font size=5>A</font>bbiamo visto che ogni Scala Maggiore ha in s√® una relativa minore la cui tonica ha sede sul VI¬∞ grado della Scala Maggiore. A questo punto √® lecito chiedersi se √® possibile costruire delle scale a partire da ognuno dei gradi della Scala Maggiore.<br>
+La risposta √® si: esse vengono chiamate scale modali e oltre ad essere costruibili sulla Scala Maggiore, anche sulle altre scale, come la Minore Naturale o la Minore Melodica, possono essere costruite 7 scale modali, ognuna che parte da uno specifico grado della scala, ognuna con un nome, una struttura e una sonorit√† propria.<br>
 Prendendo ad esempio la Scala Maggiore di Do le sue 7 scale modali sono: <br><br>
 
 <table cellspacing=5 cellpadding=5  bgcolor=#000000>
@@ -85,7 +85,7 @@ Si Do Re Mi Fa Sol La
 </td>
 </tr>
 </table><br>
-<font size=5>C</font>ome possiamo gi‡ vedere il modo Ionico corrisponde alla Scala Maggiore e il modo Eolio Ë identico alla Scala Minore Naturale.<br>
+<font size=5>C</font>ome possiamo gi√† vedere il modo Ionico corrisponde alla Scala Maggiore e il modo Eolio √® identico alla Scala Minore Naturale.<br>
 Per quanto riguarda la Scala Maggiore qui sotto sono presentate le scale modali costruite sui suoi sette gradi e i relativi schemi: <br><br>
 
 <table cellspacing=5 cellpadding=5  bgcolor=#000000>
@@ -391,10 +391,10 @@ Superlocrio
 </td></tr>
 </table>
 
-<br><font size=5>Q</font>uesti nomi derivano dalle antiche scale greche (solo i nomi) ed erano in uso gi‡ nel medioevo sotto il nome di scale gregoriane. Oggi queste scale continuano ad essere usate, esse permettono infatti di dare un senso leggermente diverso al sound dei vari fraseggi.
-Esse hanno il pregio di essere ottenute senza impiego di alterazioni a partire da una stessa scala "madre" e perciÚ i nostri BOX rimangono gli stessi, solo che volta per volta cambia la nota che consideriamo tonica.
-<br><font size=5>N</font>aturalmente non basta "teorizzare" il modo in cui stiamo suonando, sta alla sensibilit‡ del musicista far sentire all'orecchio che quel dato fraseggio Ë in una particolare scala modale, indugiando maggiormente sulle note principali di quella scala (I IV V grado) ad esempio.
-Ma questo Ë un discorso molto complesso che spero di approfondire in futuro. 
-Comunque penso che la cosa migliore sia suonare, sperimentare ed esercitare il pi˘ possibile la nostra creativit‡, questo Ë il tipo di esperienza che sicuramente ci arricchir‡ di pi˘.
+<br><font size=5>Q</font>uesti nomi derivano dalle antiche scale greche (solo i nomi) ed erano in uso gi√† nel medioevo sotto il nome di scale gregoriane. Oggi queste scale continuano ad essere usate, esse permettono infatti di dare un senso leggermente diverso al sound dei vari fraseggi.
+Esse hanno il pregio di essere ottenute senza impiego di alterazioni a partire da una stessa scala "madre" e perci√≤ i nostri BOX rimangono gli stessi, solo che volta per volta cambia la nota che consideriamo tonica.
+<br><font size=5>N</font>aturalmente non basta "teorizzare" il modo in cui stiamo suonando, sta alla sensibilit√† del musicista far sentire all'orecchio che quel dato fraseggio √® in una particolare scala modale, indugiando maggiormente sulle note principali di quella scala (I IV V grado) ad esempio.
+Ma questo √® un discorso molto complesso che spero di approfondire in futuro. 
+Comunque penso che la cosa migliore sia suonare, sperimentare ed esercitare il pi√π possibile la nostra creativit√†, questo √® il tipo di esperienza che sicuramente ci arricchir√† di pi√π.
 
 <br><font size=5>Q</font>ueste tabelle torneranno particolarmente utili quando parleremo dell' armonizzazione delle scale.

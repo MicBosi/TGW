@@ -6,11 +6,11 @@ title: Scala pentatonica
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
           Per ora sono presenti solo le classiche diteggiature a BOX, presto aggiungero' delle
-          diteggiature pi˘ particolari.<br />
+          diteggiature pi√π particolari.<br />
           <br />
-          Si dia il caso che la scala pi˘ usata dai chitarristi di tutti i tempi sia la scala detta
+          Si dia il caso che la scala pi√π usata dai chitarristi di tutti i tempi sia la scala detta
           Pentatonica Minore.<br />
-          Essa puÚ essere pensata come la semplificazione della scala minore naturale, ovvero, Ë la
+          Essa pu√≤ essere pensata come la semplificazione della scala minore naturale, ovvero, √® la
           Scala Minore Naturale privata del suo <em>secondo</em> e <em>sesto</em> grado.<br />
           <br />
           Esempio: prendiamo la Scala Minore Naturale di LA:<br />
@@ -90,14 +90,14 @@ title: Scala pentatonica
             </tr>
           </table><br />
           <br />
-          Questa nuova scala Ë chiamata <em>Pentatonica Minore</em>. "Pentatonica" si riferisce al
-          fatto che possiede "soltanto" 5 suoni, "minore" perchË tra La e Do passa una terza
+          Questa nuova scala √® chiamata <em>Pentatonica Minore</em>. "Pentatonica" si riferisce al
+          fatto che possiede "soltanto" 5 suoni, "minore" perch√® tra La e Do passa una terza
           minore.<br />
           <br />
-          Anche su questa scala puÚ essere costruita la <em>relativa maggiore</em> che si pone 1
+          Anche su questa scala pu√≤ essere costruita la <em>relativa maggiore</em> che si pone 1
           tono e 1/2 sopra, in questo caso sopra 1 tono e 1/2 sopra il La troviamo il Do. Quindi
           con gli stessi suoni cominciando a "contare" da Do otteniamo la <em>Pentatonica
-          Maggiore</em> di Do che puÚ essere pensata come il prodotto della privazione del
+          Maggiore</em> di Do che pu√≤ essere pensata come il prodotto della privazione del
           <em>quarto</em> e <em>settimo</em> grado della scala maggiore:<br />
           <br />
           <table width="70%" border="0" cellspacing="5" cellpadding="0">
@@ -177,16 +177,16 @@ title: Scala pentatonica
           </table><br />
           <br />
           La scala Pentatonica come vediamo presenta degli intervalli molto ampi che le derivano le
-          ben note qualit‡ di "incisivit‡" e "robustezza".<br />
-          Queste qualit‡ le derivano anche dal fatto che i suoi suoni sono cinque sovrapposizioni
-          di quinta giusta, che guarda caso Ë l'intervallo armonico per eccellenza. Prendendo ad
+          ben note qualit√† di "incisivit√†" e "robustezza".<br />
+          Queste qualit√† le derivano anche dal fatto che i suoi suoni sono cinque sovrapposizioni
+          di quinta giusta, che guarda caso √® l'intervallo armonico per eccellenza. Prendendo ad
           esempio la nota DO, volendo prendere la nota che sta una 5<sup>a</sup> sopra, otterremo
-          SOL, poi prendiamo la 5<sup>a</sup> del SOL, cioË RE, e cosi' per LA e MI.<br />
-          Essa Ë molto importante per un chitarrista in quanto i sui BOX sono molto facili da
-          imparare, la sua struttura Ë ideale per cominciare ad allenare le dita a correre sulla
-          tastiera e in particolare Ë utile per la tecnica del mignolo.<br />
-          Come se non bastasse essa ha una forte capacit‡ didattica per il nostro orecchio musicale
-          in quanto ci abitua a "sentire" pi˘ facilmente l'attrazione che esercitano le note
+          SOL, poi prendiamo la 5<sup>a</sup> del SOL, cio√® RE, e cosi' per LA e MI.<br />
+          Essa √® molto importante per un chitarrista in quanto i sui BOX sono molto facili da
+          imparare, la sua struttura √® ideale per cominciare ad allenare le dita a correre sulla
+          tastiera e in particolare √® utile per la tecnica del mignolo.<br />
+          Come se non bastasse essa ha una forte capacit√† didattica per il nostro orecchio musicale
+          in quanto ci abitua a "sentire" pi√π facilmente l'attrazione che esercitano le note
           principali.<br />
           <br />
           Qua sotto vengono riportati tutti gli schemi delle scale Pentatoniche Maggiore e Minore
@@ -349,7 +349,7 @@ title: Scala pentatonica
             </tr>
           </table>
           <pre>
-<strong><em>BOX I TAB., tonalit‡ di SOL</em>:</strong>
+<strong><em>BOX I TAB., tonalit√† di SOL</em>:</strong>
 
    ASCENDENTE                 DISCENDENTE
 ||---------------------3-5--|-5-3-------------------------||
@@ -440,7 +440,7 @@ title: Scala pentatonica
             </tr>
           </table>
           <pre>
-<strong><em>BOX II TAB., tonalit‡ di SOL</em>:</strong>
+<strong><em>BOX II TAB., tonalit√† di SOL</em>:</strong>
 
    ASCENDENTE                   DISCENDENTE
 ||---------------------5-7--|-7-5---------------------||
@@ -531,7 +531,7 @@ title: Scala pentatonica
             </tr>
           </table>
           <pre>
-<strong><em>BOX III TAB., tonalit‡ di SOL</em>:</strong>
+<strong><em>BOX III TAB., tonalit√† di SOL</em>:</strong>
 
    ASCENDENTE                    DISCENDENTE
 ||------------------------7-10-|-10-7-------------------------||
@@ -622,7 +622,7 @@ title: Scala pentatonica
             </tr>
           </table>
           <pre>
-<strong><em>BOX IV TAB., tonalit‡ di DO</em>:</strong>
+<strong><em>BOX IV TAB., tonalit√† di DO</em>:</strong>
 
    ASCENDENTE                 DISCENDENTE
 ||---------------------3-5--|-5-3----------------------||
@@ -713,7 +713,7 @@ title: Scala pentatonica
             </tr>
           </table>
           <pre>
-<strong><em>BOX V TAB., tonalit‡ di DO</em>:</strong>
+<strong><em>BOX V TAB., tonalit√† di DO</em>:</strong>
 
    ASCENDENTE                 DISCENDENTE
 ||---------------------5-8--|-8-5----------------------||
@@ -1174,18 +1174,18 @@ title: Scala pentatonica
           Quando sto suonando la Pentatonica, come faccio a sapere se sto usando la Pentatonica
           Maggiore o quella Minore? Ad esempio come faccio a sapere se sto in Do maggiore o La
           minore, visto che i tasti che devo usare sono gli stessi?<br />
-          La prima risposta che mi viene Ë booh, lo dovresti sentire "a orecchio" !<br />
-          La seconda Ë: se la nota che ricorre pi˘ spesso Ë la quinta (dominante) della tonica
-          minore allora la scala Ë minore, se la nota che ricorre pi˘ spesso Ë la quinta della
-          tonica maggiore allora la scala Ë maggiore.<br />
-          Se per esempio stiamo suonando sulla Pentatonica minore di LA , la nota che ricorre pi˘
-          spesso sar‡ il MI. Se per esempio stiamo suonando sulla Pentatonica maggiore di DO , la
-          nota che ricorre pi˘ spesso sar‡ il SOL.<br />
-          Questo perchÈ sperimentalmente si vede che in un brano, la nota che ricorre pi˘ spesso Ë
-          la dominante della scala, in graduatoria dopo di lei probabilmente ci sar‡ la stessa
+          La prima risposta che mi viene √® booh, lo dovresti sentire "a orecchio" !<br />
+          La seconda √®: se la nota che ricorre pi√π spesso √® la quinta (dominante) della tonica
+          minore allora la scala √® minore, se la nota che ricorre pi√π spesso √® la quinta della
+          tonica maggiore allora la scala √® maggiore.<br />
+          Se per esempio stiamo suonando sulla Pentatonica minore di LA , la nota che ricorre pi√π
+          spesso sar√† il MI. Se per esempio stiamo suonando sulla Pentatonica maggiore di DO , la
+          nota che ricorre pi√π spesso sar√† il SOL.<br />
+          Questo perch√© sperimentalmente si vede che in un brano, la nota che ricorre pi√π spesso √®
+          la dominante della scala, in graduatoria dopo di lei probabilmente ci sar√† la stessa
           tonica, quindi occhio anche a lei.<br />
-          Naturalmente il metodo pi˘ semplice Ë quello di trovare un finale per la nostra melodia e
-          verificare quale sia la nota conclusiva. Questo perÚ ci dice solo con quale tonalit‡
+          Naturalmente il metodo pi√π semplice √® quello di trovare un finale per la nostra melodia e
+          verificare quale sia la nota conclusiva. Questo per√≤ ci dice solo con quale tonalit√†
           finisce e non sappiamo niente di come si sia sviluppata lungo tutto il suo svolgimento.
-          Inoltre per il risultato finale molto dipende dal giro di accordi e di basso che c'Ë
+          Inoltre per il risultato finale molto dipende dal giro di accordi e di basso che c'√®
           sotto il nostro ipotetico riff o assolo. Questo a grandi linee...

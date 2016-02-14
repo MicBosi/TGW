@@ -1,16 +1,16 @@
 <!--
 keywords: spartiti, chitarra, spartiti chitarra, testi, canzoni, tablature, corso, lezioni, scale, accordi, sweep, tapping, picking, musica
-description: Questa lezione mostra i primi accordi effettuati con la tecnica del barré.
-title: Primi Accordi Col Barré
+description: Questa lezione mostra i primi accordi effettuati con la tecnica del barrÃ©.
+title: Primi Accordi Col BarrÃ©
 -->
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
-<font size=5>I</font>n questa sezione vengono presentati gli accordi barrè più usati. Essi sono la traslazione a destra degli accordi La, Lam, Mi, Mim, visti nella sezione precedente, in cui l'indice che fa il barrè funge da capotasto.
-<br>Questi accordi sono sensibilmente più difficili da fare e necessitano di più tempo per essere imparati. 
-<br>Per suonare correttamente questi accordi è necessario stare attenti a come si posiziona la mano sinistra, in particolare il pollice ha un ruolo primario in questo. 
+<font size=5>I</font>n questa sezione vengono presentati gli accordi barrÃ¨ piÃ¹ usati. Essi sono la traslazione a destra degli accordi La, Lam, Mi, Mim, visti nella sezione precedente, in cui l'indice che fa il barrÃ¨ funge da capotasto.
+<br>Questi accordi sono sensibilmente piÃ¹ difficili da fare e necessitano di piÃ¹ tempo per essere imparati. 
+<br>Per suonare correttamente questi accordi Ã¨ necessario stare attenti a come si posiziona la mano sinistra, in particolare il pollice ha un ruolo primario in questo. 
 <br>Spesso chi comincia a suonare posiziona il pollice troppo in alto con conseguente maldestro posizionamento della mano, che rimane troppo indietro impedendo alle dita un movimento naturale.
-<br>L'importante è che il polso e la mano siano in una posizione confortevole e che consentano la massima presa delle dita sulla tastiera.
-<br>La notazione degli accordi è spiegata nella sezione <a href="notazioni.html">Notazioni Degli Accordi</a>.
+<br>L'importante Ã¨ che il polso e la mano siano in una posizione confortevole e che consentano la massima presa delle dita sulla tastiera.
+<br>La notazione degli accordi Ã¨ spiegata nella sezione <a href="notazioni.html">Notazioni Degli Accordi</a>.
 <br><br>
 <hr><!=======================================================================================================================================================================================>
 Do

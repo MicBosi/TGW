@@ -22,7 +22,7 @@ title: Anatomia della chitarra
 <li>USCITA JACK 
 </ol>
 
-Partendo da quella più alta le corde sono:
+Partendo da quella piÃ¹ alta le corde sono:
 <pre>
 N#   ITALIANO   IN INGLESE   
 1      MI           E
@@ -34,4 +34,4 @@ N#   ITALIANO   IN INGLESE
 </pre>
   
 Ogni corda dista dalla precedente un intervallo di quarta giusta, ovvero 2 toni e 1/2, fa eccezione il SI che dista dal SOL solo 2 toni.<br>
-Ogni tasto della chitarra corrisponde ad un semitono (= 1/2 tono), cioè la distanza che intercorre tra il suono di due tasti immediatamente adiacenti è un semitono.
+Ogni tasto della chitarra corrisponde ad un semitono (= 1/2 tono), cioÃ¨ la distanza che intercorre tra il suono di due tasti immediatamente adiacenti Ã¨ un semitono.

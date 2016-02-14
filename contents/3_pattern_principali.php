@@ -10,10 +10,10 @@ title: Patterns principali
 <br><br>
 <font size=5>I</font> pattern qui presentati vanno imparati tutti e tre e riportati su tutte le scale e BOX che conosci, infatti questi tre soli pattern rappresentano la base di tantissimi fraseggi, assoli, lick o quant'altro e rappresentano un bagaglio tecnico imprescindibile per un chitarrista solista.
 <br>Questi fraseggi per ora vengono presentati in maniera "grezza" usando i ben noti BOX ma possono essere suonati in modo diverso ad esempio usando 2 o 3 corde e smanicando su e giu' per la tastiera, oppure possono essere suonati in congiunzione con altre tecniche tipo il legato, il bending, lo sweep picking. In futuro vedremo anche questo genere di varianti.
-<br>Ricorda che esercitarsi su questi pattern svilupper‡ moltissimo l'agilit‡ delle tue dita e della tua tecnica del plettro, accrescer‡ il controllo dei BOX, ti stimoler‡ nuove idee musicali e fraseggi originali, inoltre il trasporto di questi pattern su altri BOX e scale eserciter‡ il tuo orecchio musicale. 
+<br>Ricorda che esercitarsi su questi pattern svilupper√† moltissimo l'agilit√† delle tue dita e della tua tecnica del plettro, accrescer√† il controllo dei BOX, ti stimoler√† nuove idee musicali e fraseggi originali, inoltre il trasporto di questi pattern su altri BOX e scale eserciter√† il tuo orecchio musicale. 
 <br>Questi pattern infatti non sono affatto facili e se riuscirai a suonarli su tutti i BOX in maniera corretta e scorrevole saprai di avere raggiunto un ragguardevole livello tecnico.
-<br>All'inizio avrai molti problemi a suonare questi pattern ma in pochi giorni, una volta capito il trucco che sta dietro a ognuno di essi, non sar‡ difficile trasportarli in diversi BOX o in diverse situazioni.
-<br>Il terzo tipo di pattern presenter‡ maggiori difficolt‡ per essere digerito' rispetto ai primi due, tu persevera caparbiamente e vedrai che quando meno te lo aspetti comincerai ad amare questo pattern pi˘ di tutti gli altri.
+<br>All'inizio avrai molti problemi a suonare questi pattern ma in pochi giorni, una volta capito il trucco che sta dietro a ognuno di essi, non sar√† difficile trasportarli in diversi BOX o in diverse situazioni.
+<br>Il terzo tipo di pattern presenter√† maggiori difficolt√† per essere digerito' rispetto ai primi due, tu persevera caparbiamente e vedrai che quando meno te lo aspetti comincerai ad amare questo pattern pi√π di tutti gli altri.
 
 
 

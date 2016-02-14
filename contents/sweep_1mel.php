@@ -5,7 +5,7 @@ title: Sweep picking: esercizi melodici
 -->
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
-<font size=5>O</font>ra che abbiamo preso un po' di confidenza con lo Sweep, possiamo cercare di fare qualcosa di melodicamente più decente.
+<font size=5>O</font>ra che abbiamo preso un po' di confidenza con lo Sweep, possiamo cercare di fare qualcosa di melodicamente piÃ¹ decente.
 <br>
 <br>
 Rivolti di triade maggiore.
@@ -220,7 +220,7 @@ Chi sono gli interpreti? Yngwie Malmsteen, Marty Friedman, Troy Stetina, Micheal
 
 
 <pre>
-Come mettere tutto dentro una tonalità secondo la scala.
+Come mettere tutto dentro una tonalitÃ  secondo la scala.
 Etude vari
 ||---------------------------------------------------------------------------------
 ||---------------------------------------------------------------------------------
@@ -232,7 +232,7 @@ Etude vari
 Etude avanti e indietro, con salti e con salti multidimensionali.
 Gli etude non importa che li impari alla perfezione, sono solo esempi basta capire come funzionano.
 <br>
-<br>Sweep Diminuiti: le 2 forme per i due pattern: mensione che il primo è quello principale.
+<br>Sweep Diminuiti: le 2 forme per i due pattern: mensione che il primo Ã¨ quello principale.
 
 
 <h1>MIDI PER GLI ESEMPI PRINCIPALI</h1>

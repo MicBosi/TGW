@@ -1020,7 +1020,7 @@ template: default
       fwrite($fout, "  </td>\n");
     }
 
-    fwrite($fout, "</€tr>\n");
+    fwrite($fout, "</â‚¬tr>\n");
     fwrite($fout, "</table>\n");
 
     fclose($fout);
@@ -1364,8 +1364,8 @@ function receive_email($destination_mail, $fake_from_mail, $allowed_address)
   }
 
   $success_msg =
-  '<p align="center"><strong>Il tuo messaggio è stato inviato con successo.</strong><br>
-   <p align="center">Una copia del messaggio è stata inviata all\'indirizzo specificato.</p>
+  '<p align="center"><strong>Il tuo messaggio Ã¨ stato inviato con successo.</strong><br>
+   <p align="center">Una copia del messaggio Ã¨ stata inviata all\'indirizzo specificato.</p>
    <p align="center">Grazie per averci contattato.</p>
    <p align="center"><a href="/index.html">Continua</a></p>';
 

@@ -5,17 +5,17 @@ title: Armonizzazione a quattro voci delle scale
 -->
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
-<font size=5>G</font>razie alla nostra approfondita conoscenza delle scale modali siamo in grado di vedere a colpo d'occhio quali accordi vengono costruiti a partire da ogni nota delle scale fin'ora viste e quindi dalle rispettive scale modali.<br> A questo punto l'armonizzazione delle scale è un gioco da ragazzi:<br><br>
+<font size=5>G</font>razie alla nostra approfondita conoscenza delle scale modali siamo in grado di vedere a colpo d'occhio quali accordi vengono costruiti a partire da ogni nota delle scale fin'ora viste e quindi dalle rispettive scale modali.<br> A questo punto l'armonizzazione delle scale Ã¨ un gioco da ragazzi:<br><br>
 <font size=5>I</font> numeri romani I II III etc.. indicheranno il grado dell'accordo in questione, per cui useremo le solite notazioni:
-<li> "I" cosi'com'è vuole dire che l'accordo al I<sup>o</sup> grado è maggiore.
-<li> "Im" vuole dire che l'accordo al I<sup>o</sup> grado è minore.
-<li> "Idim" vuole dire che l'accordo al I<sup>o</sup> grado è diminuito.
+<li> "I" cosi'com'Ã¨ vuole dire che l'accordo al I<sup>o</sup> grado Ã¨ maggiore.
+<li> "Im" vuole dire che l'accordo al I<sup>o</sup> grado Ã¨ minore.
+<li> "Idim" vuole dire che l'accordo al I<sup>o</sup> grado Ã¨ diminuito.
 <li> "#5" vuol dire che l'accordo ha la quinta aumentata.
 <li> "b5" vuol dire che l'accordo ha la quinta diminuita.
 <li> "7" vuol dire che l'accordo ha la settima minore.
 <li> "maj7" vuol dire che l'accordo ha la settima maggiore.
 <li> "7dim" vuol dire che l'accordo ha la settima diminuita.
-<li> "°" vuol dire che l'accordo è di settima diminuita.
+<li> "Â°" vuol dire che l'accordo Ã¨ di settima diminuita.
 
 <br><br><font size=5>A</font>rmonizzazione a quadriadi delle scale modali costruite sulla Scala Maggiore (da cui si ricavano anche quelle della Minore Naturale):<br>
 <table cellspacing=5 cellpadding=5  bgcolor=#000000>
@@ -105,7 +105,7 @@ Eolia
 1, 2, 3m, 4, 5, 6m, 7m
 </td></tr><tr>
 <td bgcolor=#000045><b>
-VII°
+VIIÂ°
 </td>
 <td bgcolor=#000045><b>
 Locria
@@ -205,7 +205,7 @@ Eolio armonico
 1, 2#, 3, 4#, 5, 6, 7maj
 </td></tr><tr>
 <td bgcolor=#000045><b>
-VII°
+VIIÂ°
 </td>
 <td bgcolor=#000045><b>
 Superlocrio diminuito

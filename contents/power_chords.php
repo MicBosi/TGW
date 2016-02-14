@@ -5,8 +5,8 @@ title: Power chords
 -->
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
-<font size=5>I</font> power chords sono accordi a cui viene tolta la terza maggiore o minore, in questo modo l'accordo diventa a tutti gli effetti sospeso. Il suono che ne risulta è nitido e vigoroso. Ci sono 4 tipi principali di diteggiature Power-Chord ma le più usate sono quelle del tipo Fa barre e Si barre, rispettivamente al 1° e al 2° tasto, suonati senza la terza maggiore o minore. Queste diteggiature sono molto facili e veloci da usare dal momento che la forma rimane uguale su tutta la tastiera non essendoci terze maggiori che diventano minori o vice versa.
-<br>Questo tipo di accordi è solitamente usato negli accompagnamenti e permette cambi velocissimi e ritmati, non per niente i generi più duri fanno largo (se non unico) uso di questo tipo di accordi.
+<font size=5>I</font> power chords sono accordi a cui viene tolta la terza maggiore o minore, in questo modo l'accordo diventa a tutti gli effetti sospeso. Il suono che ne risulta Ã¨ nitido e vigoroso. Ci sono 4 tipi principali di diteggiature Power-Chord ma le piÃ¹ usate sono quelle del tipo Fa barre e Si barre, rispettivamente al 1Â° e al 2Â° tasto, suonati senza la terza maggiore o minore. Queste diteggiature sono molto facili e veloci da usare dal momento che la forma rimane uguale su tutta la tastiera non essendoci terze maggiori che diventano minori o vice versa.
+<br>Questo tipo di accordi Ã¨ solitamente usato negli accompagnamenti e permette cambi velocissimi e ritmati, non per niente i generi piÃ¹ duri fanno largo (se non unico) uso di questo tipo di accordi.
 <br><br>
 
 <hr><!=======================================================================================================================================================================================>

@@ -15,14 +15,14 @@ della chitarra corrisponde una determinata nota puoi leggere la lezione
 <a href="<?php echo $base_website_address;?>/posizioni_note.html" title="Posizioni delle note sulla chitarra">Posizioni delle note</a>.
 <li>Nella lezione
 <a href="<?php echo $base_website_address;?>/tablatura.html" title="Tablatura e spartiti per chitarra">Tablatura e spartiti per chitarra</a>
-ti viene mostrato come si leggono le tablature, che è il modo più comune di scrivere e
+ti viene mostrato come si leggono le tablature, che Ã¨ il modo piÃ¹ comune di scrivere e
 condividere gli spartiti per chitarra su internet.
 <li>Nella lezione <a href="<?php echo $base_website_address;?>/leggere_gli_accordi.html" title="Leggere gli accordi negli spartiti per chitarra">Leggere gli accordi negli spartiti per chitarra</a>
 puoi trovare tutte le informazioni che ti servono a leggere gli accordi.
 <li>Per conoscere
 le posizioni degli accordi si rimanda alla sezione <i>Accordi</i> di questo sito:
 <a title="accordi base per chitarra" href="<?php echo "$base_website_address/"; ?>primi_accordi.html">Primi Accordi</a>,
-<a title="accordi per chitarra con il barrè" href="<?php echo "$base_website_address/"; ?>accordi_barre.html">Primi Accordi Col Barrè</a>,
+<a title="accordi per chitarra con il barrÃ¨" href="<?php echo "$base_website_address/"; ?>accordi_barre.html">Primi Accordi Col BarrÃ¨</a>,
 <a title="power chord con la chitarra" href="<?php echo "$base_website_address/"; ?>power_chords.html">Power Chords</a>,
 <a title="trovare gli accordi sul manico della chitarra" href="<?php echo "$base_website_address/"; ?>richiami_accordi.html">Relazioni Tra Gli Accordi</a>,
 <a title="accordi di settima" href="<?php echo "$base_website_address/"; ?>accordi_di_7a.html">Accordi Di 7a</a>.
@@ -49,7 +49,7 @@ le posizioni degli accordi si rimanda alla sezione <i>Accordi</i> di questo sito
   <!-- Google CSE Search Box Ends -->
   </td>
   <td>
-  Questo motore di ricerca è basato su Google ma è ottimizzato per trovare accordi, testi, tablature e spartiti per chitarra! Mettilo alla prova!
+  Questo motore di ricerca Ã¨ basato su Google ma Ã¨ ottimizzato per trovare accordi, testi, tablature e spartiti per chitarra! Mettilo alla prova!
   <b>Specifica solamente il nome dell'autore e della canzone.</b>
   </tr>
   </tr>

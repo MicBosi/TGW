@@ -72,7 +72,7 @@
 <a title="Guitar Tablatures and Lyrics" href="http://www.eguitar-tabs.com">eguitar-tabs.com</a> - 
 <a title="Guitar Forum" href="http://www.hottesttabs.com">hottesttabs.com</a> - 
 <a title="Guitar Lessons" href="http://www.guitar-secrets.net">guitar-secrets.net</a> - 
-<a title="handmade custom guitars, unique carved custom made guitars, handmade acoustic guitar – kevin ryan" href="http://www.fineacoustics.com">Fine Acoustics</a> - 
+<a title="handmade custom guitars, unique carved custom made guitars, handmade acoustic guitar â€“ kevin ryan" href="http://www.fineacoustics.com">Fine Acoustics</a> - 
 <a title="Spanish classical guitars at great prices!" href="http://www.pavanguitars.com">Pavan Guitars</a> - 
 <a title="Free Guitar Lessons for the acoustic or fingerstyle guitarist" href="http://www.theguitarsuite.com">Guitar Suite</a> - 
 <a title="Guitar and bass tabs, tablature resources, and lessons." href="http://www.tabvoyage.com">TabVoyage.com</a> - 

@@ -5,20 +5,20 @@ title: Pentagramma e note
 -->
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
-<b><font size=5>I</font></b>l pentagramma èun insieme di righe e di spazi che vengono usati per "misurare" l'altezza delle note.<br>
-Il primo segno che incontriamo sul pentagramma è la <i>chiave</i>, essa denota come decifrare le note che seguono.<br>
-Quella nella figura sotto si chiama <i>chiave di violino</i> o <i>chiave di Sol</i>, poichè indica che il secondo rigo dal basso denota la nota Sol.<br>
+<b><font size=5>I</font></b>l pentagramma Ã¨un insieme di righe e di spazi che vengono usati per "misurare" l'altezza delle note.<br>
+Il primo segno che incontriamo sul pentagramma Ã¨ la <i>chiave</i>, essa denota come decifrare le note che seguono.<br>
+Quella nella figura sotto si chiama <i>chiave di violino</i> o <i>chiave di Sol</i>, poichÃ¨ indica che il secondo rigo dal basso denota la nota Sol.<br>
 Qui di seguito sono mostrati i nomi delle note del pentagramma in chiave di Sol, esse sono dette note naturali:<br>
 
 <br><img src="fragments/note naturali.gif" Alt="Pentagramma Chiave Di Sol, Con Note Di Una Ottava"><br><br>
 
 <b><font size=5>L</font></b>e note che vediamo nella figura sopra non riempiono tutti i suoni possibili nel nostro sistema musica, tra esse ne mancano alcune, esse sono le note dette <i>alterate</i>.<br>
-Una nota alterata è una nota che viene leggermente alzata o abbassata di intonazione.<br>
-Come vedremo meglio più tardi la "lista" completa di tutte le note è:<br>
+Una nota alterata Ã¨ una nota che viene leggermente alzata o abbassata di intonazione.<br>
+Come vedremo meglio piÃ¹ tardi la "lista" completa di tutte le note Ã¨:<br>
 
 <br><img src="fragments/scala cromatica.gif" Alt="Scala Cromatica Ascendente E Discendente"><br><br>
 
-<b><font size=5>L</font></b>e note che stanno tra due note naturali possono essere pensate come la nota superiore abbassata (preceduta da <i>b</i>) o come la nota inferiore alzata (preceduta da #): la loro intonazione è uguale, ma il loro nome è diverso.<br>
+<b><font size=5>L</font></b>e note che stanno tra due note naturali possono essere pensate come la nota superiore abbassata (preceduta da <i>b</i>) o come la nota inferiore alzata (preceduta da #): la loro intonazione Ã¨ uguale, ma il loro nome Ã¨ diverso.<br>
 Il simbolo "<i>b</i>" si legge "bemolle" e il simbolo "#" si legge "diesis".  Queste alterazioni hanno la durata di una battuta.<br>
 Ad es. Do# = Reb si legge "Do diesis uguale Re bemolle".<br>
 <br>
@@ -130,4 +130,4 @@ Ad es. Do# = Reb si legge "Do diesis uguale Re bemolle".<br>
 </tr>
 </table>
 
-<br><b><font size=5>N</font></b>el paragrafo seguente verràchiarito come decifrare i valori espressi in frazione che vedi nella tabella.<br>
+<br><b><font size=5>N</font></b>el paragrafo seguente verrÃ chiarito come decifrare i valori espressi in frazione che vedi nella tabella.<br>

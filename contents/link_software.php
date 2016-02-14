@@ -16,7 +16,7 @@ title: Software e hardware
 <li><a href="http://www.power-tab.net/">Powertab</a>
    </td>
    <td>
-   Il sito ufficiale di un programma per scrivere/leggere i file ptb (PowerTaB appunto), un formato molto diffuso che consente non solo di creare tablature di ottima qualit‡ ma anche di ascoltarli e esportarli/importarli come file MIDI.
+   Il sito ufficiale di un programma per scrivere/leggere i file ptb (PowerTaB appunto), un formato molto diffuso che consente non solo di creare tablature di ottima qualit√† ma anche di ascoltarli e esportarli/importarli come file MIDI.
    </td>
 </tr>
 <tr>
@@ -48,7 +48,7 @@ Anche qui troverai software di grandissimo prestigio per creare musica.
 <li><a href="http://www.harmony-central.com">Harmony-Central</a>
    </td>
    <td>
-   Questo sito Ë un immenso archivio di news e recensioni divisi per categorie, dai software di ogni tipo, agli strumenti, agli effetti. Se ti interessa una di queste cose facci un salto.
+   Questo sito √® un immenso archivio di news e recensioni divisi per categorie, dai software di ogni tipo, agli strumenti, agli effetti. Se ti interessa una di queste cose facci un salto.
    </td>
 </tr>
 </table>

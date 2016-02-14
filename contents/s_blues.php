@@ -5,8 +5,8 @@ title: Scala blues
 -->
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
-<font size=5>L</font>a prima scala che presentiamo in questa sede si chiama proprio <i>Scala Blues</i>, cosi' detta perché fra le tante usate in questo genere essa è la più frequente.<br>
-Essa deriva dalla scala pentatonica a cui si aggiunge una nota: la quinta diminuita alla scala Pentatonica Minore o la terza minore alla Pentatonica Maggiore, esse sono in realtà la stessa nota.<br>
+<font size=5>L</font>a prima scala che presentiamo in questa sede si chiama proprio <i>Scala Blues</i>, cosi' detta perchÃ© fra le tante usate in questo genere essa Ã¨ la piÃ¹ frequente.<br>
+Essa deriva dalla scala pentatonica a cui si aggiunge una nota: la quinta diminuita alla scala Pentatonica Minore o la terza minore alla Pentatonica Maggiore, esse sono in realtÃ  la stessa nota.<br>
 
 <br>Ad esempio: prendiamo la scala Pentatonica Minore di La per costruire la <i>Scala Blues Minore di La</i>: <br>
 
@@ -47,7 +47,7 @@ Essa deriva dalla scala pentatonica a cui si aggiunge una nota: la quinta diminu
 </tr>
 </table>
 
-<br><font size=5>C</font>ome sappiamo le pentatoniche Maggiore e Minore hanno le stesse note, cioè sono ognuna la relativa maggiore o minore dell'altra. Quella Maggiore sta 1 tono e 1/2 più in alto di quella Minore (e viceversa), per cui la relativa Penatatonica Maggiore della Pentatonica Minore di La è in Do e la <i>Scala Blues Maggiore</i> che vi costruiamo è:
+<br><font size=5>C</font>ome sappiamo le pentatoniche Maggiore e Minore hanno le stesse note, cioÃ¨ sono ognuna la relativa maggiore o minore dell'altra. Quella Maggiore sta 1 tono e 1/2 piÃ¹ in alto di quella Minore (e viceversa), per cui la relativa Penatatonica Maggiore della Pentatonica Minore di La Ã¨ in Do e la <i>Scala Blues Maggiore</i> che vi costruiamo Ã¨:
 
 
 <table  width="70%" border="0" cellspacing=5 cellpadding=0>

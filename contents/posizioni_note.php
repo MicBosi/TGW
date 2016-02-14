@@ -10,24 +10,24 @@ title: Posizioni delle note
 Per imparare le note su tutta la tastiera puo essere utile il seguente stratagemma: prima impara
  le note della prima e ultima corda, i due MI, poi impara le posizioni delle note sulla corda 
 numero 5, il LA. 
-<br>A questo punto il più è fatto: guardando le corde numero 3 (SOL) e 4 (RE), vediamo  
+<br>A questo punto il piÃ¹ Ã¨ fatto: guardando le corde numero 3 (SOL) e 4 (RE), vediamo  
 che presentano le le stesse note rispettivamente della corda 5 (LA) e 6 (MI) che abbiamo 
 appena imparato ma spostate a destra di 2 tasti, in pratica se vogliamo sapere che corda sta al
 settimo tasto del RE (corda 3) basta che guardo <b>2 tasti prima e 2 corde prima </b>ovvero al V tasto
-sulla corda MI e il gioco è fatto.
+sulla corda MI e il gioco Ã¨ fatto.
 <br>La corda numero 2 (SI) presenta le note della corda 4 (RE) spostate di 3 tasti a destra invece che 2.
 <br>In pratica questo stratagemma non fa altro che aiutarti a trovare <b>le ottave</b> di una nota.
 <br>
 <br>Inoltre tieni presente anche queste altre relazioni tra le corde: tra due corde adiacenti passa
 una quarta. Se ad esempio premi le corde 1 (MI) e 2 (SI) all' 
 ottavo tasto otterrai le note <b>DO</b>, sulla corda MI, e <b>SOL</b>, sulla corda SI: 
-come ci aspettavamo tra SOL e DO passa una quarta (il nostro DO è più acuto del SOL di una quarta) 
+come ci aspettavamo tra SOL e DO passa una quarta (il nostro DO Ã¨ piÃ¹ acuto del SOL di una quarta) 
 ma possiamo anche pensare che SOL sia la quinta, all'ottava sotto, del DO.
 <br>
 <br>Questa corda vale per tutte le corde meno che per la coppia SOL/SI, infatti tra queste due corde
 non passa una quarta ma una terza maggiore (una quarta - un semitono). Se ad esempio premi la 
 corda SOL al quinto tasto ottengo la nota DO, per ottenere la sua quarta non premo il quinto tasto della
- corda SI ma il sesto, uno in piùrispetto a quello che avrei fatto con qualsiasi altra coppia di corde adiacenti.
+ corda SI ma il sesto, uno in piÃ¹rispetto a quello che avrei fatto con qualsiasi altra coppia di corde adiacenti.
 <br>
 <br>Un'altra considerazione che puo' essere d'aiuto e che, andare avanti di 4 tasti su una stessa corda
 provoca un salto di terza maggiore, e andare avanti di 5 tasti su una stessa corda equivale a un salto di quarta.
