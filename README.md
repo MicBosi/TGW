@@ -1,3 +1,2 @@
 # The Guitar Wizard
-Abusing Guitars Since June 2000
-
+Abusing guitars since year 2000.
