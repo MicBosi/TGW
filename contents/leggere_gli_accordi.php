@@ -90,5 +90,5 @@ In questo caso i numeri NON indicano le dita ma il tasto della chitarra da preme
 Una eventuale X indica che tale corda non va suonata. Il numero 0 indica di suonare una
 determinata corda senza premere alcun tasto.
 Vedi la lezione
-<a href="http://<?php echo $base_website_address;?>/tablatura.html" title="Tablatura e spartiti per chitarra">Tablatura e spartiti per chitarra</a>
+<a href="<?php echo $base_website_address;?>/tablatura.html" title="Tablatura e spartiti per chitarra">Tablatura e spartiti per chitarra</a>
 per imparare a leggere gli spartiti per chitarra in tablatura.

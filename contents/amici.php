@@ -9,7 +9,7 @@ title: Amici di The Guitar Wizard
           <h1 class="title"><?php echo $header['title']; ?></h1>
           <p><strong>Questa è la lista di tutti gli amici wizardiani!</strong><br />
           Se vuoi essere aggiunto alla lista visita la pagina per lo scambio
-          link: <a href="http://<?php echo $base_website_address; ?>/index.php?data=linkexchange" target="_blank" title="Segnala il tuo sito a The Guitar Wizard!">Segnala il tuo sito a The Guitar Wizard!</a>
+          link: <a href="<?php echo $base_website_address; ?>/index.php?data=linkexchange" target="_blank" title="Segnala il tuo sito a The Guitar Wizard!">Segnala il tuo sito a The Guitar Wizard!</a>
           <br>In questo modo il tuo link sarà visibile anche dal footer della homepage di The Guitar Wizard!
           <p>
           <?php require("links.php"); ?>

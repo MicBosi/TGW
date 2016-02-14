@@ -33,31 +33,31 @@ google_color_url = ["008000","008000","008000","AECCEB"];
           <!--
           <td style="border: 1px solid gray;">
           <center>
-          <font face="Georgia, Bedford" size="3"><a href="http://<?php echo $base_website_address; ?>/forums/index.php#5" target="_blank">I Vostri
+          <font face="Georgia, Bedford" size="3"><a href="/forums/index.php#5" target="_blank">I Vostri
           Articoli</a><sup>new!</sup></font><br/>
           </center>
           </td>
           <td style="border: 1px solid gray;">
           <center>
-          <font face="Georgia, Bedford" size="3"><a href="http://<?php echo $base_website_address; ?>/forums/index.php#3" target="_blank">Domande Musica &amp;
+          <font face="Georgia, Bedford" size="3"><a href="/forums/index.php#3" target="_blank">Domande Musica &amp;
           Chitarra</a><sup>new!</sup></font><br/>
           </center>
           </td>
           <td style="border: 1px solid gray;">
           <center>
-          <font face="Georgia, Bedford" size="3"><a href="http://<?php echo $base_website_address; ?>/forums/index.php#2" target="_blank">Annunci</a><sup>new!</sup></font><br/>
+          <font face="Georgia, Bedford" size="3"><a href="/forums/index.php#2" target="_blank">Annunci</a><sup>new!</sup></font><br/>
           </center>
           </td>
           <td style="border: 1px solid gray;">
           <center>
-          <font face="Georgia, Bedford" size="3"><a href="http://<?php echo $base_website_address; ?>/forums/index.php#4" target="_blank">Pronto
+          <font face="Georgia, Bedford" size="3"><a href="/forums/index.php#4" target="_blank">Pronto
           Professionisti</a><sup>new!</sup></font><br/>
           </center>
           </td>
           -->
         <tr>
         <td rowspan=1 width=150 style="border: 1px solid gray;" valign=middle align=center>
-          <form style="margin:0px; padding:0px" method="post" action="http://<?php echo $base_website_address; ?>/pommo/user/process.php" name="signup">
+          <form style="margin:0px; padding:0px" method="post" action="<?php echo $base_website_address; ?>/pommo/user/process.php" name="signup">
           The Guitar Wizard <b>Newsletter</b><br>
 
             <br>
@@ -65,13 +65,13 @@ google_color_url = ["008000","008000","008000","AECCEB"];
             <input type="hidden" name="pommo_signup" value="true" />
             <input type="submit" value=" Subscribe " style="padding: 0px; margin:0px"/><br>
 
-            <small><a target="_blank" style="background: rgb(10,10,40)" href="http://<?php echo $base_website_address; ?>/pommo/user/login.php">modify/cancel subscription</a></small>
+            <small><a target="_blank" style="background: rgb(10,10,40)" href="<?php echo $base_website_address; ?>/pommo/user/login.php">modify/cancel subscription</a></small>
 
           </form>
         </td>
           <td style="border: 1px solid gray;" align=center>
             <H1 style="padding: 0px; margin: 0px; font-weight: normal; font-size: 26px; color: fff080">
-            <a title="Trova discographies, Spartiti, chords, lyrics, Tablature Di Artisti Italiani E Stranieri" href="<?php echo "http://$base_website_address/$spartiti_dir/index.html"; ?>">
+            <a title="Trova discographies, Spartiti, chords, lyrics, Tablature Di Artisti Italiani E Stranieri" href="<?php echo "$base_website_address/$spartiti_dir/index.html"; ?>">
             Discographies, guitar tablatures, chords and lyrics</a>
             </H1>
           </td>
@@ -238,7 +238,7 @@ google_color_url = ["008000","008000","008000","AECCEB"];
                     <li>
                     <a title="score and guitar tablature" href="tablatura.html">Score and guitar tablature</a></li>
                     <li>
-                    <a title="Reading the chords in the guitar tablature" href="<?php echo "http://$base_website_address/"; ?>leggere_gli_accordi.html">Reading the chords</a></li>
+                    <a title="Reading the chords in the guitar tablature" href="<?php echo "$base_website_address/"; ?>leggere_gli_accordi.html">Reading the chords</a></li>
                     <li>
                     <a title="classical score or tablature?" href="tab_vs_penta.html">Classical score or tablature?</a></li>
                     <li>
@@ -592,12 +592,12 @@ google_color_url = ["008000","008000","008000","AECCEB"];
     <table border=0 width=900 cellpadding=5 cellspacing=1 style="background-color: 080820; border: 2px solid #8080ff">
     <tr>
       <td align=left valign=top>
-        <h2 style="font-family: Georgia"><a href="<?php echo "http://$base_website_address"; ?>/amici.html">Links to friends</a></h2>
+        <h2 style="font-family: Georgia"><a href="<?php echo "$base_website_address"; ?>/amici.html">Links to friends</a></h2>
         <div width=100% style="border: 0px solid white; text-align: right; margin-top: 10px; font-size: 10px; font-family: Verdana">
           <?php require("$contents_dir/links_footer.php"); ?>
         </div>
         <div width=100% style="border: 0px solid white; text-align: right; margin-top: 10px; font-size: 12px; font-family: Verdana">
-          <a href="http://<?php echo $base_website_address; ?>/?data=linkexchange" target="_blank" title="Segnala il tuo sito a The Guitar Wizard!">[Add your site]</a>
+          <a href="<?php echo $base_website_address; ?>/?data=linkexchange" target="_blank" title="Segnala il tuo sito a The Guitar Wizard!">[Add your site]</a>
         </div>
       </td>
     </tr>

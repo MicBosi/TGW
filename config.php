@@ -14,14 +14,13 @@ global $activate_google_analitics;
 global $spartiti_dir;
 global $cfg_dir;
 
-// $base_website_address = "localhost:8080/theguitarwizard";
-$base_website_address = "www.theguitarwizard.com";
+$base_website_address = $_SERVER['SERVER_NAME'] == 'localhost' ? "/TGW" : '';
 $website_title = "The Guitar Wizard";
-$contents_dir = "/home/program5/public_html/theguitarwizard/contents";
-$cfg_dir = "/home/program5/public_html/theguitarwizard/cfg";
+$contents_dir = __DIR__."/contents";
+$cfg_dir = __DIR__."/cfg";
 $spartiti_dir = "discografia-canzoni";
 $rss_description = "The Guitar Wizard";
-$activate_google_analitics = true;
+$activate_google_analitics = true; // $_SERVER['SERVER_NAME'] != 'localhost';
 
 $links_page_description = "Only the best websites from internet";
 $faq_page_description = "A quick answer to all your questions";

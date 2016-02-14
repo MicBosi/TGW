@@ -33,6 +33,6 @@ Chi Sviluppa <i>The Guitar Wizard</i>?<br>
 <font size=5>Q</font>uesto corso di chitarra è sviluppato da Michele Bosi (chitarrista tutto meno che professionista), che nel suo tempo libero migliora e aggiunge gli argomenti che via via apprende e affronta nel suo percorso di studi da autodidatta.
 <font size=5>T</font>utti possono partecipare allo sviluppo di <i>The Guitar Wizard</i>. Chiunque voglia arricchire questo corso di chitarra online con la propria esperienza e con le proprie opinioni è invitato a contattarmi tramite email a: <br>
 <br>
-<img style="padding: 5px; border: 1px solid white" src="images/wizardmail.png">
+<b><i>&#x68;&#x65;&#x6C;&#x6C;&#x6F;&#x40;&#x6D;&#x69;&#x63;&#x68;&#x65;&#x6C;&#x65;&#x62;&#x6F;&#x73;&#x69;&#x2E;&#x63;&#x6F;&#x6D;</i></b>
 <br>
 <br>

@@ -88,7 +88,7 @@
   {
     global $base_website_address;
 
-    return "http://$base_website_address/$document";
+    return "$base_website_address/$document";
   }
 
   function print_msg($msg)
@@ -1174,28 +1174,28 @@ template: default
     <?php
     if ($row==false) echo "</div><div>";
     echo "<a target=\"_blank\" href=\"http://del.icio.us/post?v=4&noui&jump=close&url=$bookmark_url&title=$bookmark_title\" title=\"Bookmark on Del.icio.us\">";
-    echo "<img src=\"http://$base_website_address/images/delicious.gif\" border=0 />del.icio.us</a> ";
+    echo "<img src=\"$base_website_address/images/delicious.gif\" border=0 />del.icio.us</a> ";
     if ($row==false) echo "</div><div>";
     echo "<a target=\"_blank\" href=\"http://digg.com/submit?phase=2&url=$bookmark_url&title=$bookmark_title\" title=\"Bookmark on Digg\">";
-    echo "<img src=\"http://$base_website_address/images/digg.gif\" border=0 />Digg it</a> ";
+    echo "<img src=\"$base_website_address/images/digg.gif\" border=0 />Digg it</a> ";
     if ($row==false) echo "</div><div>";
     echo "<a target=\"_blank\" href=\"http://www.furl.net/store?s=f&to=0&ti=$bookmark_title&u=$bookmark_url\" title=\"Bookmark on Furl\">";
-    echo "<img src=\"http://$base_website_address/images/furl.gif\" border=0 />Furl</a> ";
+    echo "<img src=\"$base_website_address/images/furl.gif\" border=0 />Furl</a> ";
     if ($row==false) echo "</div><div>";
     echo "<a target=\"_blank\" href=\"https://favorites.live.com/quickadd.aspx?marklet=1&mkt=en-us&url=$bookmark_url&title=$bookmark_title&top=1\" title=\"Bookmark on Windows Live\">";
-    echo "<img src=\"http://$base_website_address/images/live.gif\" border=0 /></a> ";
+    echo "<img src=\"$base_website_address/images/live.gif\" border=0 /></a> ";
     if ($row==false) echo "</div><div>";
     echo "<a target=\"_blank\" href=\"http://myweb.yahoo.com/myresults/bookmarklet?t=$bookmark_title&u=$bookmark_url&ei=UTF\" title=\"Bookmark on Yahoo\">";
-    echo "<img src=\"http://$base_website_address/images/yahoo.gif\" border=0 /></a> ";
+    echo "<img src=\"$base_website_address/images/yahoo.gif\" border=0 /></a> ";
     if ($row==false) echo "</div><div>";
     echo "<a target=\"_blank\" href=\"http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=$bookmark_url&title=$bookmark_title\" title=\"Bookmark on Google\">";
-    echo "<img src=\"http://$base_website_address/images/google.gif\" border=0 /></a> ";
+    echo "<img src=\"$base_website_address/images/google.gif\" border=0 /></a> ";
     if ($row==false) echo "</div><div>";
     echo "<a target=\"_blank\" href=\"http://technorati.com/faves?add=$bookmark_url\" title=\"Bookmark on Technorati\">";
-    echo "<img src=\"http://$base_website_address/images/technorati.gif\" border=0 /></a> ";
+    echo "<img src=\"$base_website_address/images/technorati.gif\" border=0 /></a> ";
     if ($row==false) echo "</div><div>";
     echo "<a target=\"_blank\" href=\"http://my.msn.com/addtomymsn.armx?id=rss&ut=http://rssnewsapps.ziffdavis.com/tech.xml\" title=\"Bookmark on MSN\">";
-    echo "<img src=\"http://$base_website_address/images/msn.gif\" border=0 /></a> ";
+    echo "<img src=\"$base_website_address/images/msn.gif\" border=0 /></a> ";
     echo "</div>";
   }
   

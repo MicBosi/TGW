@@ -18,16 +18,16 @@ if (strpos($content_file, "spartiti-testi-canzoni/spartiti-testi-discografia") =
 {
   $content_file = str_replace("spartiti-testi-canzoni/spartiti-testi-discografia", "discografia-canzoni/spartiti-chitarra-testi-accordi", $content_file);
   header("HTTP/1.1 301 Moved Permanently");
-  header("Location: http://$base_website_address/$content_file.html");
+  header("Location: $base_website_address/$content_file.html");
   return;
 }
 else
 if (strpos($content_file, "spartiti-testi-canzoni/index") === 0)
 {
-  // echo "http://$base_website_address/discografia-canzoni/index.html";
+  // echo "$base_website_address/discografia-canzoni/index.html";
   // $content_file = "discografia-canzoni/index";
   header("HTTP/1.1 301 Moved Permanently");
-  header("Location: http://$base_website_address/discografia-canzoni/index.html");
+  header("Location: $base_website_address/discografia-canzoni/index.html");
   return;
 }
 

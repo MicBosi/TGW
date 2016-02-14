@@ -7,7 +7,7 @@ title: Scambio Link
 <?php
 
   if (isset($_POST['email']))
-    receive_email( "michele.bosi@gmail.com", "noreply@noreply.none", "http://$base_website_address/$contents_dir/linkexchange.php" );
+    receive_email( "michele.bosi@gmail.com", "noreply@noreply.none", "$base_website_address/$contents_dir/linkexchange.php" );
   else
   {
   ?>
@@ -44,7 +44,7 @@ presto ad inserirti tra i nostri link! (di solito entro uno o due giorni lavorat
     $params['name'] = "<NONAME>";
     $params['subject'] = "<LINK BUILDING>";
     $params['message'] = "Ho inserito il link nella mia homepage:\nhttp://www.tuositoweb.xyz\n\nTitolo:\n\nDescrizione:\n\nNote:\n";
-    $params['receiver_script'] = "http://$base_website_address/?data=linkexchange";
+    $params['receiver_script'] = "$base_website_address/?data=linkexchange";
     $params['star_style'] = "font-size: 9pt; font-family: Arial; color: blue";
     $params['note_style'] = "font-size: 9pt; font-family: Arial; color: black";
     $params['text_style'] = "font-size:10pt; font-family: Arial";
