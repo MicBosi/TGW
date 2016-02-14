@@ -1,7 +1,4 @@
-<?php 
-	require("include/index.php"); 
-?>
-<!-- header -->
+<?php require("include/index.php"); ?>
 <!DOCTYPE html>
 <html>
     <head>
@@ -41,13 +38,7 @@
         </table>
 		
 <!-- content -->
-		<?php require("$template_directory/index.php");
-			/*
-			TODO:
-			- update GA code
-			- update AdSense code
-			*/
-		?>
+		<?php require("$template_directory/index.php"); ?>
 
 <!-- footer -->
 		<div style="padding: 5px; margin: 4em 0 1em 0; font-family: 'IM Fell English SC', serif; font-size: 16px;">
