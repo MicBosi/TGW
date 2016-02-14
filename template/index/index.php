@@ -30,19 +30,3 @@
   
   <center>
   <?php require($content_path); ?>
-  
-  <div style="padding: 5px"><span style="font-family: Verdana; font-size:10px">&copy; Copyright 2000&mdash;<?php echo date("Y") ?> Michele Bosi. Tutti i diritti sono riservati.</span></div>
-
-  <?php if ($activate_google_analitics) { ?>
-
-  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-  </script>
-  <script type="text/javascript">
-  _uacct = "UA-1058203-4";
-  urchinTracker();
-  </script>
-
-  <?php } ?>
-
-  </body>
-</html>
