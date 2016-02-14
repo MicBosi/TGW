@@ -27,8 +27,8 @@ presto ad inserirti tra i nostri link! (di solito entro uno o due giorni lavorat
 
 <?php
 
-    $link_long = "<a href=\"http://www.theguitarwizard.com\" title=\"The Guitar Wizard - Corso di chitarra online, spartiti per chitarra, testi di canzoni, tablature, lezioni di tecnica chitarristica, teoria ed armonia\">The Guitar Wizard - Corso di chitarra online, spartiti per chitarra, testi di canzoni, tablature, lezioni di tecnica chitarristica, teoria ed armonia</a>";
-    $link_short = "<a href=\"http://www.theguitarwizard.com\" title=\"The Guitar Wizard - Corso di chitarra online, spartiti per chitarra, testi di canzoni, tablature, lezioni di tecnica chitarristica, teoria ed armonia\">The Guitar Wizard</a>";
+    $link_long = "<a href=\"http://theguitarwizard.com\" title=\"The Guitar Wizard - Corso di chitarra online, spartiti per chitarra, testi di canzoni, tablature, lezioni di tecnica chitarristica, teoria ed armonia\">The Guitar Wizard - Corso di chitarra online, spartiti per chitarra, testi di canzoni, tablature, lezioni di tecnica chitarristica, teoria ed armonia</a>";
+    $link_short = "<a href=\"http://theguitarwizard.com\" title=\"The Guitar Wizard - Corso di chitarra online, spartiti per chitarra, testi di canzoni, tablature, lezioni di tecnica chitarristica, teoria ed armonia\">The Guitar Wizard</a>";
     echo "<h2>Link testuale standard (preferito)</h2>";
     echo "<textarea style=\"font-size:10pt; font-family: Arial;\" rows=\"9\" cols=\"50\">".htmlspecialchars("$link_long")."</textarea>";
     echo "<h3>Preview</h3>";

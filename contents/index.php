@@ -78,7 +78,7 @@ google_color_url = ["008000","008000","008000","AECCEB"];
             <img src="http://www.google.com/logos/Logo_25blk.gif" border="0" alt="Google" align="middle"></img></a>
             </td>
             <td nowrap="nowrap">
-            <input type="hidden" name="domains" value="www.theguitarwizard.com"></input>
+            <input type="hidden" name="domains" value="theguitarwizard.com"></input>
             <label for="sbi" style="display: none">Inserisci i termini di ricerca</label>
             <input type="text" name="q" size="31" maxlength="255" value="" id="sbi"></input>
             <label for="sbb" style="display: none">Invia modulo di ricerca</label>
@@ -93,8 +93,8 @@ google_color_url = ["008000","008000","008000","AECCEB"];
             <input type="radio" name="sitesearch" value="" id="ss0"></input>
             <label for="ss0" title="Ricerca nel Web"><font size="-1" color="#ffffff">Web</font></label></td>
             <td>
-            <input type="radio" name="sitesearch" value="www.theguitarwizard.com" checked id="ss1"></input>
-            <label for="ss1" title="Cerca www.theguitarwizard.com"><font size="-1" color="#ffffff">www.theguitarwizard.com</font></label></td>
+            <input type="radio" name="sitesearch" value="theguitarwizard.com" checked id="ss1"></input>
+            <label for="ss1" title="Cerca theguitarwizard.com"><font size="-1" color="#ffffff">theguitarwizard.com</font></label></td>
             </tr>
             </table>
             <input type="hidden" name="client" value="pub-1457183695568112"></input>
