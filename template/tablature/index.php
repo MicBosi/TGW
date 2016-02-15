@@ -2,7 +2,7 @@
     <tbody>
       <tr>
         <td align=center style="font-size: 10px; font-family: Verdana; border: 1px dashed gray;">
-          <a href="<?php echo "$base_website_address"; ?>" title="Lezioni di chitarra, guide di teoria e tecnica, spartiti, testi e accordi di canzoni"> CERCA </a>
+          <a href="<?php echo "$base_website_address"; ?>/" title="Lezioni di chitarra, guide di teoria e tecnica, spartiti, testi e accordi di canzoni"> CERCA </a>
         </td>
         <td align=center>
           <!-- LINK BAR -->
