@@ -175,13 +175,10 @@ template: index
                                     <a title="tablature e spartiti per chitarra" href="tablatura.html">Tablature e Spartiti per Chitarra</a>
                                 </li>
                                 <li>
-                                    <a title="Leggere gli accordi negli spartiti per chitarra" href="<?php echo "$base_website_address/"; ?>leggere_gli_accordi.html">Leggere Gli Accordi</a>
+                                    <a title="Leggere gli accordi negli spartiti per chitarra" href="<?php echo "$base_website_address/"; ?>leggere_gli_accordi.html">Leggere Gli Accordi Negli Spartiti Per Chitarra</a>
                                 </li>
                                 <li>
                                     <a title="spartiti per chitarra con tablatura o pentragramma?" href="tab_vs_penta.html">Spartiti: Tablatura o Pentagramma?</a>
-                                </li>
-                                <li>
-                                    Simbologia Musicale
                                 </li>
                             </ul>
 
@@ -215,9 +212,7 @@ template: index
                             <h2>mini corso di armonia</h2>
                             <ul>
                                 <li>
-                                    <a title="armonia per chitarra: tipi di intervalli" href="intervalli.html"> Intervalli
-                                    <font size="-1"> Consonanti &amp; Dissonanti
-                                    </font></a>
+                                    <a title="armonia per chitarra: tipi di intervalli" href="intervalli.html"> Intervalli Consonanti &amp; Dissonanti</a>
                                 </li>
                                 <li>
                                     <a title="armonia per chitarra: capire gli armonici" href="teoria_armonici.html">Teoria Fisica Degli Armonici</a>
@@ -258,36 +253,19 @@ template: index
                                 </li>
                             </ul>
 
-                            <h1>accordi</h1>
-                            <p>Le seguenti lezioni affronteranno il tema degli accordi, partendo dalla teoria ma con
-                            particolare enfasi riguardo l'applicazione di questi concetti sulla chitarra. Le lezioni
-                            mostreranno le diverse diteggiature delle varie tipologie di triadi fino ad arrivare a
-                            presentare gli schemi degli accordi più usati.
-                            </p>
-                            <h2>accordi, triadi e quadriadi</h2>
+                            <h1>come suonare gli accordi</h1>
+                            <p>Le seguenti lezioni mostrano come suonare gli accordi sulla chitarra, partendo da quelli piu' semplici fino agli accordi col barre', di settima, power chords e sospesi. Verranno mostrate anche le diteggiature delle varie triadi e quadriadi in modo da capire bene come costruire gli accordi in qualunque punto del manico della chitarra.</p>
+
+                            <h2>leggere gli accordi</h2>
                             <ul>
                                 <li>
-                                    <a title="le posizioni sulla chitarra di ottave, quinte e terze" href="triadi_inizio.html">Prime Diteggiature</a>
+                                    <a title="significato del nome degli accordi negli spartiti per chitarra" href="accordi_siglatura.html">Significato Del Nome Degli Accordi</a>
                                 </li>
                                 <li>
-                                    <a title="le posizioni sulla chitarra delle triadi maggiori" href="triade_maggiore.html">Triade Maggiore</a>
-                                </li>
-                                <li>
-                                    <a title="le posizioni sulla chitarra delle triadi minori" href="triade_minore.html">Triade Minore</a>
-                                </li>
-                                <li>
-                                    <a title="le posizioni sulla chitarra delle triadi diminuite" href="triade_diminuita.html">Triade Diminuita</a>
-                                </li>
-                                <li>
-                                    <a title="le posizioni sulla chitarra delle triadi aumentate" href="triade_aumentata.html">Triade Aumentata</a>
-                                </li>
-                                <li>
-                                    T. Settima Diminuita
-                                </li>
-                                <li>
-                                    Altre Triadi
+                                    <a title="Leggere gli accordi negli spartiti per chitarra" href="<?php echo "$base_website_address/"; ?>leggere_gli_accordi.html">Leggere Gli Accordi Negli Spartiti Per Chitarra</a>
                                 </li>
                             </ul>
+
                             <h2>accordi</h2>
                             <ul>
                                 <li>
@@ -297,13 +275,13 @@ template: index
                                     <a title="accordi per chitarra con il barrè" href="accordi_barre.html">Primi Accordi Col Barrè</a>
                                 </li>
                                 <li>
+                                    <a title="accordi di settima" href="accordi_di_7a.html">Accordi Di 7a</a>
+                                </li>
+                                <li>
                                     <a title="power chord con la chitarra" href="power_chords.html">Power Chords</a>
                                 </li>
                                 <li>
                                     <a title="trovare gli accordi sul manico della chitarra" href="richiami_accordi.html">Relazioni Tra Gli Accordi</a>
-                                </li>
-                                <li>
-                                    <a title="accordi di settima" href="accordi_di_7a.html">Accordi Di 7a</a>
                                 </li>
                                 <li>
                                     Accordi Di 4a e 2a Sospesi
@@ -321,10 +299,26 @@ template: index
                                     Accordi Di 13a
                                 </li>
                             </ul>
-                            <h2>leggere gli accordi</h2>
+
+                            <h2>diteggiature triadi e quadriadi</h2>
                             <ul>
                                 <li>
-                                    <a title="leggere gli accordi negli spartiti per chitarra" href="accordi_siglatura.html">Siglature Degli Accordi</a>
+                                    <a title="le posizioni sulla chitarra di ottave, quinte e terze" href="triadi_inizio.html">Prime Diteggiature</a>
+                                </li>
+                                <li>
+                                    <a title="le posizioni sulla chitarra delle triadi maggiori" href="triade_maggiore.html">Triade Maggiore</a>
+                                </li>
+                                <li>
+                                    <a title="le posizioni sulla chitarra delle triadi minori" href="triade_minore.html">Triade Minore</a>
+                                </li>
+                                <li>
+                                    <a title="le posizioni sulla chitarra delle triadi diminuite" href="triade_diminuita.html">Triade Diminuita</a>
+                                </li>
+                                <li>
+                                    <a title="le posizioni sulla chitarra delle triadi aumentate" href="triade_aumentata.html">Triade Aumentata</a>
+                                </li>
+                                <li>
+                                    Quadriadi e Accordi Di 7a
                                 </li>
                             </ul>
 
@@ -333,11 +327,7 @@ template: index
                             le diteggiature delle scale più usate come la scala Maggiore, Minore, Melodica,
                             Armonica, la scala Pentatonica, la scala Blues etc. In ogni lezione sono presentati gli schemi
                             delle scale e relative tablature per chitarra.</p>
-                            <h2>scale</h2>
                             <ul>
-                                <li>
-                                    Diteggiature Tipo
-                                </li>
                                 <li>
                                     <a title="posizioni della scala maggiore sulla chitarra" href="s_maggiore.html">Scala Maggiore</a>
                                 </li>
@@ -370,7 +360,7 @@ template: index
                                 </li>
                             </ul>
 
-                            <h2>techiche</h2>
+                            <h1>techiche</h1>
                             <p>Le seguenti lezioni rappresentano la parte più tecnica del presente corso di chitarra. Per
                             ognuna delle tecniche per chitarra più famose è infatti presente un gruppo di lezioni che ti permetterà
                             di espandere la tua creatività con la chitarra.</p>
@@ -415,7 +405,7 @@ template: index
                                 </li>
                             </ul>
 
-                            <h1>esercizi di tecnica</h1>
+                            <h1>esercizi, patterns e riscaldamento</h1>
                             <p>La seguenti lezioni di questo corso di chitarra ti mostreranno alcuni degli esercizi più utili
                             allo scioglimento delle dita, ma anche patterns comuni che vengono spesso riutilizzati e combinati assieme
                             negli assoli e nelle improvvisazioni.</p>
@@ -455,35 +445,26 @@ template: index
                                 </li>
                             </ul>
 
-                            <h1>mini corso di blues</h1>
+                            <h1>introduzione al blues</h1>
                             <p>Le seguenti lezioni vogliono essere un'introduzione pratica e veloce al Blues, dato che per affrontare questo tema
                             in maniera completa occuperebbe un intero corso di chitarra. Le lezioni prendono in considerazione i concetti fondamentali
                             di questo stile e la loro applicazione alla chitarra.</p>
                             
                             <ul>
                                 <li>
-                                    <a title="mini corso di blues" href="blues.html">Mini Corso Di Blues</a>
+                                    <a title="come suonare il blues" href="blues.html">Come Suonare Il Blues</a>
                                 </li>
                                 <li>
-                                    Intro
+                                    Storia
                                 </li>
                                 <li>
-                                    Caratteristiche
+                                    Tabulati &amp; Spartiti
                                 </li>
                                 <li>
-                                    <font size="-1"> Struttura &amp; Variazioni
-                                    </font>
+                                    Licks &amp; Assoli
                                 </li>
                                 <li>
-                                    Sound
-                                </li>
-                                <li>
-                                    Ritmo
-                                </li>
-                                <li>
-                                    Licks &amp; Solos
-                                    <br>
-                                    <br>
+                                    Multimedia
                                 </li>
                             </ul>
 
@@ -609,10 +590,13 @@ template: index
         </tr>
     </tbody>
 </table>
+<center>
 <table border=0 width=800>
     <tr>
-        <td align=left><?php $tab_search_off=1; require("$contents_dir/$spartiti_dir/tabdescription.php"); ?>
+        <td align=left>
+            <?php $tab_search_off=1; require("$contents_dir/$spartiti_dir/tabdescription.php"); ?>
+            <?php require("$contents_dir/$spartiti_dir/tabgrid.php"); ?>
         </td>
     </tr>
 </table>
-<?php require("$contents_dir/$spartiti_dir/tabgrid.php"); ?>
+</center>

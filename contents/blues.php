@@ -1,7 +1,7 @@
 <!--
 keywords: spartiti, chitarra, spartiti chitarra, testi, canzoni, tablature, corso, lezioni, scale, accordi, sweep, tapping, picking, musica
 description: Questa lezione spiega i principali concetti che stanno alla base dello stile blues.
-title: Corso di blues
+title: Come Suonare Il Blues
 -->
 <h1 class="title"><?php echo $header['title']; ?></h1>
 

@@ -330,7 +330,7 @@ google_color_url = ["008000","008000","008000","AECCEB"];
                       13th chords</li>
                     <H1 style="padding: 0px; margin: 0px; margin-top: 16px; font-weight: normal; font-size: 16px">READING THE CHORDS</H1>
                     <li>
-                    <a title="leggere gli chords negli guitar tablature" href="accordi_siglatura.html">Chord names</a>
+                    <a title="leggere gli chords negli guitar tablature" href="accordi_siglatura.html">How To Read The Chords</a>
                     <br>
                     <br></li>
                   </ul></td>

@@ -26,7 +26,7 @@ le posizioni degli accordi si rimanda alla sezione <i>Accordi</i> di questo sito
 <a title="power chord con la chitarra" href="<?php echo "$base_website_address/"; ?>power_chords.html">Power Chords</a>,
 <a title="trovare gli accordi sul manico della chitarra" href="<?php echo "$base_website_address/"; ?>richiami_accordi.html">Relazioni Tra Gli Accordi</a>,
 <a title="accordi di settima" href="<?php echo "$base_website_address/"; ?>accordi_di_7a.html">Accordi Di 7a</a>.
-<li>Per sapere come leggere le sigle degli accordi vedi l'articolo <a title="leggere gli accordi negli spartiti per chitarra" href="<?php echo "$base_website_address/"; ?>accordi_siglatura.html">Siglature Degli Accordi</a>.
+<li>Per sapere come leggere le sigle degli accordi vedi l'articolo <a title="leggere gli accordi negli spartiti per chitarra" href="<?php echo "$base_website_address/"; ?>accordi_siglatura.html">Come Leggere Gli Accordi</a>.
 </p>
 
 <?php if ( !isset($tab_search_off) )

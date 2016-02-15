@@ -1,9 +1,13 @@
 <!--
 keywords: spartiti, chitarra, spartiti chitarra, testi, canzoni, tablature, corso, lezioni, scale, accordi, sweep, tapping, picking, musica
 description: Questa lezione mostra i nomi degli accordi e la loro struttura.
-title: Siglature degli accordi
+title: Significato del nome degli accordi
 -->
 <h1 class="title"><?php echo $header['title']; ?></h1>
+
+<p>
+Per sapre come leggere gli schemi degli accordi leggi <a href="leggere_gli_accordi.html">Come Leggere Gli Schemi Degli Accordi</a>.
+</p>
 
 <font size=5>E'</font> bene sapere che lo schema che viene proposto qua sotto non indica la "verità assoluta", spesso infatti tale notazione si presta a molteplici interpretazioni, qui abbiamo semplicemente cercato di rispettare le definizioni più comunemente accettate.<br>
 

@@ -1,6 +1,14 @@
 <?php require("include/index.php"); 
 /*
 	TODO:
+	- JS ascii to high-quality picture converter (chords & scales & tabs)
+		--> http://www.wikihow.com/Play-Guitar-Chords
+	- fix lame copy
+	- live chord/hand-position photos
+	- progressions
+	- canzoni famose
+	- comments
+	- aggiustare struttura menu/quick-menu
 	- Update graphics:
 		==|> JS library to render chords and scales.
 
@@ -61,8 +69,9 @@
 		<?php require("$template_directory/index.php"); ?>
 
 <!-- footer -->
-		<div style="padding: 5px; margin: 4em 0 1em 0; font-family: 'IM Fell English SC', serif; font-size: 16px;">
-			<a href="https://michelebosi.com">&copy; Copyright 2000-<?php echo date("Y") ?> Michele Bosi</a>
+		<div style="padding: 5px; margin: 4em 0 1em 0; font-family: 'IM Fell English SC', serif; font-size: 16px; text-align: center;">
+			<a href="<?=$base_website_address;?>/propositi.html">&copy; Copyright 2000-<?php echo date("Y") ?> Michele Bosi</a> <br>
+			Some Rights Are Reserved.
 		</div>
 
 		<?php if ($activate_google_analitics) { ?>

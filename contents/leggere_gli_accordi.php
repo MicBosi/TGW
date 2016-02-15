@@ -1,12 +1,16 @@
 <!--
 keywords: spartiti, chitarra, spartiti chitarra, testi, canzoni, tablature, corso, lezioni, scale, accordi, sweep, tapping, picking, musica
 description: In questa lezione imparerai a leggere gli schemi degli accordi
-title: Leggere gli accordi negli spartiti per chitarra
+title: Leggere Gli Accordi Negli Spartiti Per Chitarra
 -->
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
+<p>
+Per sapere cosa significano i nomi degli accordi leggi <a href="accordi_siglatura.html">Significato Del Nome Degli Accordi</a>.
+</p>
+
 <b><font size=5>L</font></b>e note naturali Do, Re, Mi, Fa, Sol, La, Si hanno anche un'altro nome rispettivamente C, D, E, F, G, A, B.<br>
-La prima infatti è la <i>notazione latina</i> la seconda èla <i>notazione anglosassone</i>.<br>
+La prima infatti èla <i>notazione latina</i> la seconda èla <i>notazione anglosassone</i>.<br>
 <br>Ricapitolando:<br>
 Do = C<br>
 Re = D<br>
@@ -19,28 +23,18 @@ Si = B<br>
 <br><b><font size=5>P</font></b>er quanto riguarda la rappresentazione degli accordi, il seguente schema mostra quella più usata:<br>
 
 
-<table border=0>
-<tr><td>Do</td></tr>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
+Do
+<pre class="tab">
+                       Corde:
+0 ||---|---|---|---|   Mi (acuto)
+  ||-1-|---|---|---|   Si
+0 ||---|---|---|---|   Sol
+  ||---|-2-|---|---|   Re
+  ||---|---|-3-|---|   La
+X ||---|---|---|---|   Mi (grave)
+</pre>
 
-</td>
-<td>
-<img src="fragments/__0.jpg"><img src="fragments/__++.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><br><img src="fragments/___.jpg"><img src="fragments/__++.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><br><img src="fragments/__0.jpg"><img src="fragments/__++.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><br><img src="fragments/___.jpg"><img src="fragments/__++.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/__2.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><br><img src="fragments/___.jpg"><img src="fragments/__++.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><br><img src="fragments/__x.jpg"><img src="fragments/__++.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-</table>
-
-
-
-<br><b><font size=5>L</font></b>o schema rappresenta i primi quattro tasti del manico della chitarra, le linee orizzontali rappresentano le sei corde, in basso la più grave in alto la più acuta, le linee verticali rappresentano i tasti, la prima linea verticale più spessa indica il capotasto.<br>
+<b><font size=5>L</font></b>o schema rappresenta i primi quattro tasti del manico della chitarra, le linee orizzontali rappresentano le sei corde, in basso la più grave in alto la più acuta, le linee verticali rappresentano i tasti, la prima linea verticale più spessa indica il capotasto.<br>
 Lo zero prima del capotasto indica che relativa la corda va suonata a vuoto, la "X" indica che la corda non va suonata.<br>
 I numeri che stanno dopo il capotasto indicano il dito da usare per premere il relativo tasto/corda, secondo il seguente schema:<br>
 <br>1 = Indice.
@@ -53,30 +47,17 @@ In questa notazione i numeri indicano il numero del tasto da premere e non il di
 Ad es.<br><br>
 
 Sol
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
+<pre class="tab">
+|-1-|---|---|---| 
+|-1-|---|---|---| 
+|---|-2-|---|---| 
+|---|---|-4-|---| 
+|---|---|-3-|---| 
+|-1-|---|---|---| 
+ III
+</pre>
 
-</td>
-<td>
-<img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/__2.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! - - - - - - - - - - - - - - - - - -><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b>III</td>
-</tr>
-</table>
-<br>
-Spesso si trovano gli accordi scritti in tablatura, ad esempio:
+<p>Spesso si trovano gli accordi scritti in tablatura, ad esempio:</p>
 <pre>
     DO    RE    SOL   FA
 ||--0-----2-----3-----1-----||

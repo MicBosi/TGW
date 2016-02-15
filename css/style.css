@@ -78,7 +78,6 @@ table.tabindex td {
 }
 #default-content p {
     font-family: 'Quintessential', cursive;
-    font-size: 28px;
 }
 #default-content ul {
     font-family: 'Quintessential', cursive;
@@ -89,6 +88,7 @@ table.tabindex td {
     font-family: 'IM Fell English SC', serif;
     font-size: 40px;
     font-weight: normal;
+    text-align: center;
 }
 #content-index h2 {
     text-transform: capitalize;
@@ -116,4 +116,10 @@ h2.back-link {
     text-transform: capitalize;
     font-family: 'IM Fell English SC', serif;
     font-weight: normal;
+}
+pre {
+    line-height: 1.5;
+}
+pre.tab {
+
 }

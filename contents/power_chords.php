@@ -7,1090 +7,202 @@ title: Power chords
 
 <font size=5>I</font> power chords sono accordi a cui viene tolta la terza maggiore o minore, in questo modo l'accordo diventa a tutti gli effetti sospeso. Il suono che ne risulta è nitido e vigoroso. Ci sono 4 tipi principali di diteggiature Power-Chord ma le più usate sono quelle del tipo Fa barre e Si barre, rispettivamente al 1° e al 2° tasto, suonati senza la terza maggiore o minore. Queste diteggiature sono molto facili e veloci da usare dal momento che la forma rimane uguale su tutta la tastiera non essendoci terze maggiori che diventano minori o vice versa.
 <br>Questo tipo di accordi è solitamente usato negli accompagnamenti e permette cambi velocissimi e ritmati, non per niente i generi più duri fanno largo (se non unico) uso di questo tipo di accordi.
-<br><br>
 
-<hr><!=======================================================================================================================================================================================>
-Do
-<hr>
+<p>
+Per sapre come leggere gli schemi degli accordi leggi <a href="leggere_gli_accordi.html">Come Leggere Gli Schemi Degli Accordi</a>.
+</p>
+<p>
+Per sapere cosa significano i nomi degli accordi leggi <a href="accordi_siglatura.html">Significato Del Nome Degli Accordi</a>.
+</p>
 
-
-<table !bgcolor=black cellspacing=5 border=0 width=100%>
-<tr valign=top><td>
-
-
-
-Do5
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
-
-</td>
-<td>
-<img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b>III</td>
-</tr>
+<table width="100%">
+	<!-- ******************** Do *************** -->
+	<tr>
+		<td>
+Do5 (C5)
+<pre class="tab">
+X |---|---|---|---|
+X |---|---|---|---|
+  |---|---|-4-|---|
+  |---|---|-3-|---|
+  |-1-|---|---|---|
+  |-1-|---|---|---|
+   III
+</pre>
+		</td>
+		<td>
+Do5 (C5)
+<pre>
+X |---|---|---|---|
+X |---|---|---|---|
+X |---|---|---|---|
+  |---|---|-4-|---|
+  |---|---|-3-|---|
+  |-1-|---|---|---|
+   VIII
+</pre>
+		</td>
+	</tr>
+	<!-- ******************** Re *************** -->
+	<tr>
+		<td>
+Re5 (D5)
+<pre class="tab">
+X |---|---|---|---|
+X |---|---|---|---|
+  |---|---|-4-|---|
+  |---|---|-3-|---|
+  |-1-|---|---|---|
+  |-1-|---|---|---|
+    V
+</pre>
+		</td>
+		<td>
+Re5 (D5)
+<pre>
+X |---|---|---|---|
+X |---|---|---|---|
+X |---|---|---|---|
+  |---|---|-4-|---|
+  |---|---|-3-|---|
+  |-1-|---|---|---|
+    X
+</pre>
+		</td>
+	</tr>
+	<!-- ******************** Mi *************** -->
+	<tr>
+		<td>
+Mi5 (E5)
+<pre class="tab">
+X |---|---|---|---|
+X |---|---|---|---|
+  |---|---|-4-|---|
+  |---|---|-3-|---|
+  |-1-|---|---|---|
+  |-1-|---|---|---|
+   VII
+</pre>
+		</td>
+		<td>
+Mi5 (E5)
+<pre>
+X |---|---|---|---|
+X |---|---|---|---|
+X |---|---|---|---|
+  |---|---|-4-|---|
+  |---|---|-3-|---|
+  |-1-|---|---|---|
+   XII
+</pre>
+		</td>
+	</tr>
+	<!-- ******************** Fa *************** -->
+	<tr>
+		<td>
+Fa5 (F5)
+<pre class="tab">
+X |---|---|---|---|
+X |---|---|---|---|
+  |---|---|-4-|---|
+  |---|---|-3-|---|
+  |-1-|---|---|---|
+  |-1-|---|---|---|
+   VIII
+</pre>
+		</td>
+		<td>
+Fa5 (F5)
+<pre>
+X |---|---|---|---|
+X |---|---|---|---|
+X |---|---|---|---|
+  |---|---|-4-|---|
+  |---|---|-3-|---|
+  |-1-|---|---|---|
+    I
+</pre>
+		</td>
+	</tr>
+	<!-- ******************** Sol *************** -->
+	<tr>
+		<td>
+Sol5 (G5)
+<pre class="tab">
+X |---|---|---|---|
+X |---|---|---|---|
+  |---|---|-4-|---|
+  |---|---|-3-|---|
+  |-1-|---|---|---|
+  |-1-|---|---|---|
+    X
+</pre>
+		</td>
+		<td>
+Sol5 (G5)
+<pre>
+X |---|---|---|---|
+X |---|---|---|---|
+X |---|---|---|---|
+  |---|---|-4-|---|
+  |---|---|-3-|---|
+  |-1-|---|---|---|
+   III
+</pre>
+		</td>
+	</tr>
+	<!-- ******************** La *************** -->
+	<tr>
+		<td>
+La5 (A5)
+<pre class="tab">
+X |---|---|---|---|
+X |---|---|---|---|
+  |---|---|-4-|---|
+  |---|---|-3-|---|
+  |-1-|---|---|---|
+  |-1-|---|---|---|
+   XII
+</pre>
+		</td>
+		<td>
+La5 (A5)
+<pre>
+X |---|---|---|---|
+X |---|---|---|---|
+X |---|---|---|---|
+  |---|---|-4-|---|
+  |---|---|-3-|---|
+  |-1-|---|---|---|
+    V
+</pre>
+		</td>
+	</tr>
+	<!-- ******************** Si *************** -->
+	<tr>
+		<td>
+Si5 (B5)
+<pre class="tab">
+X |---|---|---|---|
+X |---|---|---|---|
+  |---|---|-4-|---|
+  |---|---|-3-|---|
+  |-1-|---|---|---|
+  |-1-|---|---|---|
+   II
+</pre>
+		</td>
+		<td>
+Si5 (B5)
+<pre>
+X |---|---|---|---|
+X |---|---|---|---|
+X |---|---|---|---|
+  |---|---|-4-|---|
+  |---|---|-3-|---|
+  |-1-|---|---|---|
+   VII
+</pre>
+		</td>
+	</tr>
 </table>
-
-
-</td><td>
-
-
-Do5
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
-
-</td>
-<td>
-<img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b>VIII</td>
-</tr>
-</table>
-
-
-</td><td>
-
-</td></tr></table>
-
-
-<br><br>
-<hr><!=======================================================================================================================================================================================>
-Re
-<hr>
-
-
-
-<table !bgcolor=black cellspacing=5 border=0 width=100%>
-<tr valign=top><td>
-
-
-
-Re5
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
-
-</td>
-<td>
-<img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b>V</td>
-</tr>
-</table>
-
-
-</td><td>
-
-
-Re5
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
-
-</td>
-<td>
-<img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b>X</td>
-</tr>
-</table>
-
-
-</td><td>
-
-</td></tr></table>
-
-
-<br><br>
-<hr><!=======================================================================================================================================================================================>
-Mi
-<hr>
-
-
-<table !bgcolor=black cellspacing=5 border=0 width=100%>
-<tr valign=top><td>
-
-
-Mi5
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
-
-</td>
-<td>
-<img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b>VII</td>
-</tr>
-</table>
-
-
-</td><td>
-
-
-Mi5
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
-
-</td>
-<td>
-<img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b>XII</td>
-</tr>
-</table>
-
-
-</td></tr><tr><td>
-
-<br>
-
-Mi5
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
-
-</td>
-<td>
-<img src="fragments/__x.jpg"><img src="fragments/__++.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__++.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__++.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__++.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__++.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
-
--><br><img src="fragments/__0.jpg"><img src="fragments/__++.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b></td>
-</tr>
-</table>
-
-
-
-
-</td></tr></table>
-
-
-
-<br><br>
-<hr><!=======================================================================================================================================================================================>
-Fa
-<hr>
-
-
-
-<table !bgcolor=black cellspacing=5 border=0 width=100%>
-<tr valign=top><td>
-
-
-
-Fa5
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
-
-</td>
-<td>
-<img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b>VIII</td>
-</tr>
-</table>
-
-
-</td><td>
-
-Fa5
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
-
-</td>
-<td>
-<img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b>I</td>
-</tr>
-</table>
-
-
-</td><td>
-
-</td></tr></table>
-
-
-
-
-
-<br><br>
-<hr><!=======================================================================================================================================================================================>
-Sol
-<hr>
-
-
-<table !bgcolor=black cellspacing=5 border=0 width=100%>
-<tr valign=top><td>
-
-
-
-Sol5
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
-
-</td>
-<td>
-<img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b>X</td>
-</tr>
-</table>
-
-
-</td><td>
-
-
-Sol5
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
-
-</td>
-<td>
-<img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b>III</td>
-</tr>
-</table>
-
-
-</td><td>
-
-</td></tr></table>
-
-
-<br><br>
-<hr><!=======================================================================================================================================================================================>
-La
-<hr>
-
-
-<table !bgcolor=black cellspacing=5 border=0 width=100%>
-<tr valign=top><td>
-
-
-
-La5
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
-
-</td>
-<td>
-<img src="fragments/__x.jpg"><img src="fragments/__++.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__++.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__++.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__++.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__0.jpg"><img src="fragments/__++.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
-
--><br><img src="fragments/__0.jpg"><img src="fragments/__++.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b></td>
-</tr>
-</table>
-
-
-</td><td>
-
-
-
-La5
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
-
-</td>
-<td>
-<img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b>XII</td>
-</tr>
-</table>
-
-</td></tr><tr><td>
-<br>
-La5
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
-
-</td>
-<td>
-<img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b>V</td>
-</tr>
-</table>
-
-
-</td><td>
-
-</td></tr></table>
-
-
-
-<br><br>
-<hr><!=======================================================================================================================================================================================>
-Si
-<hr>
-
-
-<table !bgcolor=black cellspacing=5 border=0 width=100%>
-<tr valign=top><td>
-
-
-
-Si5
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
-
-</td>
-<td>
-<img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b>II</td>
-</tr>
-</table>
-
-
-</td><td>
-
-
-Si5
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
-
-</td>
-<td>
-<img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__x.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b>VII</td>
-</tr>
-</table>
-
-
-</td><td>
-
-</td></tr></table>

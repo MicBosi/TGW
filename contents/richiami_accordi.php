@@ -5,272 +5,66 @@ title: Relazioni tra gli accordi
 -->
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
-<table width=100%>
-<tr><td>
+<p>
+Per sapre come leggere gli schemi degli accordi leggi <a href="leggere_gli_accordi.html">Come Leggere Gli Schemi Degli Accordi</a>.
+</p>
+<p>
+Per sapere cosa significano i nomi degli accordi leggi <a href="accordi_siglatura.html">Significato Del Nome Degli Accordi</a>.
+</p>
 
+<table width="100%">
+	<!-- ******************** Do *************** -->
+	<tr>
+		<td>
 Tipo I
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
+<pre class="tab">
+|-1-|---|---|---|
+|-1-|---|---|---|
+|---|-2-|---|---|
+|---|---|-4-|---|
+|---|---|-3-|---|
+|-1-|---|---|---|
+</pre>
+		</td>
+		<td>
+Tipo Im (minore)
+<pre>
+|-1-|---|---|---|
+|-1-|---|---|---|
+|---|-2-|---|---|
+|---|---|-4-|---|
+|---|---|-3-|---|
+|-1-|---|---|---|
+</pre>
+		</td>
+	</tr>
 
-</td>
-<td>
-<img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__2.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b></td>
-</tr>
-</table>
-
-
-
-</td><td>
-
-
-Tipo Im
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
-
-</td>
-<td>
-<img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b></td>
-</tr>
-</table>
-
-
-
-
-
-</td></tr><tr><td>
-
-
-
-
+	<tr>
+		<td>
 Tipo II
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
-
-</td>
-<td>
-<img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__2.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b></td>
-</tr>
+<pre class="tab">
+|-1-|---|---|---|
+|---|---|-4-|---|
+|---|---|-3-|---|
+|---|---|-2-|---|
+|-1-|---|---|---|
+|-1-|---|---|---|
+</pre>
+		</td>
+		<td>
+Tipo IIm (minore)
+<pre>
+|-1-|---|---|---|
+|---|-2-|---|---|
+|---|---|-4-|---|
+|---|---|-3-|---|
+|-1-|---|---|---|
+|-1-|---|---|---|
+</pre>
+		</td>
+	</tr>
 </table>
 
-
-
-</td><td>
-
-
-
-Tipo IIm
-<table border=0>
-<tr><td>
-<font size=2><b>
-MI<br>
-SI<br>
-SOL<br>
-RE<br>
-LA<br>
-MI<br>
-
-</td>
-<td>
-<img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__2.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__4.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/__3.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
-
--><br><img src="fragments/__1.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><!
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg"><! 
--><img src="fragments/___.jpg"><img src="fragments/__+.jpg">
-
-
-</td></tr>
-
-<tr>
-<td></td>
-<td><b></td>
-</tr>
-</table>
-
-
-
-</td></tr></table>
-
-
-<br>
-
-
-
-
-<br>
 <font size=5>G</font>li schemi qua sotto rappresentano una tastiera con le posizioni degli accordi tipo I e tipo II in tonalità di Do maggiore: <br>
 - la riga più bassa rappresenta tutti gli accordi fatti sul tipo I. <br>
 - la riga più alta rappresenta tutti gli accordi fatti sul tipo II.<br>
