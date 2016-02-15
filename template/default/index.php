@@ -5,6 +5,7 @@
           <a href="<?php echo "$base_website_address"; ?>/" title="Lezioni di chitarra, guide di teoria e tecnica, spartiti, testi e accordi di canzoni"> CERCA </a>
         </td>
         <td align=center>
+        <?php if ($enable_adsense) { ?>
           <!-- LINK BAR -->
           <script type="text/javascript"><!--
           google_ad_client = "pub-1457183695568112";
@@ -22,6 +23,7 @@
           <script type="text/javascript"
             src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
           </script>
+        <?php } ?>
         </td>
         <td align=center style="font-size: 10px; font-family: Verdana; border: 1px dashed gray;">
           <a href="<?php echo "$base_website_address/"?>amici.html" target="_top">SITI AMICI</a>
@@ -35,24 +37,27 @@
       <tr>
         <td width=1% align=center valign=top style="border: 1px solid gray;">
         
-	<script type="text/javascript"><!--
-	google_ad_client = "ca-pub-1457183695568112";
-	/* CollonnaSinistraNew */
-	google_ad_slot = "8636462873";
-	google_ad_width = 160;
-	google_ad_height = 600;
-	//-->
-	</script>
-	<script type="text/javascript"
-	src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-	</script>
+        <?php if ($enable_adsense) { ?>
+        	<script type="text/javascript"><!--
+        	google_ad_client = "ca-pub-1457183695568112";
+        	/* CollonnaSinistraNew */
+        	google_ad_slot = "8636462873";
+        	google_ad_width = 160;
+        	google_ad_height = 600;
+        	//-->
+        	</script>
+        	<script type="text/javascript"
+        	src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+        	</script>
+        <?php } ?>
 
         </td>
-        <td valign=top class="content_td" style="background-color: #000044">
+        <td valign=top class="content_td">
 
           <table border=0 cellspacing="0" cellpadding="0">
             <tr>
               <td>
+        <?php if ($enable_adsense) { ?>
                 <script type="text/javascript"><!--
                 google_ad_client = "pub-1457183695568112";
                 google_ad_width = 728;
@@ -67,9 +72,9 @@
                 google_color_text = ["000000","000000","000000","AECCEB"];
                 google_color_url = ["008000","008000","008000","AECCEB"];
                 //--></script>
-                <script type="text/javascript"
-                  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
                 </script>
+        <?php } ?>
               </td>
             </tr>
           </table>
@@ -82,6 +87,7 @@
             <table border=0 cellspacing="0" cellpadding="0">
               <tr>
                 <td>
+        <?php if ($enable_adsense) { ?>
               		<script type="text/javascript"><!--
               		google_ad_client = "ca-pub-1457183695568112";
               		/* LargeRectangleBasso */
@@ -90,9 +96,9 @@
               		google_ad_height = 280;
               		//-->
               		</script>
-              		<script type="text/javascript"
-              		src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+              		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
               		</script>
+        <?php } ?>
                 </td>
               </tr>
             </table>

@@ -1,14 +1,17 @@
 <?php require("include/index.php"); 
 /*
 	TODO:
-	- JS ascii to high-quality picture converter (chords & scales & tabs)
+	- 1) White Theme
+	- 2) JS ascii to high-quality picture converter (chords & scales & tabs)
 		--> http://www.wikihow.com/Play-Guitar-Chords
-	- fix lame copy
-	- live chord/hand-position photos
+	- 3) Fix lame copy
+	- 4) Live chord/hand-position photos
+	- 5) Responsive optimized theme
 	- progressions
 	- canzoni famose
 	- comments
 	- aggiustare struttura menu/quick-menu
+	- megatabs
 	- Update graphics:
 		==|> JS library to render chords and scales.
 
@@ -43,7 +46,7 @@
 		<meta name="google-site-verification" content="kdEdtblSQTOF5ty2Dhm7aBe7cus0NBMrxn9ky1d-OX4" />
     </head>
     <body bgcolor="#000000" text="#ffffff">
-        <table background="<?php echo "$base_website_address/images/save1.jpg"; ?>" border="0" cellpadding="0" cellspacing="0" width="100%" style="border: 1px solid #333333; margin-bottom: 5px">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border: 1px solid #333333; margin-bottom: 5px">
             <tbody>
                 <tr>
                     <td>
@@ -73,6 +76,78 @@
 			<a href="<?=$base_website_address;?>/propositi.html">&copy; Copyright 2000-<?php echo date("Y") ?> Michele Bosi</a> <br>
 			Some Rights Are Reserved.
 		</div>
+
+		<script src="js/jquery-1.12.0.min.js"></script>
+		<script type="text/javascript">
+			var chord_view = $(".chord-view")[0];
+			var ascii = $(chord_view).text();
+			console.log(ascii);
+			var canvas = document.createElement('canvas');
+			var padding_w = 80;
+			var padding_h = 40;
+			var key_w = 80;
+			var key_h = 40;
+
+			var canvas_w = key_w * 5 + padding_w * 2;;
+			var canvas_h = key_h * 5 + padding_h * 2;
+
+			var neck_w = key_w * 5 + padding_w;
+			var neck_h = key_h * 5;
+
+			canvas.width=canvas_w;
+			canvas.height=canvas_h;
+			// canvas.style.border="1px solid gray";
+			$(chord_view).html('');
+			chord_view.appendChild(canvas);
+
+			var ctx = canvas.getContext("2d");
+
+			// draw strings
+			ctx.strokeStyle="#000000";
+			ctx.lineWidth="1";
+
+			// draw background
+			ctx.fillStyle = "#EEEEEE";
+			ctx.fillRect(0, 0, canvas_w, canvas_h);
+			ctx.strokeRect(0.5, 0.5, canvas_w-1, canvas_h-1);
+			
+			// draw guitar neck
+			ctx.fillStyle = "#EEEEAA";
+			ctx.fillRect(padding_w, padding_h, neck_w, neck_h);
+			ctx.strokeRect(padding_w+0.5, padding_h+0.5, neck_w-1, neck_h-1);
+			
+			// draw strings
+			var y = padding_h + 0.5;
+			for(var i=0; i<5; ++i) {
+				ctx.beginPath();
+				ctx.moveTo(padding_w, y);
+				ctx.lineTo(canvas_w, y);
+				ctx.stroke();
+				y += neck_h/5;
+				console.log(y);
+			}
+
+			ctx.strokeStyle="#000000";
+			ctx.lineWidth="1";
+			var x = padding_w + 0.5;
+			for(var i=0; i<5; ++i) {
+				ctx.beginPath();
+				ctx.moveTo(x, padding_h);
+				ctx.lineTo(x, padding_h + neck_h);
+				ctx.stroke();
+				x += neck_w/5;
+				console.log(x);
+			}
+
+			// draw nut
+			ctx.strokeStyle="#000000";
+			ctx.lineWidth="8";
+			ctx.beginPath();
+			ctx.lineCap="round";
+			ctx.moveTo(padding_w, padding_h);
+			ctx.lineTo(padding_w, padding_h + neck_h);
+			ctx.stroke();
+		</script>
 
 		<?php if ($activate_google_analitics) { ?>
 			<script>

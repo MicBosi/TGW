@@ -23,26 +23,22 @@
 a:link,
 a:visited {
     text-decoration: none;
-    color: #fff080
+    color: crimson;
 }
 a:hover {
     text-decoration: none;
-    color: red;
+    color: gold;
 }
 body {
-    background-image: url(images/gw-shadow.jpg);
+    /*background-image: url(images/gw-shadow.jpg);*/
     background-position: center 75;
     background-repeat: no-repeat;
-    background-color: #000000;
-    color: #FFFFFF;
+    background-color: white;
+    color: #444444;
     font-family: 'Quintessential', cursive;
 }
 h1, h2 {
     font-weight: normal;
-}
-pre {
-    font-family: monospace;
-    font-size: 12px;
 }
 div.c2 {
     padding: 10px;
@@ -118,8 +114,13 @@ h2.back-link {
     font-weight: normal;
 }
 pre {
+    font-family: monospace;
     line-height: 1.5;
+    font-size: 12px;
 }
-pre.tab {
-
+div.chord-view {
+    line-height: 1.5;
+    white-space: pre;
+    font-family: monospace;
+    font-size: 12px;
 }
