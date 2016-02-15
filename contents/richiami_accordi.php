@@ -17,7 +17,7 @@ Per sapere cosa significano i nomi degli accordi leggi <a href="accordi_siglatur
 	<tr>
 		<td>
 Tipo I
-<pre class="tab">
+<pre class="chord-view">
 |-1-|---|---|---|
 |-1-|---|---|---|
 |---|-2-|---|---|
@@ -28,10 +28,10 @@ Tipo I
 		</td>
 		<td>
 Tipo Im (minore)
-<pre>
+<pre class="chord-view">
 |-1-|---|---|---|
 |-1-|---|---|---|
-|---|-2-|---|---|
+|-1-|---|---|---|
 |---|---|-4-|---|
 |---|---|-3-|---|
 |-1-|---|---|---|
@@ -42,7 +42,7 @@ Tipo Im (minore)
 	<tr>
 		<td>
 Tipo II
-<pre class="tab">
+<pre class="chord-view">
 |-1-|---|---|---|
 |---|---|-4-|---|
 |---|---|-3-|---|
@@ -53,7 +53,7 @@ Tipo II
 		</td>
 		<td>
 Tipo IIm (minore)
-<pre>
+<pre class="chord-view">
 |-1-|---|---|---|
 |---|-2-|---|---|
 |---|---|-4-|---|
@@ -81,41 +81,41 @@ I POWER-CHORD traggono il massimo del vantaggio da questi schemi, specialmente p
 
 
 <br><font size=5>D</font>isposizione degli accordi barrè sulla tastiera in DO maggiore:
-<table border="0" width="100%" cellpadding="5" BGCOLOR="#404040" >
+<table border="0" width="100%" cellpadding="5" bgcolor="#F0F0F0">
 <tr align="center">
-<td bgcolor="#000045"><h3> II </td>
+<td bgcolor="#D0D0D0"><h3> II </td>
 <td width="7%" >0</td> 
-<td width="7%" BGCOLOR="#ff0000">VIIdim</td> 
-<td width="7%" BGCOLOR="#ff0000">I</td> 
+<td width="7%" BGCOLOR="#EEEEAA">VIIdim</td> 
+<td width="7%" BGCOLOR="#EEEEAA">I</td> 
 <td width="7%" >0</td> 
-<td width="7%" BGCOLOR="#ff0000">IIm</td> 
+<td width="7%" BGCOLOR="#EEEEAA">IIm</td> 
 <td width="7%">0</td>
-<td width="7%" BGCOLOR="#ff0000">IIIm</td> 
-<td width="7%" BGCOLOR="#ff0000">IV</td> 
+<td width="7%" BGCOLOR="#EEEEAA">IIIm</td> 
+<td width="7%" BGCOLOR="#EEEEAA">IV</td> 
 <td width="7%">0</td> 
-<td width="7%" BGCOLOR="#ff0000">V</td> 
+<td width="7%" BGCOLOR="#EEEEAA">V</td> 
 <td width="7%" >0</td> 
-<td width="7%" BGCOLOR="#ff0000">VIm</td>
+<td width="7%" BGCOLOR="#EEEEAA">VIm</td>
 <td width="7%">0</td> 
-<td width="7%" BGCOLOR="#ff0000">VIIdim</td> </tr>
+<td width="7%" BGCOLOR="#EEEEAA">VIIdim</td> </tr>
 
 <tr align="center">
-<td bgcolor="#000045"><h3> I </td>
-<td width="7%" BGCOLOR="#ff0000" >IV</td> 
+<td bgcolor="#D0D0D0"><h3> I </td>
+<td width="7%" BGCOLOR="#EEEEAA" >IV</td> 
 <td width="7%">0</td> 
-<td width="7%" BGCOLOR="#ff0000" >V</td> 
+<td width="7%" BGCOLOR="#EEEEAA" >V</td> 
 <td width="7%">0</td> 
-<td width="7%" BGCOLOR="#ff0000" >VIm</td> 
+<td width="7%" BGCOLOR="#EEEEAA" >VIm</td> 
 <td width="7%">0</td>
-<td width="7%" BGCOLOR="#ff0000" >VIIdim</td> 
-<td width="7%" BGCOLOR="#ff0000" >I</td> 
+<td width="7%" BGCOLOR="#EEEEAA" >VIIdim</td> 
+<td width="7%" BGCOLOR="#EEEEAA" >I</td> 
 <td width="7%">0</td> 
-<td width="7%" BGCOLOR="#ff0000" >IIm</td> 
+<td width="7%" BGCOLOR="#EEEEAA" >IIm</td> 
 <td width="7%">0</td> 
-<td width="7%" BGCOLOR="#ff0000" >IIIm</td>
-<td width="7%" BGCOLOR="#ff0000" >IV</td>
+<td width="7%" BGCOLOR="#EEEEAA" >IIIm</td>
+<td width="7%" BGCOLOR="#EEEEAA" >IV</td>
 <td width="7%">0</td> </tr>
-<tr align=center bgcolor="#000045">
+<tr align=center bgcolor="#D0D0D0">
 <td></td>
 <td>1</td>
 <td>2</td>
@@ -136,40 +136,40 @@ I POWER-CHORD traggono il massimo del vantaggio da questi schemi, specialmente p
 
 </table>
 <br>ovvero: <br>
-<table border="0" width="100%" cellpadding="5" BGCOLOR="#404040">
+<table border="0" width="100%" cellpadding="5" bgcolor="#F0F0F0">
 <tr align="center">
-<td bgcolor="#000045"><h3> II </td>
+<td bgcolor="#D0D0D0"><h3> II </td>
 <td width="7%" >0</td> 
-<td width="7%"  BGCOLOR="#ff0000">Sidim</td> 
-<td width="7%"  BGCOLOR="#ff0000">DO</td> 
+<td width="7%"  BGCOLOR="#EEEEAA">Sidim</td> 
+<td width="7%"  BGCOLOR="#EEEEAA">DO</td> 
 <td width="7%" >0</td> 
-<td width="7%"  BGCOLOR="#ff0000">REm</td> 
+<td width="7%"  BGCOLOR="#EEEEAA">REm</td> 
 <td width="7%">0</td>
-<td width="7%"  BGCOLOR="#ff0000">MIm</td> 
-<td width="7%"  BGCOLOR="#ff0000">FA</td> 
+<td width="7%"  BGCOLOR="#EEEEAA">MIm</td> 
+<td width="7%"  BGCOLOR="#EEEEAA">FA</td> 
 <td width="7%">0</td> 
-<td width="7%"  BGCOLOR="#ff0000">SOL</td> 
+<td width="7%"  BGCOLOR="#EEEEAA">SOL</td> 
 <td width="7%">0</td> 
-<td width="7%" BGCOLOR="#ff0000" >LAm</td>
+<td width="7%" BGCOLOR="#EEEEAA" >LAm</td>
 <td width="7%">0</td> 
-<td width="7%"  BGCOLOR="#ff0000">SIdim</td> </tr>
+<td width="7%"  BGCOLOR="#EEEEAA">SIdim</td> </tr>
 <tr align="center">
-<td bgcolor="#000045"><h3> I </td>
-<td width="7%" BGCOLOR="#ff0000">FA</td> 
+<td bgcolor="#D0D0D0"><h3> I </td>
+<td width="7%" BGCOLOR="#EEEEAA">FA</td> 
 <td width="7%" >0</td> 
-<td width="7%" BGCOLOR="#ff0000" >SOL</td> 
+<td width="7%" BGCOLOR="#EEEEAA" >SOL</td> 
 <td width="7%" >0</td> 
-<td width="7%"  BGCOLOR="#ff0000">LAm</td> 
+<td width="7%"  BGCOLOR="#EEEEAA">LAm</td> 
 <td width="7%" >0</td>
-<td width="7%"  BGCOLOR="#ff0000">SIdim</td> 
-<td width="7%" BGCOLOR="#ff0000" >DO</td> 
+<td width="7%"  BGCOLOR="#EEEEAA">SIdim</td> 
+<td width="7%" BGCOLOR="#EEEEAA" >DO</td> 
 <td width="7%" >0</td> 
-<td width="7%"  BGCOLOR="#ff0000">REm</td> 
+<td width="7%"  BGCOLOR="#EEEEAA">REm</td> 
 <td width="7%" >0</td> 
-<td width="7%"  BGCOLOR="#ff0000">MIm</td>
-<td width="7%"  BGCOLOR="#ff0000">FA</td>
+<td width="7%"  BGCOLOR="#EEEEAA">MIm</td>
+<td width="7%"  BGCOLOR="#EEEEAA">FA</td>
 <td width="7%">0</td> </tr>
-<tr align=center bgcolor="#000045">
+<tr align=center bgcolor="#D0D0D0">
 <td></td>
 <td>1</td>
 <td>2</td>

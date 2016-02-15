@@ -24,17 +24,16 @@ Si = B<br>
 
 
 Do
-<pre class="tab">
-                       Corde:
-0 ||---|---|---|---|   Mi (acuto)
-  ||-1-|---|---|---|   Si
-0 ||---|---|---|---|   Sol
-  ||---|-2-|---|---|   Re
-  ||---|---|-3-|---|   La
-X ||---|---|---|---|   Mi (grave)
+<pre class="chord-view">
+0 ||---|---|---|---|
+  ||-1-|---|---|---|
+0 ||---|---|---|---|
+  ||---|-2-|---|---|
+  ||---|---|-3-|---|
+X ||---|---|---|---|
 </pre>
 
-<b><font size=5>L</font></b>o schema rappresenta i primi quattro tasti del manico della chitarra, le linee orizzontali rappresentano le sei corde, in basso la più grave in alto la più acuta, le linee verticali rappresentano i tasti, la prima linea verticale più spessa indica il capotasto.<br>
+<b><font size=5>L</font></b>o schema rappresenta i primi quattro tasti del manico della chitarra, le linee orizzontali rappresentano le sei corde, in basso la più grave (Mi basso), in alto la più acuta (Mi cantino). Le linee verticali rappresentano i tasti, la prima linea verticale più spessa indica il capotasto.<br>
 Lo zero prima del capotasto indica che relativa la corda va suonata a vuoto, la "X" indica che la corda non va suonata.<br>
 I numeri che stanno dopo il capotasto indicano il dito da usare per premere il relativo tasto/corda, secondo il seguente schema:<br>
 <br>1 = Indice.
@@ -47,7 +46,7 @@ In questa notazione i numeri indicano il numero del tasto da premere e non il di
 Ad es.<br><br>
 
 Sol
-<pre class="tab">
+<pre class="chord-view">
 |-1-|---|---|---| 
 |-1-|---|---|---| 
 |---|-2-|---|---| 

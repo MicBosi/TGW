@@ -13,235 +13,31 @@ title: Scala maggiore
 <br><br>
 <font size=5>S</font>cala Maggiore.<br>
 
-<table bgcolor=white><tr><td><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><br><!
-><img src="fragments/nota1r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1r.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><br><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-></td></tr>
-</table>
+<pre>
+|-4--|----|-5--|----|-6--|----|-7--|-1r-|----|-2--|----|-3--|-4--|----|-5--|----|-6--
+|-1r-|----|-2--|----|-3--|-4--|----|-5--|----|-6--|----|-7--|-1r-|----|-2--|----|-3--
+|----|-6--|----|-7--|-1r-|----|-2--|----|-3--|-4--|----|-5--|----|-6--|----|-7--|-1r-
+|----|-3--|-4--|----|-5--|----|-6--|----|-7--|-1r-|----|-2--|----|-3--|-4--|----|-5--
+|----|-7--|-1r-|----|-2--|----|-3--|-4--|----|-5--|----|-6--|----|-7--|-1r-|----|-2--
+|-4--|----|-5--|----|-6--|----|-7--|-1r-|----|-2--|----|-3--|-4--|----|-5--|----|-6--
+</pre>
 
 <br>
 
 <br>
 BOX I
 
-<table bgcolor=white><tr><td><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><br><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><br><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-></td></tr>
-</table>
+<pre>
+|-4--|----|-5--|----|-6--|----|-7r-|-1b-|----|-2r-|----|-3--|-4--|----|-5--|----|-6--
+|-1--|----|-2--|----|-3--|-4--|----|-5r-|----|-6r-|----|-7--|-1--|----|-2--|----|-3--
+|----|-6--|----|-7--|-1--|----|-2r-|----|-3r-|-4r-|----|-5--|----|-6--|----|-7--|-1--
+|----|-3--|-4--|----|-5--|----|-6r-|----|-7r-|-1b-|----|-2--|----|-3--|-4--|----|-5--
+|----|-7--|-1--|----|-2--|----|-3r-|-4r-|----|-5r-|----|-6--|----|-7--|-1--|----|-2--
+|-4--|----|-5--|----|-6--|----|-7r-|-1b-|----|-2r-|----|-3--|-4--|----|-5--|----|-6--
+</pre>
 
 <pre>
-<font color=white bgcolor=red><b><i>BOX I TAB., tonalità di SOL</i>:</b>
+<b><i>BOX I TAB., tonalità di SOL</i>:</b>
 
    ASCENDENTE                           DISCENDENTE
 ||-----------------------------2-3-5--|-5-3-2------------------------------||
@@ -251,7 +47,6 @@ BOX I
 ||-------2-3-5------------------------|-----------------------5-3-2--------||
 ||-2-3-5------------------------------|-----------------------------5-3-2--||
    1 2 4 1 2 4 1 3 4 1 3 4 2 4 1 2 4    4 2 1 4 2 4 3 1 4 3 1 4 2 1 4 2 1
-</font>
 </pre>
 
 
@@ -259,119 +54,17 @@ BOX I
 <br>
 BOX II
 
-<table bgcolor=white><tr><td><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><br><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><br><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-></td></tr>
-</table>
+<pre>
+|-4--|----|-5--|----|-6--|----|-7--|-1--|----|-2r-|----|-3r-|-4r-|----|-5--|----|-6--
+|-1--|----|-2--|----|-3--|-4--|----|-5--|----|-6r-|----|-7r-|-1b-|----|-2--|----|-3--
+|----|-6--|----|-7--|-1--|----|-2--|----|-3r-|-4r-|----|-5r-|----|-6--|----|-7--|-1--
+|----|-3--|-4--|----|-5--|----|-6--|----|-7r-|-1b-|----|-2r-|----|-3--|-4--|----|-5--
+|----|-7--|-1--|----|-2--|----|-3--|-4--|----|-5r-|----|-6r-|----|-7--|-1--|----|-2--
+|-4--|----|-5--|----|-6--|----|-7--|-1--|----|-2r-|----|-3r-|-4r-|----|-5--|----|-6--
+</pre>
 
 <pre>
-<font color=white bgcolor=red><b><i>BOX II, tonalità di SOL</i>:</b>
+<b><i>BOX II, tonalità di SOL</i>:</b>
 
    ASCENDENTE                           DISCENDENTE
 ||-----------------------------5-7-8--|--8-7-5------------------------------||
@@ -381,126 +74,23 @@ BOX II
 ||-------5-7--------------------------|--------------------------7-5--------||
 ||-5-7-8------------------------------|------------------------------8-7-5--||
    1 3 4 1 3 1 2 4 1 2 4 1 3 4 1 3 4     4 3 1 4 3 1 4 2 1 4 2 1 4 2 4 3 1
-</font>
 </pre>
 
 <br>
 BOX III
 
-<table bgcolor=white><tr><td><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><br><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><br><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-></td></tr>
-</table>
+<pre>
+|-4--|----|-5--|----|-6--|----|-7--|-1--|----|-2--|----|-3r-|-4r-|----|-5r-|----|-6--
+|-1--|----|-2--|----|-3--|-4--|----|-5--|----|-6--|----|-7r-|-1b-|----|-2r-|----|-3--
+|----|-6--|----|-7--|-1--|----|-2--|----|-3--|-4--|----|-5r-|----|-6r-|----|-7--|-1--
+|----|-3--|-4--|----|-5--|----|-6--|----|-7--|-1--|----|-2r-|----|-3r-|-4r-|----|-5--
+|----|-7--|-1--|----|-2--|----|-3--|-4--|----|-5--|----|-6r-|----|-7r-|-1b-|----|-2--
+|-4--|----|-5--|----|-6--|----|-7--|-1--|----|-2--|----|-3r-|-4r-|----|-5r-|----|-6--
+</pre>
 
 
 <pre>
-<font color=white bgcolor=red><b><i>BOX III, tonalità di SOL</i>:</b>
+<b><i>BOX III, tonalità di SOL</i>:</b>
 
    ASCENDENTE                               DISCENDENTE
 ||---------------------------------7-8-10-|-10-8-7---------------------------------||
@@ -510,7 +100,6 @@ BOX III
 ||--------7-9-10--------------------------|--------------------------10-9-7--------||
 ||-7-8-10---------------------------------|---------------------------------10-8-7-||
    1 2 4  1 3 4  1 3 4  1 3 1 2 4  1 2 4    4  2 1 4  2 1 3 1 4  3 1 4  3 1 4  2 1 
-</font>
 </pre>
 
 
@@ -518,121 +107,19 @@ BOX III
 <br>
 BOX IV
 
-<table bgcolor=white><tr><td><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><br><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><br><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-></td></tr>
-</table>
+<pre>
+|-4--|----|-5r-|----|-6r-|----|-7--|-1--|----|-2--|----|-3--|-4--|----|-5--|----|-6--
+|-1--|----|-2r-|----|-3r-|-4r-|----|-5--|----|-6--|----|-7--|-1--|----|-2--|----|-3--
+|----|-6r-|----|-7r-|-1b-|----|-2--|----|-3--|-4--|----|-5--|----|-6--|----|-7--|-1--
+|----|-3r-|-4r-|----|-5r-|----|-6--|----|-7--|-1--|----|-2--|----|-3--|-4--|----|-5--
+|----|-7r-|-1b-|----|-2r-|----|-3--|-4--|----|-5--|----|-6--|----|-7--|-1--|----|-2--
+|-4--|----|-5r-|----|-6r-|----|-7--|-1--|----|-2--|----|-3--|-4--|----|-5--|----|-6--
+</pre>
 
 
 
 <pre>
-<font color=white bgcolor=red><b><i>BOX IV, tonalità di DO</i>:</b>
+<b><i>BOX IV, tonalità di DO</i>:</b>
 
    ASCENDENTE                         DISCENDENTE
 ||-----------------------------3-5--|-5-3------------------------------||
@@ -642,127 +129,24 @@ BOX IV
 ||-----2-3-5------------------------|-----------------------5-3-2------||
 ||-3-5------------------------------|-----------------------------5-3--||
    2 4 1 2 4 1 2 4 1 3 4 1 3 4 1 3    3 1 4 3 1 4 3 1 4 2 1 4 2 1 4 2
-</font>
 </pre>
 
 
 <br>
 BOX V
 
-<table bgcolor=white><tr><td><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><br><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><br><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota6.gif"><!
-></td></tr>
-</table>
+<pre>
+|-4--|----|-5--|----|-6r-|----|-7r-|-1b-|----|-2--|----|-3--|-4--|----|-5--|----|-6--
+|-1--|----|-2--|----|-3r-|-4r-|----|-5r-|----|-6--|----|-7--|-1--|----|-2--|----|-3--
+|----|-6--|----|-7r-|-1b-|----|-2r-|----|-3--|-4--|----|-5--|----|-6--|----|-7--|-1--
+|----|-3--|-4--|----|-5r-|----|-6r-|----|-7--|-1--|----|-2--|----|-3--|-4--|----|-5--
+|----|-7--|-1--|----|-2r-|----|-3r-|-4r-|----|-5--|----|-6--|----|-7--|-1--|----|-2--
+|-4--|----|-5--|----|-6r-|----|-7r-|-1b-|----|-2--|----|-3--|-4--|----|-5--|----|-6--
+</pre>
 
 
 <pre>
-<font color=white bgcolor=red><b><i>BOX V, tonalità di DO</i>:</b>
+<b><i>BOX V, tonalità di DO</i>:</b>
 
    ASCENDENTE                           DISCENDENTE
 ||-----------------------------6-7-8--|-8-7-6------------------------------||
@@ -772,7 +156,6 @@ BOX V
 ||-------5-7-8------------------------|-----------------------8-7-5--------||
 ||-5-7-8------------------------------|-----------------------------8-7-5--||
    1 3 4 1 3 4 1 3 1 2 4 1 2 4 1 3 4    4 3 1 4 2 1 4 2 1 4 2 4 3 1 4 3 1 
-</font>
 </pre>
 
 
