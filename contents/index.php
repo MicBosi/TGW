@@ -4,6 +4,10 @@ description: Corso di chitarra online, spartiti per chitarra, trova accordi, tab
 title: The Guitar Wizard - Corso di chitarra online, esercizi e tablature, trova spartiti per chitarra, accordi e testi di canzoni
 template: index
 -->
+<div style="margin-top: 2em; text-align: center;">
+    <div class="fb-like" data-href="<?php echo $canonical_url; ?>" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+</div>
+
 <table border=0 cellpadding="0" cellspacing="0">
     <tr>
         <td valign=top>

@@ -39,17 +39,16 @@
 		<link rel="canonical" href="<?php echo $canonical_url; ?>" />
 		<title><?php echo $header['title']; ?></title>
 		
+		<meta property="fb:app_id" content="1463619127203730"/>
 		<meta property="og:url" content="<?php echo $canonical_url; ?>"/>
 		<meta property="og:type" content="blog"/>
 		<meta property="og:title" content="<?php echo $header['title']; ?>"/>
 		<meta property="og:image" content="http://theguitarwizard.com/images/tgw-logo.jpg"/>
 		<meta property="og:site_name" content="The Guitar Wizard"/>
 		<meta property="og:description" content="<?php echo $header['description']; ?>"/>
-		<meta property="og:author" content="<?php echo $header['author']; ?>" />
 
 		<meta name="description" content="<?php echo $header['description']; ?>" />
 		<meta name="keywords" content="<?php echo $header['keywords']; ?>" />
-		<meta name="author" content="<?php echo $header['author']; ?>" />
 		<meta name="copyright" content="&copy; 2000-2016 Michele Bosi" />
 		<meta name="robots" content="index, follow" />
 		<link rel="shortcut icon" href="<?php echo "$base_website_address/favicon.ico" ?>" />
@@ -98,9 +97,12 @@
 		<script src="js/tgw.js"></script>
 
 <!-- comments -->
-		<center>
+		<div style="margin-top: 2em; text-align: center;">
+			<h1>
+				Lascia un commento o una domanda
+			</h1>
 			<div class="fb-comments" data-href="<?php echo $canonical_url; ?>" data-numposts="10"></div>
-		</center>
+		</div>
 		
 <!-- footer -->
 		<div style="padding: 5px; margin: 8em 0 1em 0; font-family: 'IM Fell English SC', serif; font-size: 16px; text-align: center;">
