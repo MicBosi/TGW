@@ -3,6 +3,10 @@
         <tr>
             <td valign=top class="content_td">
                 <div id="default-content">
+                    <div style="text-align: left;">
+                        <div class="fb-like" data-href="<?php echo $canonical_url; ?>" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+                    </div>
+                    
                     <?php require($content_path); ?>
                     
                     <div style="margin-top: 2em; text-align: center;">
