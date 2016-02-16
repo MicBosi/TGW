@@ -36,16 +36,15 @@ title: Sweep picking su accordi maggiori
 
 <font size=5>T</font>riade maggiore, schema A.<br>
 
-<table bgcolor=white><tr><td>
+<pre class="scale-view">
+|----|----|-5--|----|----|----|----|-1t-|----|----|----|-3s-|----|----|-5--
+|-1--|----|----|----|-3--|----|----|-5s-|----|----|----|----|-1--|----|----
+|----|----|----|----|-1--|----|----|----|-3s-|----|----|-5--|----|----|----
+|----|-3--|----|----|-5--|----|----|----|----|-1t-|----|----|----|-3--|----
+|----|----|-1--|----|----|----|-3b-|----|----|-5s-|----|----|----|----|-1--
+|----|----|-5--|----|----|----|----|-1t-|----|----|----|-3b-|----|----|-5--
+</pre>
 
-<img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1r.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota3r.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5.gif"><br>
-<img src="fragments/nota1.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota3.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5r.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><br>
-<img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota3r.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><br>
-<img src="fragments/nonnota.gif"><img src="fragments/nota3.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1r.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota3.gif"><img src="fragments/nonnota.gif"><br>
-<img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota3b.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5r.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1.gif"><br>
-<img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1r.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota3b.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5.gif">
-</td></tr>
-</table>
 <pre>
 Sweep in DO
 
@@ -75,16 +74,14 @@ Sweep in DO
 
 <font size=5>T</font>riade maggiore,  schema B.<br>
 
-<table bgcolor=white><tr><td>
-
-<img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota3r.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5r.gif"><br>
-<img src="fragments/nota1.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota3.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1r.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><br>
-<img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota3.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5r.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><br>
-<img src="fragments/nonnota.gif"><img src="fragments/nota3.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota3r.gif"><img src="fragments/nonnota.gif"><br>
-<img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota3.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5r.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1r.gif"><br>
-<img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota3r.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5.gif">
-</td></tr>
-</table>
+<pre class="scale-view">
+|----|----|-5--|----|----|----|----|-1--|----|----|----|-3s-|----|----|-5s-
+|-1--|----|----|----|-3--|----|----|-5--|----|----|----|----|-1t-|----|----
+|----|----|----|----|-1--|----|----|----|-3--|----|----|-5s-|----|----|----
+|----|-3--|----|----|-5--|----|----|----|----|-1--|----|----|----|-3s-|----
+|----|----|-1--|----|----|----|-3--|----|----|-5s-|----|----|----|----|-1t-
+|----|----|-5--|----|----|----|----|-1--|----|----|----|-3s-|----|----|-5--
+</pre>
 
 <pre>
 Sweep SOL
@@ -117,16 +114,14 @@ Sweep SOL
 
 <font size=5>T</font>riade maggiore,  schema C.<br>
 
-<table bgcolor=white><tr><td>
-
-<img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5r.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1r.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota3.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5.gif"><br>
-<img src="fragments/nota1.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota3r.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><br>
-<img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1r.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota3.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><br>
-<img src="fragments/nonnota.gif"><img src="fragments/nota3b.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5r.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota3.gif"><img src="fragments/nonnota.gif"><br>
-<img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1r.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota3b.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1.gif"><br>
-<img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5r.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota1.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota3.gif"><img src="fragments/nonnota.gif"><img src="fragments/nonnota.gif"><img src="fragments/nota5.gif">
-</td></tr>
-</table>
+<pre class="scale-view">
+|----|----|-5s-|----|----|----|----|-1t-|----|----|----|-3--|----|----|-5--
+|-1--|----|----|----|-3s-|----|----|-5--|----|----|----|----|-1--|----|----
+|----|----|----|----|-1t-|----|----|----|-3--|----|----|-5--|----|----|----
+|----|-3b-|----|----|-5s-|----|----|----|----|-1--|----|----|----|-3--|----
+|----|----|-1t-|----|----|----|-3b-|----|----|-5--|----|----|----|----|-1--
+|----|----|-5s-|----|----|----|----|-1--|----|----|----|-3--|----|----|-5--
+</pre>
 
 
 <pre>

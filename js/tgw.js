@@ -306,6 +306,9 @@ TGW = (function() {
 					if (fret_value.match(/\dt/)) {
 						draw_round_number(fret_value[0], padding_w + fret_number*key_w + key_w/2, padding_h + key_h*string_index, "#FF0000", "#888888", "#FFFFFF");
 					} else
+					if (fret_value.match(/\db/)) {
+						draw_round_number(fret_value[0], padding_w + fret_number*key_w + key_w/2, padding_h + key_h*string_index, "#0000FF", "#888888", "#FFFFFF");
+					} else
 					if (fret_value.match(/\d/)) {
 						draw_round_number(fret_value[0], padding_w + fret_number*key_w + key_w/2, padding_h + key_h*string_index, "#DDDDDD", "#AAAAAA", "#AAAAAA");
 					} else
