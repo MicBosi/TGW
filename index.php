@@ -47,24 +47,15 @@
 		<link href="<?php echo "$base_website_address/$template_directory/stylesheet.css" ?>" rel="stylesheet" type="text/css" />
 		<meta name="google-site-verification" content="kdEdtblSQTOF5ty2Dhm7aBe7cus0NBMrxn9ky1d-OX4" />
     </head>
-    <body bgcolor="#000000" text="#ffffff">
-        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border: 1px solid #333333; margin-bottom: 5px">
+    <body>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-bottom: 5px">
             <tbody>
                 <tr>
                     <td>
                         <center>
-                            <h1 id="tgw-title">
-                                <a href="<?php echo "$base_website_address"; ?>/" title="Lezioni di chitarra, guide di teoria e tecnica, spartiti, testi e accordi di canzoni">The Guitar Wizard</a>
-                            </h1>
+                            <h1 id="tgw-title"> <a href="<?php echo "$base_website_address"; ?>/" title="Lezioni di chitarra, guide di teoria e tecnica, spartiti, testi e accordi di canzoni">The Guitar Wizard</a></h1>
+                            <h2>Scopri La Magia Di Suonare Chitarra</h2>
                         </center>
-                    </td>
-                    <td align=right width=1%>
-                        <a href="<?php echo $base_website_address; ?>/index_eng.html">
-                        <img border=0 style="border: 1px solid black" src="<?php echo $base_website_address; ?>/images/en.gif"/>
-                        </a>
-                        <a href="<?php echo $base_website_address; ?>/index.html">
-                        <img border=0 style="border: 1px solid black" src="<?php echo $base_website_address; ?>/images/it.gif"/>
-                        </a>
                     </td>
                 </tr>
             </tbody>

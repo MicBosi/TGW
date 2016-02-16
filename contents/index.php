@@ -23,70 +23,6 @@ template: index
     <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 </center>
 
-<table border="0" cellpadding="5" cellspacing="5" width="100%" style="margin-top: 5px " >
-    <tbody>
-        <tr>
-            <td style="border: 1px solid gray;" align=center valign="middle" width="33%">
-                <h1 style="padding: 0px; margin: 0px; font-weight: normal; font-size: 24px">
-                    <a title="i migliori produttori di chitarre, fender, gibson, ibanez, esp, jackson, bcrich, ovation, yamaha, takamine" href="http://www.amazon.it/s/url=search-alias%3Dstripbooks&field-keywords=chitarra" target="_blank">
-                    Manuali di chitarra su Amazon.
-                </h1>
-            </td>
-            <td style="border: 1px solid gray;" align=center width="33%">
-                <h1 style="padding: 0px; margin: 0px; font-weight: normal; font-size: 24px; color: fff080">
-                    <a title="Trova Discografie, Spartiti, Accordi, Testi, Tablature Di Artisti Italiani E Stranieri" href="<?php echo "$base_website_address/$spartiti_dir/index.html"; ?>">
-                    Discografie, Spartiti Per Chitarra, Accordi, Testi, Tablature Di Artisti Italiani E Stranieri</a>
-                </h1>
-            </td>
-            <td style="border: 1px solid gray;" align=center valign="middle" width="33%">
-                <h2>Cerca nel sito o nel web</h2>
-                <!-- SiteSearch Google -->
-                <form method="get" action="http://www.google.com/custom" target="_top">
-                    <table border="0">
-                        <tr>
-                            <td nowrap="nowrap" valign="top" align="left" height="32">
-                                <a href="http://www.google.com/">
-                                <img src="http://www.google.com/logos/Logo_25wht.gif" border="0" alt="Google" align="middle"></img></a>
-                            </td>
-                            <td nowrap="nowrap">
-                                <input type="hidden" name="domains" value="theguitarwizard.com"></input>
-                                <label for="sbi" style="display: none">Inserisci i termini di ricerca</label>
-                                <input type="text" name="q" size="31" maxlength="255" value="" id="sbi"></input>
-                                <label for="sbb" style="display: none">Invia modulo di ricerca</label>
-                                <input type="submit" name="sa" value="Cerca" id="sbb"></input>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>&nbsp;</td>
-                            <td nowrap="nowrap">
-                                <table>
-                                    <tr>
-                                        <td>
-                                            <input type="radio" name="sitesearch" value="" id="ss0"></input>
-                                            <label for="ss0" title="Ricerca nel Web">Web</label>
-                                        </td>
-                                        <td>
-                                            <input type="radio" name="sitesearch" value="theguitarwizard.com" checked id="ss1"></input>
-                                            <label for="ss1" title="Cerca theguitarwizard.com">TheGuitarWizard.com</label>
-                                        </td>
-                                    </tr>
-                                </table>
-                                <input type="hidden" name="client" value="pub-1457183695568112"></input>
-                                <input type="hidden" name="forid" value="1"></input>
-                                <input type="hidden" name="ie" value="ISO-8859-1"></input>
-                                <input type="hidden" name="oe" value="ISO-8859-1"></input>
-                                <input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:1"></input>
-                                <input type="hidden" name="hl" value="it"></input>
-                            </td>
-                        </tr>
-                    </table>
-                </form>
-                <!-- SiteSearch Google -->
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 <table border=0 cellpadding="0" cellspacing="0">
     <tr>
         <td valign=top align=center style="text-align: top; border: 1px solid white;">
@@ -182,77 +118,6 @@ template: index
                                 </li>
                             </ul>
 
-                            <h1>teoria musicale</h1>
-                            <p>Queste lezioni introducono i concetti fondamentali della teoria musicale e dell'armonia,
-                            fondamentale per qualsiasi corso di chitarra degno di tale nome. Le lezioni spiegheranno
-                            come sono costruite le scale, gli accordi, cosa significa armonizzazione, cosa è la tonalità
-                            e molto altro.
-                            </p>
-                            <h2>teoria e scale</h2>
-                            <ul>
-                                <li>
-                                    <a title="teoria per chitarra: suoni, toni e semitoni" href="toni.html">Suoni, Toni e Semitoni</a>
-                                </li>
-                                <li>
-                                    <a title="teoria per chitarra: costruzione e tonalità di una scala" href="scale_intervalli_tonalita.html">Scale, Intervalli, Tonalità</a>
-                                </li>
-                                <li>
-                                    <a title="teoria per chitarra: modulazione tra scale" href="circolo_delle_quinte.html">Circolo Delle Quarte e Quinte</a>
-                                </li>
-                                <li>
-                                    <a title="teoria per chitarra: costruzione della scala maggiore" href="scala_maggiore.html">Scala Maggiore</a>
-                                </li>
-                                <li>
-                                    <a title="teoria per chitarra: costruzione della scala minore" href="scale_minori.html">Scale Minori</a>
-                                </li>
-                                <li>
-                                    <a title="teoria per chitarra: cosa sono i modi e le scale modali" href="scale_modali.html">Scale Modali</a>
-                                </li>
-                            </ul>
-                            <h2>mini corso di armonia</h2>
-                            <ul>
-                                <li>
-                                    <a title="armonia per chitarra: tipi di intervalli" href="intervalli.html"> Intervalli Consonanti &amp; Dissonanti</a>
-                                </li>
-                                <li>
-                                    <a title="armonia per chitarra: capire gli armonici" href="teoria_armonici.html">Teoria Fisica Degli Armonici</a>
-                                </li>
-                                <li>
-                                    <a title="armonia per chitarra: costrire gli accordi base" href="triadi.html">Triadi Principali &amp; Rivolti</a>
-                                </li>
-                                <li>
-                                    <a title="armonia per chitarra: variazioni sugli accordi" href="accordi_allargati.html">Accordi Allargati &amp; Estesi</a>
-                                </li>
-                                <li>
-                                    <a title="armonia per chitarra: accordi a quattro voci" href="quadriadi.html">Quadriadi</a>
-                                </li>
-                                <li>
-                                    <a title="armonia per chitarra: accordi di seconda e quarta sospesa e accordi di sesta e nona" href="accordi_di_6a.html">Accordi sus2 sus4 6a 9a</a>
-                                </li>
-                                <li>
-                                    Accordi 11a 13a
-                                </li>
-                                <li>
-                                    Accordi Alterati
-                                </li>
-                                <li>
-                                    Uso Delle Dissonanze
-                                </li>
-                                <li>
-                                    <a title="armonia per chitarra: come armonizzare le scale" href="armonizzazione_scale.html">Armonizzazione Delle Scale</a>
-                                </li>
-                                <li>
-                                    <a title="armonia per chitarra: principali cadenze delle scale" href="cadenze.html">Cadenze Degli Accordi</a>
-                                </li>
-                                <li>
-                                    Similitudini &amp; Sostituzioni &amp;
-                                    Equivalenze
-                                </li>
-                                <li>
-                                    Dominanti Secondarie
-                                </li>
-                            </ul>
-
                             <h1>come suonare gli accordi</h1>
                             <p>Le seguenti lezioni mostrano come suonare gli accordi sulla chitarra, partendo da quelli piu' semplici fino agli accordi col barre', di settima, power chords e sospesi. Verranno mostrate anche le diteggiature delle varie triadi e quadriadi in modo da capire bene come costruire gli accordi in qualunque punto del manico della chitarra.</p>
 
@@ -322,6 +187,29 @@ template: index
                                 </li>
                             </ul>
 
+                            <h1>introduzione al blues</h1>
+                            <p>Le seguenti lezioni vogliono essere un'introduzione pratica e veloce al Blues, dato che per affrontare questo tema
+                            in maniera completa occuperebbe un intero corso di chitarra. Le lezioni prendono in considerazione i concetti fondamentali
+                            di questo stile e la loro applicazione alla chitarra.</p>
+                            
+                            <ul>
+                                <li>
+                                    <a title="come suonare il blues" href="blues.html">Come Suonare Il Blues</a>
+                                </li>
+                                <li>
+                                    Storia
+                                </li>
+                                <li>
+                                    Tabulati &amp; Spartiti
+                                </li>
+                                <li>
+                                    Licks &amp; Assoli
+                                </li>
+                                <li>
+                                    Multimedia
+                                </li>
+                            </ul>
+
                             <h1>scale</h1>
                             <p>Parte fondamentale del corso di chitarra sono le seguenti lezioni che mostrano
                             le diteggiature delle scale più usate come la scala Maggiore, Minore, Melodica,
@@ -357,6 +245,77 @@ template: index
                                 </li>
                                 <li>
                                     Scale Esotiche
+                                </li>
+                            </ul>
+
+                            <h1>teoria musicale</h1>
+                            <p>Queste lezioni introducono i concetti fondamentali della teoria musicale e dell'armonia,
+                            fondamentale per qualsiasi corso di chitarra degno di tale nome. Le lezioni spiegheranno
+                            come sono costruite le scale, gli accordi, cosa significa armonizzazione, cosa è la tonalità
+                            e molto altro.
+                            </p>
+                            <h2>teoria e scale</h2>
+                            <ul>
+                                <li>
+                                    <a title="teoria per chitarra: suoni, toni e semitoni" href="toni.html">Suoni, Toni e Semitoni</a>
+                                </li>
+                                <li>
+                                    <a title="teoria per chitarra: costruzione e tonalità di una scala" href="scale_intervalli_tonalita.html">Scale, Intervalli, Tonalità</a>
+                                </li>
+                                <li>
+                                    <a title="teoria per chitarra: modulazione tra scale" href="circolo_delle_quinte.html">Circolo Delle Quarte e Quinte</a>
+                                </li>
+                                <li>
+                                    <a title="teoria per chitarra: costruzione della scala maggiore" href="scala_maggiore.html">Scala Maggiore</a>
+                                </li>
+                                <li>
+                                    <a title="teoria per chitarra: costruzione della scala minore" href="scale_minori.html">Scale Minori</a>
+                                </li>
+                                <li>
+                                    <a title="teoria per chitarra: cosa sono i modi e le scale modali" href="scale_modali.html">Scale Modali</a>
+                                </li>
+                            </ul>
+                            <h2>mini corso di armonia</h2>
+                            <ul>
+                                <li>
+                                    <a title="armonia per chitarra: tipi di intervalli" href="intervalli.html"> Intervalli Consonanti &amp; Dissonanti</a>
+                                </li>
+                                <li>
+                                    <a title="armonia per chitarra: capire gli armonici" href="teoria_armonici.html">Teoria Fisica Degli Armonici</a>
+                                </li>
+                                <li>
+                                    <a title="armonia per chitarra: costrire gli accordi base" href="triadi.html">Triadi Principali &amp; Rivolti</a>
+                                </li>
+                                <li>
+                                    <a title="armonia per chitarra: variazioni sugli accordi" href="accordi_allargati.html">Accordi Allargati &amp; Estesi</a>
+                                </li>
+                                <li>
+                                    <a title="armonia per chitarra: accordi a quattro voci" href="quadriadi.html">Quadriadi</a>
+                                </li>
+                                <li>
+                                    <a title="armonia per chitarra: accordi di seconda e quarta sospesa e accordi di sesta e nona" href="accordi_di_6a.html">Accordi sus2 sus4 6a 9a</a>
+                                </li>
+                                <li>
+                                    Accordi 11a 13a
+                                </li>
+                                <li>
+                                    Accordi Alterati
+                                </li>
+                                <li>
+                                    Uso Delle Dissonanze
+                                </li>
+                                <li>
+                                    <a title="armonia per chitarra: come armonizzare le scale" href="armonizzazione_scale.html">Armonizzazione Delle Scale</a>
+                                </li>
+                                <li>
+                                    <a title="armonia per chitarra: principali cadenze delle scale" href="cadenze.html">Cadenze Degli Accordi</a>
+                                </li>
+                                <li>
+                                    Similitudini &amp; Sostituzioni &amp;
+                                    Equivalenze
+                                </li>
+                                <li>
+                                    Dominanti Secondarie
                                 </li>
                             </ul>
 
@@ -442,29 +401,6 @@ template: index
                                 </li>
                                 <li>
                                     Licks
-                                </li>
-                            </ul>
-
-                            <h1>introduzione al blues</h1>
-                            <p>Le seguenti lezioni vogliono essere un'introduzione pratica e veloce al Blues, dato che per affrontare questo tema
-                            in maniera completa occuperebbe un intero corso di chitarra. Le lezioni prendono in considerazione i concetti fondamentali
-                            di questo stile e la loro applicazione alla chitarra.</p>
-                            
-                            <ul>
-                                <li>
-                                    <a title="come suonare il blues" href="blues.html">Come Suonare Il Blues</a>
-                                </li>
-                                <li>
-                                    Storia
-                                </li>
-                                <li>
-                                    Tabulati &amp; Spartiti
-                                </li>
-                                <li>
-                                    Licks &amp; Assoli
-                                </li>
-                                <li>
-                                    Multimedia
                                 </li>
                             </ul>
 
