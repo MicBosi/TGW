@@ -6,146 +6,144 @@ title: Intervalli consonanti e dissonanti
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
 <b><font size=5>Q</font></b>uesta sotto è la tabella degli intervalli già vista in precedenza.<br><br>
-<table border=0 bgcolor=black cellpadding=2>
-<tr>
-<td>
 
-<table border=0 cellspacing=2 cellpadding = 5>
+
+<table border=1 cellspacing=0 cellpadding=15>
 <tr>
-<td !bgcolor=#000045><font size=2><b>
+<td><font size=2><b>
 INTERVALLI
-</td><td bgcolor=#000045><font size=3><b>
+</td><td><font size=3>
 Seconda
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 Terza
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 Quarta
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 Quinta
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 Sesta
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 Settima
 </td>
 </tr>
 <tr>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 Aumentato
-</td><td bgcolor=#000045><font size=3><b>
+</td><td><font size=3>
 1 + <sup>1</sup>/<sub>2</sub>
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 2 + <sup>1</sup>/<sub>2</sub>
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 3
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 4
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 5
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 6
 </td>
 </tr>
 <tr>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 Maggiore
-</td><td bgcolor=#000045><font size=3><b>
+</td><td><font size=3>
 1
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 2
 </td>
-<td !bgcolor=#000045><font size=3><b>
+<td><font size=3>
 NO
 </td>
-<td !bgcolor=#000045><font size=3><b>
+<td><font size=3>
 NO
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 4 + <sup>1</sup>/<sub>2</sub>
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 5 + <sup>1</sup>/<sub>2</sub>
 </td>
 </tr>
 <tr>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 Giusto
-</td><td !bgcolor=#000045><font size=3><b>
+</td><td><font size=3>
 NO
 </td>
-<td !bgcolor=#000045><font size=3><b>
+<td><font size=3>
 NO
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 2 + <sup>1</sup>/<sub>2</sub>
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 3 + <sup>1</sup>/<sub>2</sub>
 </td>
-<td !bgcolor=#000045><font size=3><b>
+<td><font size=3>
 NO
 </td>
-<td !bgcolor=#000045><font size=3><b>
+<td><font size=3>
 NO
 </td>
 </tr>
 <tr>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 Minore
-</td><td bgcolor=#000045><font size=3><b>
+</td><td><font size=3>
 <sup>1</sup>/<sub>2</sub>
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 1 + <sup>1</sup>/<sub>2</sub>
 </td>
-<td !bgcolor=#000045><font size=3><b>
+<td><font size=3>
 NO
 </td>
-<td !bgcolor=#000045><font size=3><b>
+<td><font size=3>
 NO
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 4
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 5 
 </td>
 </tr>
 
 <tr>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 Diminuito
-</td><td bgcolor=#000045><font size=3><b>
+</td><td><font size=3>
 Nullo
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 1
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 2
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 3
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 3 + <sup>1</sup>/<sub>2</sub>
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 4 + <sup>1</sup>/<sub>2</sub>
 </td>
 </tr>
+</table>
 
-</table> </td> </tr> </table>
 
 <br><b><font size=5>B</font></b>asilarmente l'<i>armonia</i> si occupa di studiare quali successioni di note e intervalli risultino gradevoli o sgradevoli all'orecchio e comunque quale effetto producano.<br>
 Qui' riportiamo brevemente quali siono le note che suonate contemporaneamente producono una <i>assonanza</i>, cioè un effetto "gradevole" all'orecchio e quali invece producono una <i>dissonanza</i>, cioè un effetto "sgradevole" e "aspro".<br>

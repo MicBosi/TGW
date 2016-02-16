@@ -9,78 +9,74 @@ title: Scale modali
 La risposta è si: esse vengono chiamate scale modali e oltre ad essere costruibili sulla Scala Maggiore, anche sulle altre scale, come la Minore Naturale o la Minore Melodica, possono essere costruite 7 scale modali, ognuna che parte da uno specifico grado della scala, ognuna con un nome, una struttura e una sonorità propria.<br>
 Prendendo ad esempio la Scala Maggiore di Do le sue 7 scale modali sono: <br><br>
 
-<table cellspacing=5 cellpadding=5  bgcolor=#000000>
+<table border=1 cellspacing=0 cellpadding=10>
 <tr>
-<td bgcolor=#000045><b>
-Tonica della scala
-</td>
-<td bgcolor=#000045><b>
-Modo
-</td>
-<td bgcolor=#000045><b>
-Scala Modale
-</td></tr><tr>
-<td bgcolor=#000045><b>
+	<td><b>Tonica della scala </td>
+	<td><b>Modo </td>
+	<td><b>Scala Modale</td>
+</tr>
+<tr>
+<td>
 Do
 </td>
-<td bgcolor=#000045><b>
+<td>
 Ionico
 </td>
-<td bgcolor=#000045><b>
+<td>
 Do Re Mi Fa Sol La Si
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 Re
 </td>
-<td bgcolor=#000045><b>
+<td>
 Dorico
 </td>
-<td bgcolor=#000045><b>
+<td>
 Re Mi Fa Sol La Si Do
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 Mi
 </td>
-<td bgcolor=#000045><b>
+<td>
 Frigio
 </td>
-<td bgcolor=#000045><b>
+<td>
 Mi Fa Sol La Si Do Re 
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 Fa
 </td>
-<td bgcolor=#000045><b>
+<td>
 Lidio
 </td>
-<td bgcolor=#000045><b>
+<td>
 Fa Sol La Si Do Re Mi 
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 Sol
 </td>
-<td bgcolor=#000045><b>
+<td>
 Misolidio
 </td>
-<td bgcolor=#000045><b>
+<td>
 Sol La Si Do Re Mi Fa 
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 La
 </td>
-<td bgcolor=#000045><b>
+<td>
 Eolio
 </td>
-<td bgcolor=#000045><b>
+<td>
 La Si Do Re Mi Fa Sol 
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 Si
 </td>
-<td bgcolor=#000045><b>
+<td>
 Locrio
 </td>
-<td bgcolor=#000045><b>
+<td>
 Si Do Re Mi Fa Sol La 
 </td>
 </tr>
@@ -88,102 +84,94 @@ Si Do Re Mi Fa Sol La
 <font size=5>C</font>ome possiamo già vedere il modo Ionico corrisponde alla Scala Maggiore e il modo Eolio è identico alla Scala Minore Naturale.<br>
 Per quanto riguarda la Scala Maggiore qui sotto sono presentate le scale modali costruite sui suoi sette gradi e i relativi schemi: <br><br>
 
-<table cellspacing=5 cellpadding=5  bgcolor=#000000>
+<table border=1 cellspacing=0 cellpadding=10>
 <tr>
-<td bgcolor=#000045><b>
-Grado
-</td>
-<td bgcolor=#000045><b>
-Nome
-</td>
-<td bgcolor=#000045><b>
-Struttura T/S
-</td>
-<td bgcolor=#000045><b>
-Struttura 1...7
-</td></tr><tr>
-<td bgcolor=#000045><b>
+<td><b>Grado </td>
+<td><b>Nome </td>
+<td><b>Struttura T/S </td>
+<td><b>Struttura 1...7</td></tr><tr>
+<td>
 I
 </td>
-<td bgcolor=#000045><b>
+<td>
 Ionica
 </td>
-<td bgcolor=#000045><b>
+<td>
 1<sub>+T+</sub>2<sub>+T+</sub>3<sub>+S+</sub>4<sub>+T+</sub>5<sub>+T+</sub>6<sub>+T+</sub>7<sub>+S+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3, 4, 5, 6, 7maj
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 II
 </td>
-<td bgcolor=#000045><b>
+<td>
 Dorica
 </td>
-<td bgcolor=#000045><b>
+<td>
 1<sub>+T+</sub>2<sub>+S+</sub>3<sub>+T+</sub>4<sub>+T+</sub>5<sub>+T+</sub>6<sub>+S+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3m, 4, 5, 6, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 III
 </td>
-<td bgcolor=#000045><b>
+<td>
 Frigia
 </td>
-<td bgcolor=#000045><b>
+<td>
 1<sub>+S+</sub>2<sub>+T+</sub>3<sub>+T+</sub>4<sub>+T+</sub>5<sub>+S+</sub>6<sub>+T+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2m, 3m, 4, 5, 6m, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 IV
 </td>
-<td bgcolor=#000045><b>
+<td>
 Lidia
 </td>
-<td bgcolor=#000045><b>
+<td>
 1<sub>+T+</sub>2<sub>+T+</sub>3<sub>+T+</sub>4<sub>+S+</sub>5<sub>+T+</sub>6<sub>+T+</sub>7<sub>+S+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3, 4#, 5, 6, 7maj
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 V
 </td>
-<td bgcolor=#000045><b>
+<td>
 Misolidia
 </td>
-<td bgcolor=#000045><b>
+<td>
 1<sub>+T+</sub>2<sub>+T+</sub>3<sub>+S+</sub>4<sub>+T+</sub>5<sub>+T+</sub>6<sub>+S+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3, 4, 5, 6, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 VI
 </td>
-<td bgcolor=#000045><b>
+<td>
 Eolia
 </td>
-<td bgcolor=#000045><b>
+<td>
 1<sub>+T+</sub>2<sub>+S+</sub>3<sub>+T+</sub>4<sub>+T+</sub>5<sub>+S+</sub>6<sub>+T+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3m, 4, 5, 6m, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 VII
 </td>
-<td bgcolor=#000045><b>
+<td>
 Locria
 </td>
-<td bgcolor=#000045><b>
+<td>
 1<sub>+S+</sub>2<sub>+T+</sub>3<sub>+T+</sub>4<sub>+S+</sub>5<sub>+T+</sub>6<sub>+T+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2m, 3m, 4, 5dim, 6m, 7m
 </td></tr>
 </table>
@@ -191,100 +179,92 @@ Locria
 <br>
 <font size=5>P</font>er quanto riguarda la Scala Minore Armonica qui sotto sono presentate le scale modali costruite sui suoi sette gradi e i relativi schemi: <br><br>
 
-<table cellspacing=5 cellpadding=5  bgcolor=#000000>
+<table border=1 cellspacing=0 cellpadding=10>
 <tr>
-<td bgcolor=#000045><b>
-Grado
-</td>
-<td bgcolor=#000045><b>
-Nome
-</td>
-<td bgcolor=#000045><b>
-Struttura T/S
-</td>
-<td bgcolor=#000045><b>
-Struttura 1...7
-</td></tr><tr>
-<td bgcolor=#000045><b>
+<td><b>Grado </td>
+<td><b>Nome </td>
+<td><b>Struttura T/S </td>
+<td><b>Struttura 1...7 </td></tr><tr>
+<td>
 I
 </td>
-<td bgcolor=#000045><b>
+<td>
 Ipoionico b6
 </td>
-<td bgcolor=#000045><b> 1<sub>+T+</sub>2<sub>+S+</sub>3<sub>+T+</sub>4<sub>+T+</sub>5<sub>+S+</sub>6<sub>+T+S+</sub>7<sub>+S+</sub>1 
+<td> 1<sub>+T+</sub>2<sub>+S+</sub>3<sub>+T+</sub>4<sub>+T+</sub>5<sub>+S+</sub>6<sub>+T+S+</sub>7<sub>+S+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3m, 4, 5, 6m, 7maj
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 II
 </td>
-<td bgcolor=#000045><b>
+<td>
 Dorico b2 b5
 </td>
-<td bgcolor=#000045><b> 1<sub>+S+</sub>2<sub>+T+</sub>3<sub>+T+</sub>4<sub>+S+</sub>5<sub>+T+S+</sub>6<sub>+S+</sub>7<sub>+T+</sub>1 
+<td> 1<sub>+S+</sub>2<sub>+T+</sub>3<sub>+T+</sub>4<sub>+S+</sub>5<sub>+T+S+</sub>6<sub>+S+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2m, 3m, 4, 5dim, 6, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 III
 </td>
-<td bgcolor=#000045><b>
+<td>
 Ionico aumentato
 </td>
-<td bgcolor=#000045><b>
+<td>
 1<sub>+T+</sub>2<sub>+T+</sub>3<sub>+S+</sub>4<sub>+T+S+</sub>5<sub>+S+</sub>6<sub>+T+</sub>7<sub>+S+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3, 4, 5#, 6, 7maj
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 IV
 </td>
-<td bgcolor=#000045><b>
+<td>
 Lidio minore
 </td>
-<td bgcolor=#000045><b> 
+<td> 
 1<sub>+T+</sub>2<sub>+S+</sub>3<sub>+T+S+</sub>4<sub>+S+</sub>5<sub>+T+</sub>6<sub>+S+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3m, 4#, 5, 6, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 V
 </td>
-<td bgcolor=#000045><b>
+<td>
 Misolidio b6 b2
 </td>
-<td bgcolor=#000045><b> 
+<td> 
 1<sub>+S+</sub>2<sub>+T+S+</sub>3<sub>+S+</sub>4<sub>+T+</sub>5<sub>+S+</sub>6<sub>+T+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2m, 3, 4, 5, 6m, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 VI
 </td>
-<td bgcolor=#000045><b>
+<td>
 Eolio armonico
 </td>
-<td bgcolor=#000045><b> 
+<td> 
 1<sub>+T+S+</sub>2<sub>+S+</sub>3<sub>+T+</sub>4<sub>+S+</sub>5<sub>+T+</sub>6<sub>+T+</sub>7<sub>+S+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2#, 3, 4#, 5, 6, 7maj
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 VII
 </td>
-<td bgcolor=#000045><b>
+<td>
 Superlocrio diminuito
 </td>
-<td bgcolor=#000045><b> 
+<td> 
 1<sub>+S+</sub>2<sub>+T+</sub>3<sub>+S+</sub>4<sub>+T+</sub>5<sub>+T+</sub>6<sub>+S+</sub>7<sub>+T+S+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2m, 3m, 4dim, 5dim, 6m, 7dim
 </td></tr>
 </table>
@@ -293,100 +273,92 @@ Superlocrio diminuito
 <br>
 <font size=5>P</font>er quanto riguarda la Scala Minore Melodica qui sotto sono presentate le scale modali costruite sui suoi sette gradi e i relativi schemi: <br><br>
 
-<table cellspacing=5 cellpadding=5  bgcolor=#000000>
+<table border=1 cellspacing=0 cellpadding=10>
 <tr>
-<td bgcolor=#000045><b>
-Grado
-</td>
-<td bgcolor=#000045><b>
-Nome
-</td>
-<td bgcolor=#000045><b>
-Struttura T/S
-</td>
-<td bgcolor=#000045><b>
-Struttura 1...7
-</td></tr><tr>
-<td bgcolor=#000045><b>
+<td><b>Grado </td>
+<td><b>Nome </td>
+<td><b>Struttura T/S </td>
+<td><b>Struttura 1...7 </td></tr><tr>
+<td>
 I
 </td>
-<td bgcolor=#000045><b>
+<td>
 Ipoionico
 </td>
-<td bgcolor=#000045><b> 1<sub>+T+</sub>2<sub>+S+</sub>3<sub>+T+</sub>4<sub>+T+</sub>5<sub>+T+</sub>6<sub>+T+</sub>7<sub>+S+</sub>1 
+<td> 1<sub>+T+</sub>2<sub>+S+</sub>3<sub>+T+</sub>4<sub>+T+</sub>5<sub>+T+</sub>6<sub>+T+</sub>7<sub>+S+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3m, 4, 5, 6, 7maj
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 II
 </td>
-<td bgcolor=#000045><b>
+<td>
 Dorico b2
 </td>
-<td bgcolor=#000045><b> 1<sub>+S+</sub>2<sub>+T+</sub>3<sub>+T+</sub>4<sub>+T+</sub>5<sub>+T+</sub>6<sub>+S+</sub>7<sub>+T+</sub>1 
+<td> 1<sub>+S+</sub>2<sub>+T+</sub>3<sub>+T+</sub>4<sub>+T+</sub>5<sub>+T+</sub>6<sub>+S+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2m, 3m, 4, 5, 6, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 III
 </td>
-<td bgcolor=#000045><b>
+<td>
 Lidio aumentato
 </td>
-<td bgcolor=#000045><b>
+<td>
 1<sub>+T+</sub>2<sub>+T+</sub>3<sub>+T+</sub>4<sub>+T+</sub>5<sub>+S+</sub>6<sub>+T+</sub>7<sub>+S+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3, 4#, 5#, 6, 7maj
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 IV
 </td>
-<td bgcolor=#000045><b>
+<td>
 Lidio b7
 </td>
-<td bgcolor=#000045><b> 
+<td> 
 1<sub>+T+</sub>2<sub>+T+</sub>3<sub>+T+</sub>4<sub>+S+</sub>5<sub>+T+</sub>6<sub>+S+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3, 4#, 5, 6, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 V
 </td>
-<td bgcolor=#000045><b>
+<td>
 Misolidio b6
 </td>
-<td bgcolor=#000045><b> 
+<td> 
 1<sub>+T+</sub>2<sub>+T+</sub>3<sub>+S+</sub>4<sub>+T+</sub>5<sub>+S+</sub>6<sub>+T+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3, 4, 5, 6m, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 VI
 </td>
-<td bgcolor=#000045><b>
+<td>
 Locrio #2
 </td>
-<td bgcolor=#000045><b> 
+<td> 
 1<sub>+T+</sub>2<sub>+S+</sub>3<sub>+T+</sub>4<sub>+S+</sub>5<sub>+T+</sub>6<sub>+T+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3m, 4, 5dim, 6m, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 VII
 </td>
-<td bgcolor=#000045><b>
+<td>
 Superlocrio 
 </td>
-<td bgcolor=#000045><b> 
+<td> 
 1<sub>+S+</sub>2<sub>+T+</sub>3<sub>+S+</sub>4<sub>+T+</sub>5<sub>+T+</sub>6<sub>+T+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2m, 3m, 4dim, 5dim, 6m, 7m
 </td></tr>
 </table>

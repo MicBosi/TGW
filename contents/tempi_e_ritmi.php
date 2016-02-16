@@ -31,36 +31,34 @@ F=forte.<br>
 D=debole.<br><br>
 
 
-<table border=0 cellpadding = 5 cellspacing=5  bgcolor=black>
+<table border=1 cellpadding=15 cellspacing=0>
+<tr align=center>
+
+<td><font size=3><b>Tempo </td>
+<td><font size=3><b>Accenti </td>
+
+</tr>
 <tr>
 
-<td bgcolor=#000045><font size=3><b>Tempo
+<td><font size=3><b>2/4
 </td>
-<td bgcolor=#000045><font size=3><b>Accenti
+<td><font size=3><b>F + D
 </td>
 
 </tr>
 <tr>
 
-<td bgcolor=#000045><font size=3><b>2/4
+<td><font size=3><b>4/4
 </td>
-<td bgcolor=#000045><font size=3><b>F + D
-</td>
-
-</tr>
-<tr>
-
-<td bgcolor=#000045><font size=3><b>4/4
-</td>
-<td bgcolor=#000045><font size=3><b>F + D + D + D
+<td><font size=3><b>F + D + D + D
 </td>
 
 </tr>
 <tr>
 
-<td bgcolor=#000045><font size=3><b>3/4
+<td><font size=3><b>3/4
 </td>
-<td bgcolor=#000045><font size=3><b>F + D + D
+<td><font size=3><b>F + D + D
 </td>
 
 </tr>
@@ -81,89 +79,87 @@ Di seguito viene riportata la tabella dei tempi composti suddetti e dei relativi
 
 
 <br>
-<table border=0 cellpadding = 5 cellspacing=5  bgcolor=black>
-<tr>
+<table border=1 cellpadding=15 cellspacing=0>
+<tr align=center>
 
-<td bgcolor=#000045><font size=3><b>Tempo
+<td><font size=3><b>Tempo </td>
+<td><font size=3><b>Accenti </td>
+
+</tr><tr>
+
+<td><font size=3><b>6/8
 </td>
-<td bgcolor=#000045><font size=3><b>Accenti
+<td><font size=3><b>F  D  D + F  D  D 
 </td>
 
 </tr><tr>
 
-<td bgcolor=#000045><font size=3><b>6/8
+<td><font size=3><b>9/8
 </td>
-<td bgcolor=#000045><font size=3><b>F  D  D + F  D  D 
-</td>
-
-</tr><tr>
-
-<td bgcolor=#000045><font size=3><b>9/8
-</td>
-<td bgcolor=#000045><font size=3><b>F D  D + F  D D + F  D  D
+<td><font size=3><b>F D  D + F  D D + F  D  D
 </td>
 
 </tr><tr>
 
-<td bgcolor=#000045><font size=3><b>12/8
+<td><font size=3><b>12/8
 </td>
-<td bgcolor=#000045><font size=3><b>F  D  D + F  D  D + F  D  D + F  D  D 
-</td>
-
-</tr><tr>
-
-<td bgcolor=#000045><font size=3><b>5/4
-</td>
-<td bgcolor=#000045><font size=3><b>F  D  D + F  D  
+<td><font size=3><b>F  D  D + F  D  D + F  D  D + F  D  D 
 </td>
 
 </tr><tr>
 
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3><b>5/4
 </td>
-<td bgcolor=#000045><font size=3><b>F D   + F  D D 
-</td>
-
-</tr><tr>
-
-<td bgcolor=#000045><font size=3><b>7/8
-</td>
-<td bgcolor=#000045><font size=3><b>F D D D  + F  D D 
+<td><font size=3><b>F  D  D + F  D  
 </td>
 
 </tr><tr>
 
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3><b>
 </td>
-<td bgcolor=#000045><font size=3><b>F D D  + F  D D D
-</td>
-
-</tr><tr>
-
-<td bgcolor=#000045><font size=3><b>
-</td>
-<td bgcolor=#000045><font size=3><b>F D + F D D + F D
+<td><font size=3><b>F D   + F  D D 
 </td>
 
 </tr><tr>
 
-<td bgcolor=#000045><font size=3><b>11/8
+<td><font size=3><b>7/8
 </td>
-<td bgcolor=#000045><font size=3><b>F D D + F D D + F D D + F D
-</td>
-
-</tr><tr>
-
-<td bgcolor=#000045><font size=3><b>
-</td>
-<td bgcolor=#000045><font size=3><b>F D D D D D +  F D D D D
+<td><font size=3><b>F D D D  + F  D D 
 </td>
 
 </tr><tr>
 
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3><b>
 </td>
-<td bgcolor=#000045><font size=3><b>etc...
+<td><font size=3><b>F D D  + F  D D D
+</td>
+
+</tr><tr>
+
+<td><font size=3><b>
+</td>
+<td><font size=3><b>F D + F D D + F D
+</td>
+
+</tr><tr>
+
+<td><font size=3><b>11/8
+</td>
+<td><font size=3><b>F D D + F D D + F D D + F D
+</td>
+
+</tr><tr>
+
+<td><font size=3><b>
+</td>
+<td><font size=3><b>F D D D D D +  F D D D D
+</td>
+
+</tr><tr>
+
+<td><font size=3><b>
+</td>
+<td><font size=3><b>etc...
 </td>
 
 </tr> 

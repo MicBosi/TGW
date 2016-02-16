@@ -18,202 +18,186 @@ title: Armonizzazione a quattro voci delle scale
 <li> "°" vuol dire che l'accordo è di settima diminuita.
 
 <br><br><font size=5>A</font>rmonizzazione a quadriadi delle scale modali costruite sulla Scala Maggiore (da cui si ricavano anche quelle della Minore Naturale):<br>
-<table cellspacing=5 cellpadding=5  bgcolor=#000000>
+<table border=1 cellspacing=0 cellpadding=15>
 <tr>
-<td bgcolor=#000045><b>
-Grado / Accordo
-</td>
-<td bgcolor=#000045><b>
-Nome
-</td>
-<td bgcolor=#000045><b>
-Struttura T/S
-</td>
-<td bgcolor=#000045><b>
-Struttura 1...7
-</td></tr><tr>
-<td bgcolor=#000045><b>
+<td><b>Grado / Accordo </td>
+<td><b>Nome </td>
+<td><b>Struttura T/S </td>
+<td><b>Struttura 1...7 </td></tr><tr>
+<td>
 Imaj7
 </td>
-<td bgcolor=#000045><b>
+<td>
 Ionica
 </td>
-<td bgcolor=#000045><b>
+<td>
 1<sub>+T+</sub>2<sub>+T+</sub>3<sub>+S+</sub>4<sub>+T+</sub>5<sub>+T+</sub>6<sub>+T+</sub>7<sub>+S+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3, 4, 5, 6, 7maj
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 IIm7
 </td>
-<td bgcolor=#000045><b>
+<td>
 Dorica
 </td>
-<td bgcolor=#000045><b>
+<td>
 1<sub>+T+</sub>2<sub>+S+</sub>3<sub>+T+</sub>4<sub>+T+</sub>5<sub>+T+</sub>6<sub>+S+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3m, 4, 5, 6, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 IIIm7
 </td>
-<td bgcolor=#000045><b>
+<td>
 Frigia
 </td>
-<td bgcolor=#000045><b>
+<td>
 1<sub>+S+</sub>2<sub>+T+</sub>3<sub>+T+</sub>4<sub>+T+</sub>5<sub>+S+</sub>6<sub>+T+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2m, 3m, 4, 5, 6m, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 IVmaj7
 </td>
-<td bgcolor=#000045><b>
+<td>
 Lidia
 </td>
-<td bgcolor=#000045><b>
+<td>
 1<sub>+T+</sub>2<sub>+T+</sub>3<sub>+T+</sub>4<sub>+S+</sub>5<sub>+T+</sub>6<sub>+T+</sub>7<sub>+S+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3, 4#, 5, 6, 7maj
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 V7
 </td>
-<td bgcolor=#000045><b>
+<td>
 Misolidia
 </td>
-<td bgcolor=#000045><b>
+<td>
 1<sub>+T+</sub>2<sub>+T+</sub>3<sub>+S+</sub>4<sub>+T+</sub>5<sub>+T+</sub>6<sub>+S+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3, 4, 5, 6, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 VIm7
 </td>
-<td bgcolor=#000045><b>
+<td>
 Eolia
 </td>
-<td bgcolor=#000045><b>
+<td>
 1<sub>+T+</sub>2<sub>+S+</sub>3<sub>+T+</sub>4<sub>+T+</sub>5<sub>+S+</sub>6<sub>+T+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3m, 4, 5, 6m, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 VII°
 </td>
-<td bgcolor=#000045><b>
+<td>
 Locria
 </td>
-<td bgcolor=#000045><b>
+<td>
 1<sub>+S+</sub>2<sub>+T+</sub>3<sub>+T+</sub>4<sub>+S+</sub>5<sub>+T+</sub>6<sub>+T+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2m, 3m, 4, 5dim, 6m, 7m
 </td></tr>
 </table>
 
 <br>
 <font size=5>A</font>rmonizzazione a quadriadi delle scale modali costruite sulla Scala Minore Armonica: <br>
-<table cellspacing=5 cellpadding=5  bgcolor=#000000>
+<table border=1 cellspacing=0 cellpadding=15>
 <tr>
-<td bgcolor=#000045><b>
-Grado
-</td>
-<td bgcolor=#000045><b>
-Nome
-</td>
-<td bgcolor=#000045><b>
-Struttura T/S
-</td>
-<td bgcolor=#000045><b>
-Struttura 1...7
-</td></tr><tr>
-<td bgcolor=#000045><b>
+<td><b>Grado </td>
+<td><b>Nome </td>
+<td><b>Struttura T/S </td>
+<td><b>Struttura 1...7 </td></tr><tr>
+<td>
 Im/maj7
 </td>
-<td bgcolor=#000045><b>
+<td>
 Ipoionico b6
 </td>
-<td bgcolor=#000045><b> 1<sub>+T+</sub>2<sub>+S+</sub>3<sub>+T+</sub>4<sub>+T+</sub>5<sub>+S+</sub>6<sub>+T+S+</sub>7<sub>+S+</sub>1 
+<td> 1<sub>+T+</sub>2<sub>+S+</sub>3<sub>+T+</sub>4<sub>+T+</sub>5<sub>+S+</sub>6<sub>+T+S+</sub>7<sub>+S+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3m, 4, 5, 6m, 7maj
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 IIdim/7
 </td>
-<td bgcolor=#000045><b>
+<td>
 Dorico b2 b5
 </td>
-<td bgcolor=#000045><b> 1<sub>+S+</sub>2<sub>+T+</sub>3<sub>+T+</sub>4<sub>+S+</sub>5<sub>+T+S+</sub>6<sub>+S+</sub>7<sub>+T+</sub>1 
+<td> 1<sub>+S+</sub>2<sub>+T+</sub>3<sub>+T+</sub>4<sub>+S+</sub>5<sub>+T+S+</sub>6<sub>+S+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2m, 3m, 4, 5dim, 6, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 III<i>maj7</i>/#5
 </td>
-<td bgcolor=#000045><b>
+<td>
 Ionico aumentato
 </td>
-<td bgcolor=#000045><b>
+<td>
 1<sub>+T+</sub>2<sub>+T+</sub>3<sub>+S+</sub>4<sub>+T+S+</sub>5<sub>+S+</sub>6<sub>+T+</sub>7<sub>+S+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3, 4, 5#, 6m, 7maj
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 IVm7
 </td>
-<td bgcolor=#000045><b>
+<td>
 Lidio minore
 </td>
-<td bgcolor=#000045><b> 
+<td> 
 1<sub>+T+</sub>2<sub>+S+</sub>3<sub>+T+S+</sub>4<sub>+S+</sub>5<sub>+T+</sub>6<sub>+S+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3m, 4#, 5, 6, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 V7
 </td>
-<td bgcolor=#000045><b>
+<td>
 Misolidio b6 b9
 </td>
-<td bgcolor=#000045><b> 
+<td> 
 1<sub>+S+</sub>2<sub>+T+S+</sub>3<sub>+S+</sub>4<sub>+T+</sub>5<sub>+S+</sub>6<sub>+T+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2m, 3, 4, 5, 6m, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 VImaj7
 </td>
-<td bgcolor=#000045><b>
+<td>
 Eolio armonico
 </td>
-<td bgcolor=#000045><b> 
+<td> 
 1<sub>+T+S+</sub>2<sub>+S+</sub>3<sub>+T+</sub>4<sub>+S+</sub>5<sub>+T+</sub>6<sub>+T+</sub>7<sub>+S+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2#, 3, 4#, 5, 6, 7maj
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 VII°
 </td>
-<td bgcolor=#000045><b>
+<td>
 Superlocrio diminuito
 </td>
-<td bgcolor=#000045><b> 
+<td> 
 1<sub>+S+</sub>2<sub>+T+</sub>3<sub>+S+</sub>4<sub>+T+</sub>5<sub>+T+</sub>6<sub>+S+</sub>7<sub>+T+S+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2m, 3m, 4dim, 5dim, 6m, 7dim
 </td></tr>
 </table>
@@ -222,100 +206,92 @@ Superlocrio diminuito
 <br>
 <font size=5>A</font>rmonizzazione a quadriadi delle scale modali costruite sulla Scala Minore Melodica:<br>
 
-<table cellspacing=5 cellpadding=5  bgcolor=#000000>
+<table border=1 cellspacing=0 cellpadding=15>
 <tr>
-<td bgcolor=#000045><b>
-Grado
-</td>
-<td bgcolor=#000045><b>
-Nome
-</td>
-<td bgcolor=#000045><b>
-Struttura T/S
-</td>
-<td bgcolor=#000045><b>
-Struttura 1...7
-</td></tr><tr>
-<td bgcolor=#000045><b>
+<td><b>Grado </td>
+<td><b>Nome </td>
+<td><b>Struttura T/S </td>
+<td><b>Struttura 1...7 </td></tr><tr>
+<td>
 Im/maj7
 </td>
-<td bgcolor=#000045><b>
+<td>
 Ipoionico
 </td>
-<td bgcolor=#000045><b> 1<sub>+T+</sub>2<sub>+S+</sub>3<sub>+T+</sub>4<sub>+T+</sub>5<sub>+T+</sub>6<sub>+T+</sub>7<sub>+S+</sub>1 
+<td> 1<sub>+T+</sub>2<sub>+S+</sub>3<sub>+T+</sub>4<sub>+T+</sub>5<sub>+T+</sub>6<sub>+T+</sub>7<sub>+S+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3m, 4, 5, 6, 7maj
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 IIm7
 </td>
-<td bgcolor=#000045><b>
+<td>
 Dorico b2
 </td>
-<td bgcolor=#000045><b> 1<sub>+S+</sub>2<sub>+T+</sub>3<sub>+T+</sub>4<sub>+T+</sub>5<sub>+T+</sub>6<sub>+S+</sub>7<sub>+T+</sub>1 
+<td> 1<sub>+S+</sub>2<sub>+T+</sub>3<sub>+T+</sub>4<sub>+T+</sub>5<sub>+T+</sub>6<sub>+S+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2m, 3m, 4, 5, 6, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 IIImaj7/#5
 </td>
-<td bgcolor=#000045><b>
+<td>
 Lidio aumentato
 </td>
-<td bgcolor=#000045><b>
+<td>
 1<sub>+T+</sub>2<sub>+T+</sub>3<sub>+T+</sub>4<sub>+T+</sub>5<sub>+S+</sub>6<sub>+T+</sub>7<sub>+S+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3, 4#, 5#, 6, 7maj
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 IV7
 </td>
-<td bgcolor=#000045><b>
+<td>
 Lidio b7
 </td>
-<td bgcolor=#000045><b> 
+<td> 
 1<sub>+T+</sub>2<sub>+T+</sub>3<sub>+T+</sub>4<sub>+S+</sub>5<sub>+T+</sub>6<sub>+S+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3, 4#, 5, 6, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 V7
 </td>
-<td bgcolor=#000045><b>
+<td>
 Misolidio b6
 </td>
-<td bgcolor=#000045><b> 
+<td> 
 1<sub>+T+</sub>2<sub>+T+</sub>3<sub>+S+</sub>4<sub>+T+</sub>5<sub>+S+</sub>6<sub>+T+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3, 4, 5, 6m, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 VIdim/7
 </td>
-<td bgcolor=#000045><b>
+<td>
 Locrio #2
 </td>
-<td bgcolor=#000045><b> 
+<td> 
 1<sub>+T+</sub>2<sub>+S+</sub>3<sub>+T+</sub>4<sub>+S+</sub>5<sub>+T+</sub>6<sub>+T+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2, 3m, 4, 5dim, 6m, 7m
 </td></tr><tr>
-<td bgcolor=#000045><b>
+<td>
 VIIdim/7
 </td>
-<td bgcolor=#000045><b>
+<td>
 Superlocrio 
 </td>
-<td bgcolor=#000045><b> 
+<td> 
 1<sub>+S+</sub>2<sub>+T+</sub>3<sub>+S+</sub>4<sub>+T+</sub>5<sub>+T+</sub>6<sub>+T+</sub>7<sub>+T+</sub>1 
 </td>
-<td bgcolor=#000045><b>
+<td>
 1, 2m, 3m, 4dim, 5dim, 6m, 7m
 </td></tr>
 </table>

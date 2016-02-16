@@ -172,10 +172,11 @@ TGW = (function() {
 		console.log(chord_data);
 
 		var finger_font_size = 18;
+		var fret_num_font_size = 12;
 		var padding_w = 60;
 		var padding_h = 40;
-		var key_w = 60;
-		var key_h = 30;
+		var key_w = 50;
+		var key_h = 35;
 		var canvas_w = key_w * 17 + padding_w * 1;
 		var canvas_h = key_h * 5 + padding_h * 2;
 		var neck_w = key_w * 17;
@@ -185,7 +186,7 @@ TGW = (function() {
 		// canvas.style.border="1px solid gray";
 		canvas.width=canvas_w;
 		canvas.height=canvas_h;
-		// $(scale_view).html('');
+		$(scale_view).html('');
 		scale_view.appendChild(canvas);
 
 		var ctx = canvas.getContext("2d");
@@ -203,17 +204,36 @@ TGW = (function() {
 			ctx.fillStyle = "#EEEEAA";
 			ctx.fillRect(padding_w, padding_h, neck_w, neck_h);
 			ctx.strokeRect(padding_w+0.5, padding_h+0.5, neck_w-1, neck_h-1);
+
+			// draw decorations on keyboard
+			draw_circle(padding_w + key_w*(3-1)  + key_w/2, padding_h + key_h*2 + key_h/2, 8, '#E0E0A0');
+			draw_circle(padding_w + key_w*(5-1)  + key_w/2, padding_h + key_h*2 + key_h/2, 8, '#E0E0A0');
+			draw_circle(padding_w + key_w*(7-1)  + key_w/2, padding_h + key_h*2 + key_h/2, 8, '#E0E0A0');
+			draw_circle(padding_w + key_w*(9-1)  + key_w/2, padding_h + key_h*2 + key_h/2, 8, '#E0E0A0');
+			draw_circle(padding_w + key_w*(12-1) + key_w/2, padding_h + key_h*1 + key_h/2, 8, '#E0E0A0');
+			draw_circle(padding_w + key_w*(12-1) + key_w/2, padding_h + key_h*3 + key_h/2, 8, '#E0E0A0');
+			draw_circle(padding_w + key_w*(15-1) + key_w/2, padding_h + key_h*2 + key_h/2, 8, '#E0E0A0');
+			draw_circle(padding_w + key_w*(17-1) + key_w/2, padding_h + key_h*2 + key_h/2, 8, '#E0E0A0');
 			
 			// draw frets
+			// line style
 			ctx.strokeStyle="#222222";
 			ctx.lineWidth="2";
 			ctx.lineCap="round";
+			// text style
+			ctx.font = fret_num_font_size + "px Verdana";
+			ctx.fillStyle="#888888";
+			ctx.textAlign="center"
+			ctx.textBaseline="middle"
 			var x = padding_w;
 			for(var i=0; i<17; ++i) {
 				ctx.beginPath();
 				ctx.moveTo(x, padding_h);
 				ctx.lineTo(x, padding_h + neck_h);
 				ctx.stroke();
+
+				ctx.fillText(i+1, x + key_w/2, padding_h + neck_h + padding_h - key_h/2);
+
 				x += neck_w/17;
 			}
 
@@ -241,6 +261,15 @@ TGW = (function() {
 
 		ctx.font = finger_font_size + "px Arial";
 		var metrics = ctx.measureText('X');
+
+		function draw_circle(x, y, w, circle_fill) {
+			ctx.font = finger_font_size + "px Arial";
+			// circle
+			ctx.fillStyle=circle_fill;
+			ctx.beginPath();
+			ctx.arc(x, y, w, 0, 2*Math.PI);
+			ctx.fill();
+		}
 
 		function draw_round_number(N, x, y, circle_fill, circle_stroke, text_fill) {
 			ctx.font = finger_font_size + "px Arial";
@@ -271,19 +300,19 @@ TGW = (function() {
 				var frets = string.replace(/-/g, '').split('|');
 				console.log(frets);
 				frets.forEach(function(fret_value, fret_number) {
-					if (fret_value.match(/\dr/)) {
-						draw_round_number(fret_value[0], padding_w + fret_number*key_w + key_w/2, padding_h + key_h*string_index, "#FF0000", "#888888", "#222222");
+					if (fret_value.match(/\ds/)) {
+						draw_round_number(fret_value[0], padding_w + fret_number*key_w + key_w/2, padding_h + key_h*string_index, "#222222", "#888888", "#DDDDDD");
 					} else
-					if (fret_value.match(/\db/)) {
-						draw_round_number(fret_value[0], padding_w + fret_number*key_w + key_w/2, padding_h + key_h*string_index, "#0000FF", "#888888", "#222222");
+					if (fret_value.match(/\dt/)) {
+						draw_round_number(fret_value[0], padding_w + fret_number*key_w + key_w/2, padding_h + key_h*string_index, "#FF0000", "#888888", "#FFFFFF");
 					} else
 					if (fret_value.match(/\d/)) {
 						draw_round_number(fret_value[0], padding_w + fret_number*key_w + key_w/2, padding_h + key_h*string_index, "#DDDDDD", "#AAAAAA", "#AAAAAA");
 					} else
-					if (fret_value.match(/or/)) {
-						draw_round_number('', padding_w + fret_number*key_w + key_w/2, padding_h + key_h*string_index, "#000000", "#888888", "#222222");
+					if (fret_value.match(/bs/)) {
+						draw_round_number('', padding_w + fret_number*key_w + key_w/2, padding_h + key_h*string_index, "#0000FF", "#888888", "#222222");
 					} else
-					if (fret_value.match(/o/)) {
+					if (fret_value.match(/b/)) {
 						draw_round_number('', padding_w + fret_number*key_w + key_w/2, padding_h + key_h*string_index, "#DDDDDD", "#888888", "#222222");
 					}
 				});

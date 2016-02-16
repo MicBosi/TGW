@@ -3,9 +3,9 @@ keywords: spartiti, chitarra, spartiti chitarra, testi, canzoni, tablature, cors
 description: Questa lezione illustra i principali obbiettivi di questo corso di chitarra online.
 title: Obbiettivi Di Questo Corso Di Chitarra Online
 -->
+<center>
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
-<font size=><center>
 <br>
 <font color=red size=+2>
 Cosa è <i>The Guitar Wizard</i>?<br>

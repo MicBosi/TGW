@@ -36,146 +36,141 @@ In particolare rispettando l'ordine di successione di toni e semitoni della Scal
 </ol>
 <b><font size=5>Q</font></b>uesta volta i termini "seconda maggiore", "quinta giusta", etc. indicano una distanza tra le due note in questione ben precisa, lo schema qua sotto riporta i vari tipi di intervalli e le loro distanze misurate in toni.<br><br>
 
-<table border=0 bgcolor=black cellpadding=2>
+<table border=1 cellspacing=0 cellpadding=15>
 <tr>
-<td>
-
-<table border=0 cellspacing=2 cellpadding = 5>
-<tr>
-<td !bgcolor=#000045><font size=2><b>
+<td><font size=2><b>
 INTERVALLI
-</td><td bgcolor=#000045><font size=3><b>
+</td><td><font size=3>
 Seconda
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 Terza
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 Quarta
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 Quinta
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 Sesta
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 Settima
 </td>
 </tr>
 <tr>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 Aumentato
-</td><td bgcolor=#000045><font size=3><b>
+</td><td><font size=3>
 1 + <sup>1</sup>/<sub>2</sub>
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 2 + <sup>1</sup>/<sub>2</sub>
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 3
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 4
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 5
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 6
 </td>
 </tr>
 <tr>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 Maggiore
-</td><td bgcolor=#000045><font size=3><b>
+</td><td><font size=3>
 1
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 2
 </td>
-<td !bgcolor=#000045><font size=3><b>
+<td><font size=3>
 NO
 </td>
-<td !bgcolor=#000045><font size=3><b>
+<td><font size=3>
 NO
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 4 + <sup>1</sup>/<sub>2</sub>
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 5 + <sup>1</sup>/<sub>2</sub>
 </td>
 </tr>
 <tr>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 Giusto
-</td><td !bgcolor=#000045><font size=3><b>
+</td><td><font size=3>
 NO
 </td>
-<td !bgcolor=#000045><font size=3><b>
+<td><font size=3>
 NO
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 2 + <sup>1</sup>/<sub>2</sub>
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 3 + <sup>1</sup>/<sub>2</sub>
 </td>
-<td !bgcolor=#000045><font size=3><b>
+<td><font size=3>
 NO
 </td>
-<td !bgcolor=#000045><font size=3><b>
+<td><font size=3>
 NO
 </td>
 </tr>
 <tr>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 Minore
-</td><td bgcolor=#000045><font size=3><b>
+</td><td><font size=3>
 <sup>1</sup>/<sub>2</sub>
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 1 + <sup>1</sup>/<sub>2</sub>
 </td>
-<td !bgcolor=#000045><font size=3><b>
+<td><font size=3>
 NO
 </td>
-<td !bgcolor=#000045><font size=3><b>
+<td><font size=3>
 NO
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 4
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 5 
 </td>
 </tr>
 
 <tr>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 Diminuito
-</td><td bgcolor=#000045><font size=3><b>
+</td><td><font size=3>
 Nullo
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 1
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 2
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 3
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 3 + <sup>1</sup>/<sub>2</sub>
 </td>
-<td bgcolor=#000045><font size=3><b>
+<td><font size=3>
 4 + <sup>1</sup>/<sub>2</sub>
 </td>
 </tr>
-
-</table> </td> </tr> </table>
+</table>
 
 
 

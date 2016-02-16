@@ -1,7 +1,7 @@
 <?php require("include/index.php"); 
 /*
 	TODO:
-	- 1) White Theme
+	- 1) Sweep maggiore, sweep minore, triadi fix
 	- 2) JS ascii to high-quality picture converter (chords & scales & tabs)
 		--> http://www.wikihow.com/Play-Guitar-Chords
 	- 3) Fix lame copy
@@ -74,7 +74,7 @@
 <!-- footer -->
 		<div style="padding: 5px; margin: 4em 0 1em 0; font-family: 'IM Fell English SC', serif; font-size: 16px; text-align: center;">
 			<a href="<?=$base_website_address;?>/propositi.html">&copy; Copyright 2000-<?php echo date("Y") ?> Michele Bosi</a> <br>
-			Some Rights Are Reserved.
+			Some Rights Reserved.
 		</div>
 
 		<script src="js/jquery-1.12.0.min.js"></script>

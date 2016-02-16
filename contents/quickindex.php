@@ -43,7 +43,6 @@ Principianti
 <a title="tablature e spartiti per chitarra" href="<?php echo "$base_website_address/"; ?>tablatura.html">Tablatura e Spartiti per Chitarra</a></div>
 <div class="li">
 <a title="Leggere gli accordi negli spartiti per chitarra" href="<?php echo "$base_website_address/"; ?>leggere_gli_accordi.html">Leggere Gli Accordi</a></div>
-<div class="li">
 
 <br>
 Teoria &amp; Armonia

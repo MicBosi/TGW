@@ -20,180 +20,177 @@ Esempi di alterazioni in chiave.<br>
 
 <font size=5>L</font>o schema seguente indica le varie tonalità (Scale Maggiori e relative minori) con le caratteristiche alterazioni in chiave. Le tonalità dello stesso colore si susseguono aumentando o diminuendo di uno il numero di alterazioni in chiave.<br><br>
 
-<table border=0 bgcolor=black cellpadding=2>
+<table border=1 cellspacing=0 cellpadding=10>
 <tr>
-<td>
-
-<table border=0 cellspacing=2 cellpadding = 5>
-<tr>
-<td !bgcolor=#000045><font size=2><b>
+<td><font size=2><b>
 TONALITA'
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 Do <br> La<i>m</i>
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 Fa <br> Re<i>m</i>
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 Si<I>b</I>
  <br> Sol<i>m</i>
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 Mi<I>b</I>
  <br> Do<i>m</i>
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 La<I>b</I>
  <br> Fa<i>m</i>
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 Re<I>b</I>
  <br> Si<i>bm</i>
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 Sol<I>b</I>
  <br> Mi<i>bm</i>
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 Do<I>b</I>
  <br> La<i>bm</i>
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 Do#  <br> La#<i>m</i>
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 Fa#  <br> Re#<i>m</i>
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 Si  <br> Sol#<i>m</i>
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 Mi  <br> Do#<i>m</i>
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 La <br> Fa#<i>m</i>
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 Re  <br> Si<i>m</i>
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 Sol  <br> Mi<i>m</i>
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 Do  <br> La<i>m</i>
 </td>
 </tr>
 <TR>
-<td !bgcolor=#000045><font size=2><b>
+<td><font size=2><b>
 NUMERO DI ALTERAZIONI
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 -
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 1 bem.
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 2 bem.
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 3 bem.
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 4 bem.
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 5 bem.
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 6 bem.
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 7 bem.
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 7 die.
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 6 die.
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 5 die.
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 4 die.
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 3 die.
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 2 die.
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 1 die.
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 -
 </td>
 </tr>
 
 
 <TR>
-<td !bgcolor=#000045><font size=2><b>
+<td><font size=2><b>
 ALTERAZIONI
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 -
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 Sib<br>
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 Sib<br>Mib<br>
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 Sib<br>Mib<br>Lab<br>
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 Sib<br>Mib<br>Lab<br>Reb<br>
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 Sib<br>Mib<br>Lab<br>Reb<br>Solb<br>
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 Sib<br>Mib<br>Lab<br>Reb<br>Solb<br>Dob<br>
 </td>
-<td bgcolor=#303085><font size=2><b>
+<td bgcolor=#AAAAAA><font size=2><b>
 Sib<br>Mib<br>Lab<br>Reb<br>Solb<br>Dob<br>Fab
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 Fa#<br>Do#<br>Sol#<br>Re#<br>La#<br>Mi#<br>Si#<br>
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 Fa#<br>Do#<br>Sol#<br>Re#<br>La#<br>Mi#<br>
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 Fa#<br>Do#<br>Sol#<br>Re#<br>La#<br>
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 Fa#<br>Do#<br>Sol#<br>Re#<br>
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 Fa#<br>Do#<br>Sol#<br>
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 Fa#<br>Do#<br>
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 Fa#<br>
 </td>
-<td bgcolor=#000045><font size=2><b>
+<td bgcolor=#DDDDDD><font size=2><b>
 -
 </td>
 
 </tr>
-</table> </td> </tr> </table>
+</table>
+
 <br>
 <font size=5>L</font>o schema puo' essere letto da destra verso sinistra: in questo caso le tonalità dello stesso colore distano tra loro una quinta giusta.<br>
 Oppure puo' essere letto da sinistra verso destra: in questo caso le tonalità dello stesso colore distano tra loro di una quarta giusta.<br>

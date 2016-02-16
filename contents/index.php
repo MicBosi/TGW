@@ -42,11 +42,11 @@ template: index
                 <h2>Cerca nel sito o nel web</h2>
                 <!-- SiteSearch Google -->
                 <form method="get" action="http://www.google.com/custom" target="_top">
-                    <table border="0" bgcolor="#000000">
+                    <table border="0">
                         <tr>
                             <td nowrap="nowrap" valign="top" align="left" height="32">
                                 <a href="http://www.google.com/">
-                                <img src="http://www.google.com/logos/Logo_25blk.gif" border="0" alt="Google" align="middle"></img></a>
+                                <img src="http://www.google.com/logos/Logo_25wht.gif" border="0" alt="Google" align="middle"></img></a>
                             </td>
                             <td nowrap="nowrap">
                                 <input type="hidden" name="domains" value="theguitarwizard.com"></input>
@@ -63,11 +63,11 @@ template: index
                                     <tr>
                                         <td>
                                             <input type="radio" name="sitesearch" value="" id="ss0"></input>
-                                            <label for="ss0" title="Ricerca nel Web"><font size="-1" color="#ffffff">Web</font></label>
+                                            <label for="ss0" title="Ricerca nel Web">Web</label>
                                         </td>
                                         <td>
                                             <input type="radio" name="sitesearch" value="theguitarwizard.com" checked id="ss1"></input>
-                                            <label for="ss1" title="Cerca theguitarwizard.com"><font size="-1" color="#ffffff">theguitarwizard.com</font></label>
+                                            <label for="ss1" title="Cerca theguitarwizard.com">TheGuitarWizard.com</label>
                                         </td>
                                     </tr>
                                 </table>
@@ -516,7 +516,7 @@ template: index
         <tr>
             <th colspan="3" style="border: 0px solid gray;" align="center">
                 <h1 style="padding: 0px; margin: 0px; font-weight: normal; font-size: 16px">
-                    <font color="#fff080" size="5">
+                    <font color="gold" size="5">
                     Musica, Corsi Di Chitarra, Scuole, Testi di Canzoni e Spartiti per Chitarra Online Gratis
                     </font>
                 </h1>
