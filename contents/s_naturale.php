@@ -10,218 +10,26 @@ title: Scala minore naturale
 <br>
 <font size=5>S</font>cala Pentatonica Minore.<br>
 
-<table bgcolor=white><tr><td><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><br><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><br><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><td></tr>
-</table>
+<pre class="scale-view">
+|-4--|----|-5--|-6--|----|-7--|----|-1b-|----|-2--|-3--|----|-4--|----|-5--|-6--
+|-1b-|----|-2--|-3--|----|-4--|----|-5--|-6--|----|-7--|----|-1b-|----|-2--|-3--
+|-6--|----|-7--|----|-1b-|----|-2--|-3--|----|-4--|----|-5--|-6--|----|-7--|----
+|-3--|----|-4--|----|-5--|-6--|----|-7--|----|-1b-|----|-2--|-3--|----|-4--|----
+|-7--|----|-1b-|----|-2--|-3--|----|-4--|----|-5--|-6--|----|-7--|----|-1b-|----
+|-4--|----|-5--|-6--|----|-7--|----|-1b-|----|-2--|-3--|----|-4--|----|-5--|-6--
+</pre>
 
 
 
 <br>BOX I
-<table bgcolor=white><tr><td><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><br><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-></td></tr>
-</table>
+<pre class="scale-view">
+|-4--|----|-5--|-6--|----|-7--|----|-1b-|----|-2s-|-3s-|----|-4--|----|-5--|-6--
+|-1--|----|-3--|-3--|----|-4--|----|-5s-|-6s-|----|-7s-|----|-1--|----|-2--|-3--
+|----|----|-7--|----|-1--|----|-2s-|-3s-|----|-4s-|----|-5--|-6--|----|-7--|----
+|-3--|----|-4--|----|-5--|-6--|----|-7s-|----|-1b-|----|-2--|-3--|----|-4--|----
+|-7--|----|-1--|----|-2--|-3--|----|-4s-|----|-5s-|-2s-|----|-7--|----|-1--|----
+|-4--|----|-5--|-6--|----|-7--|----|-1b-|----|-2s-|-3s-|----|-4--|----|-5--|-6--
+</pre>
 
 
 <pre>
@@ -240,109 +48,14 @@ title: Scala minore naturale
 
 
 <br>BOX II
-<table bgcolor=white><tr><td><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><br><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><br><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"!<!
-><br><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-></td></tr></table>
+<pre class="scale-view">
+|-4--|----|-5--|-6--|----|-7--|----|-1--|----|-2s-|-3s-|----|-4s-|----|-5--|-6--
+|-1--|----|-2--|-3--|----|-4--|----|-5--|-6--|----|-7s-|----|-1b-|----|-2--|-3--
+|-6--|----|-7--|----|-1--|----|-2--|-3--|----|-4s-|----|-5s-|-6s-|----|-7--|----
+|-3--|----|-4--|----|-5--|-6--|----|-7--|----|-1b-|----|-2s-|-3s-|----|-4--|----
+|-7--|----|-1--|----|-2--|-3--|----|-4--|----|-5s-|-6s-|----|-7s-|----|-1--|----
+|-4--|----|-5--|-6--|----|-7--|----|-1--|----|-2s-|-3s-|----|-4s-|----|-5--|-6--
+</pre>
 
 
 <pre>
@@ -360,110 +73,14 @@ title: Scala minore naturale
 
 
 <br>BOX III
-<table bgcolor=white><tr><td><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nota6r.gif"><!
-><br><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nota3r.gif"><!
-><br><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nota6r.gif"><!
-></td></tr>
-</table>
+<pre class="scale-view">
+|-4--|----|-5--|-6--|----|-7--|----|-1--|----|-2--|-3--|----|-4s-|----|-5s-|-6s-
+|-1--|----|-2--|-3--|----|-4--|----|-5--|-3--|----|-7--|----|-1b-|----|-2s-|-3s-
+|-6--|----|-7--|----|-1--|----|-2--|-3--|----|-4--|----|-5s-|-6s-|----|-7s-|----
+|-3--|----|-4--|----|-5--|-6--|----|-7--|----|-1--|----|-2s-|-3s-|----|-4s-|----
+|-7--|----|-1--|----|-2--|-3--|----|-4--|----|-5--|-6--|----|-7s-|----|-1b-|----
+|-4--|----|-5--|-6--|----|-7--|----|-1--|----|-2--|-3--|----|-4s-|----|-5s-|-6s-
+</pre>
 
 
 <pre>
@@ -482,110 +99,14 @@ title: Scala minore naturale
 
 
 <br>BOX IV
-<table bgcolor=white><tr><td><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><br><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><br><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota5.gif"><!
-></td></tr>
-</table>
+<pre class="scale-view">
+|-4--|----|-5s-|-6s-|----|-7s-|----|-1--|----|-2--|-3--|----|-4--|----|-5--|-6--
+|-1--|----|-2s-|-3s-|----|-4s-|----|-5--|-6--|----|-7--|----|-1--|----|-2--|-3--
+|-6--|----|-7s-|----|-1b-|----|-2--|-3--|----|-4--|----|-5--|-6--|----|-7--|----
+|-3--|----|-4s-|----|-5s-|-6s-|----|-7--|----|-1--|----|-2--|-3--|----|-4--|----
+|-7--|----|-1b-|----|-2s-|-3s-|----|-4--|----|-5--|-6--|----|-7--|----|-1--|----
+|-4--|----|-5s-|-6s-|----|-7s-|----|-1--|----|-2--|-3--|----|-4--|----|-5--|-5--
+</pre>
 
 
 
@@ -603,110 +124,14 @@ title: Scala minore naturale
 </pre>
 
 <br>BOX V
-<table bgcolor=white><tr><td><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><br><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><br><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5r.gif"><!
-><img src="fragments/nota6r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2r.gif"><!
-><img src="fragments/nota3r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota7r.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota1b.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota2.gif"><!
-><img src="fragments/nota3.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota4.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota5.gif"><!
-><img src="fragments/nota6.gif"><!
-></td></tr>
-</table>
+<pre class="scale-view">
+|-4--|----|-5--|-6--|----|-7s-|----|-1b-|----|-2--|-3--|----|-4--|----|-5--|-6--
+|-1--|----|-2--|-3--|----|-4s-|----|-5s-|-6s-|----|-7--|----|-1--|----|-2--|-3--
+|-2--|----|-7--|----|-1b-|----|-2s-|-3s-|----|-4--|----|-5--|-6--|----|-7--|----
+|-3--|----|-4--|----|-5s-|-6s-|----|-7s-|----|-1--|----|-2--|-3--|----|-4--|----
+|-7--|----|-1--|----|-2s-|-3s-|----|-4s-|----|-5--|-6--|----|-7--|----|-1--|----
+|-4--|----|-5--|-6--|----|-7s-|----|-1b-|----|-2--|-3--|----|-4--|----|-5--|-6--
+</pre>
 
 
 

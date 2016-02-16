@@ -104,7 +104,7 @@ google_color_url = ["008000","008000","008000","AECCEB"];
             <input type="hidden" name="oe" value="ISO-8859-1"></input>
             <input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:1"></input>
             <input type="hidden" name="hl" value="it"></input>
-            </td></tr></table>
+            <td></tr></table>
             </form>
             <!-- SiteSearch Google -->
 
