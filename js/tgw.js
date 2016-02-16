@@ -15,12 +15,12 @@ TGW = (function() {
 		var head_fret_R = chord_data.length == 7 ? chord_data[6] : 0;
 		var head_fret = roman_to_indian[head_fret_R];
 
-		var finger_font_size = 22;
-		var head_fret_font_size = 20;
+		var finger_font_size = 18;
+		var head_fret_font_size = 14;
 		var padding_w = needs_padding ? 60 : 0;
 		var padding_h = 40;
-		var key_w = 80;
-		var key_h = 40;
+		var key_w = 60;
+		var key_h = 35;
 		var canvas_w = key_w * 5 + padding_w * 1;
 		var canvas_h = key_h * 5 + padding_h * 2;
 		var neck_w = key_w * 5;
@@ -301,21 +301,35 @@ TGW = (function() {
 				console.log(frets);
 				frets.forEach(function(fret_value, fret_number) {
 					if (fret_value.match(/\ds/)) {
+						// dark
 						draw_round_number(fret_value[0], padding_w + fret_number*key_w + key_w/2, padding_h + key_h*string_index, "#222222", "#888888", "#DDDDDD");
 					} else
 					if (fret_value.match(/\dt/)) {
+						// red
 						draw_round_number(fret_value[0], padding_w + fret_number*key_w + key_w/2, padding_h + key_h*string_index, "#FF0000", "#888888", "#FFFFFF");
 					} else
 					if (fret_value.match(/\db/)) {
+						// blue
 						draw_round_number(fret_value[0], padding_w + fret_number*key_w + key_w/2, padding_h + key_h*string_index, "#0000FF", "#888888", "#FFFFFF");
 					} else
 					if (fret_value.match(/\d/)) {
+						// gray muted with number
 						draw_round_number(fret_value[0], padding_w + fret_number*key_w + key_w/2, padding_h + key_h*string_index, "#DDDDDD", "#AAAAAA", "#AAAAAA");
 					} else
 					if (fret_value.match(/bs/)) {
 						draw_round_number('', padding_w + fret_number*key_w + key_w/2, padding_h + key_h*string_index, "#0000FF", "#888888", "#222222");
 					} else
+					if (fret_value.match(/rs/)) {
+						draw_round_number('', padding_w + fret_number*key_w + key_w/2, padding_h + key_h*string_index, "#FF0000", "#888888", "#222222");
+					} else
+					if (fret_value.match(/vs/)) {
+						draw_round_number('', padding_w + fret_number*key_w + key_w/2, padding_h + key_h*string_index, "#00FF00", "#888888", "#222222");
+					} else
+					if (fret_value.match(/gs/)) {
+						draw_round_number('', padding_w + fret_number*key_w + key_w/2, padding_h + key_h*string_index, "#FFFF00", "#888888", "#222222");
+					} else
 					if (fret_value.match(/b/)) {
+						// gray muted without number
 						draw_round_number('', padding_w + fret_number*key_w + key_w/2, padding_h + key_h*string_index, "#DDDDDD", "#888888", "#222222");
 					}
 				});

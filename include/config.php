@@ -21,7 +21,7 @@ $cfg_dir = __DIR__."/cfg";
 $spartiti_dir = "discografia-canzoni";
 $rss_description = "The Guitar Wizard";
 $activate_google_analitics = false; // $_SERVER['SERVER_NAME'] != 'localhost';
-$enable_adsense = false;
+$enable_adsense = true;
 
 $links_page_description = "Only the best websites from internet";
 $faq_page_description = "A quick answer to all your questions";

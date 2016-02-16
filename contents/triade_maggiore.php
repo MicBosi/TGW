@@ -10,542 +10,64 @@ Per capire l'importanza di questi schemi basti pensare che molti chitarristi bas
 Presto aggiungero' le principali posizioni per effettuare i primi sweep!<br>
 <br>
 
-
 <font size=5>T</font>riade maggiore.<br>
 
-<table bgcolor=white><tr><td>
-
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5.gif"><!
-><br>
-<img src="fragments/nota1.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1.gif"><!
-><br>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5.gif">
-</td></tr>
-</table>
-
-
+<pre class="scale-view">
+|----|----|-5s-|----|----|----|----|-1s-|----|----|----|-3s-|----|----|-5s-
+|-1s-|----|----|----|-3s-|----|----|-5s-|----|----|----|----|-1s-|----|----
+|----|----|----|----|-1s-|----|----|----|-3s-|----|----|-5s-|----|----|----
+|----|-3s-|----|----|-5s-|----|----|----|----|-1s-|----|----|----|-3s-|----
+|----|----|-1s-|----|----|----|-3s-|----|----|-5s-|----|----|----|----|-1s-
+|----|----|-5s-|----|----|----|----|-1s-|----|----|----|-3s-|----|----|-5s-
+</pre>
 
 <br><font size=5>Q</font>ui di seguito evidenziamo meglio con colori alternati i rivolti della triade maggiore su  gruppi di tre corde, le note contrassegnate dal colore bianco servono solo come orientamento.<br><br>
 <font size=5>T</font>riade maggiore rivolti sulle corde: Sol, Si, Mi.<br>
 
-<table bgcolor=white cellspacing=0 cellpadding=0><tr><td>
-
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1b.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5.gif"><!
-><br>
-<img src="fragments/nota1.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5b.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3b.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-
-</td></tr><tr><td bgcolor=gray>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-</td></tr>
-</table>
-
+<pre class="scale-view">
+|----|----|-5t-|----|----|----|----|-1b-|----|----|----|-3t-|----|----|-5--
+|-1--|----|----|----|-3t-|----|----|-5b-|----|----|----|----|-1t-|----|----
+|----|----|----|----|-1t-|----|----|----|-3b-|----|----|-5t-|----|----|----
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----
+</pre>
 
 <br>
 <font size=5>T</font>riade maggiore rivolti sulle corde: Re, Sol, Si.<br>
 
-<table bgcolor=white cellspacing=0 cellpadding=0><tr><td bgcolor=gray>
-
-
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-</td></tr><tr><td>
-
-<img src="fragments/nota1.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5b.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3b.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1b.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3r.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-
-</td></tr><tr><td bgcolor=gray>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-</td></tr>
-</table>
-
-
+<pre class="scale-view">
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----
+|-1--|----|----|----|-3t-|----|----|-5b-|----|----|----|----|-1t-|----|----
+|----|----|----|----|-1t-|----|----|----|-3b-|----|----|-5t-|----|----|----
+|----|-3--|----|----|-5t-|----|----|----|----|-1b-|----|----|----|-3t-|----
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----
+</pre>
 
 <br>
 <font size=5>T</font>riade maggiore rivolti sulle corde: La, Re, Sol.<br>
 
-<table bgcolor=white cellspacing=0 cellpadding=0><tr><td bgcolor=gray>
-
-
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-</td></tr><tr><td>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3b.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1b.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3r.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5b.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1r.gif">
-
-</td></tr><tr><td bgcolor=gray>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-</td></tr>
-</table>
-
-
-
+<pre class="scale-view">
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----
+|----|----|----|----|-1t-|----|----|----|-3b-|----|----|-5t-|----|----|----
+|----|-3--|----|----|-5t-|----|----|----|----|-1b-|----|----|----|-3t-|----
+|----|----|-1--|----|----|----|-3t-|----|----|-5b-|----|----|----|----|-1t-
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----
+</pre>
 
 <br>
 <font size=5>T</font>riade maggiore rivolti sulle corde: Mi, La, Re.<br>
 
+<pre class="scale-view">
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----
+|----|-3t-|----|----|-5b-|----|----|----|----|-1t-|----|----|----|-3--|----
+|----|----|-1t-|----|----|----|-3b-|----|----|-5t-|----|----|----|----|-1--
+|----|----|-5t-|----|----|----|----|-1b-|----|----|----|-3t-|----|----|-5--
+</pre>
 
-<table bgcolor=white cellspacing=0 cellpadding=0><tr><td bgcolor=gray>
-
-
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-</td></tr><tr><td>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5b.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3.gif">
-<img src="fragments/nonnota.gif"><!
-><br>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3b.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1.gif"><!
-><br>
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota1b.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota3r.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nonnota.gif">
-<img src="fragments/nota5.gif">
-</td></tr>
-</table>
 <br><br>
 Buon allenamento!

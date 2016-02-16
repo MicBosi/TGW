@@ -12,321 +12,45 @@ Esse ci sono di grande aiuto anche per avere una vista ampia sulla tastiera.<br>
 
 
 <br><br>
-POSIZIONI DELE OTTAVE DI UNA QUALSIASI NOTA<br>
-
-<table bgcolor=white><tr><td>
-
-<img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nota_rosso.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-></td></tr>
-</table>
+POSIZIONI DELE OTTAVE DI UNA QUALSIASI NOTA. (esempio in Do).<br>
+<pre class="scale-view">
+|----|----|----|----|----|----|----|-rs-|----|----|----|----|----|----|----
+|-rs-|----|----|----|----|----|----|----|----|----|----|----|-rs-|----|----
+|----|----|----|----|-rs-|----|----|----|----|----|----|----|----|----|----
+|----|----|----|----|----|----|----|----|----|-rs-|----|----|----|----|----
+|----|----|-rs-|----|----|----|----|----|----|----|----|----|----|----|-rs-
+|----|----|----|----|----|----|----|-rs-|----|----|----|----|----|----|----
+</pre>
 
 
 <br>
-POSIZIONI DELLE QUINTE DI UNA QUALSIASI NOTA.<br>
-NERO = fondamentale.<br>
-ROSSO = quinta.<br>
-
-
-<table bgcolor=white><tr><td>
-
-<img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><br><!
-><img src="fragments/nota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-></td></tr>
-</table>
+POSIZIONI DELLE QUINTE DI UNA QUALSIASI NOTA. (esempio in Do).<br>
+ROSS = fondamentale.<br>
+GIALLO = quinta.<br>
+<pre class="scale-view">
+|----|----|-gs-|----|----|----|----|-rs-|----|----|----|----|----|----|-gs-
+|-rs-|----|----|----|----|----|----|-gs-|----|----|----|----|-rs-|----|----
+|----|----|----|----|-rs-|----|----|----|----|----|----|-gs-|----|----|----
+|----|----|----|----|-gs-|----|----|----|----|-rs-|----|----|----|----|----
+|----|----|-rs-|----|----|----|----|----|----|-gs-|----|----|----|----|-rs-
+|----|----|-gs-|----|----|----|----|-rs-|----|----|----|----|----|----|-gs-
+</pre>
 
 
 <br>
-POSIZIONI DELLE TERZE DI UNA QUALSIASI NOTA.<br>
-NERO = fondamentale.<br>
-ROSSO = terza maggiore.<br>
+POSIZIONI DELLE TERZE DI UNA QUALSIASI NOTA. (esempio in Do).<br>
+ROSSO = fondamentale.<br>
 BLU = terza minore.<br>
+VERDE = terza maggiore.<br>
 
-<table bgcolor=white><tr><td>
-
-<img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_blu.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_blu.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><img src="fragments/nonnota.gif"><!
-><i><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_blu.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nota_blu.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_blu.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><img src="fragments/nonnota.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_blu.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota.gif"><!
-><br><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nota_blu.gif"><!
-><img src="fragments/nota_rosso.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-><img src="fragments/nonnota.gif"><!
-</td></tr>
-</table>
+<pre class="scale-view">
+|----|----|----|----|----|----|----|-rs-|----|----|-bs-|-vs-|----|----|----
+|-rs-|----|----|-bs-|-vs-|----|----|----|----|----|----|----|-rs-|----|----
+|----|----|----|----|-rs-|----|----|-bs-|-vs-|----|----|----|----|----|----
+|-bs-|-vs-|----|----|----|----|----|----|----|-rs-|----|----|-bs-|-vs-|----
+|----|----|-rs-|----|----|-bs-|-vs-|----|----|----|----|----|----|----|-rs-
+|----|----|----|----|----|----|----|-rs-|----|----|-bs-|-vs-|----|----|----
+</pre>
 
 <br>
 

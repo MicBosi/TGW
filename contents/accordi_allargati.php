@@ -5,7 +5,7 @@ title: Accordi allargati ed estesi
 -->
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
-<font size=5>A</font>bbiamo detto che la triade èun insieme di tre note ordinate per terze e abbiamo anche detto che poichè si dice <i>accordo</i> l'unione di due o piùsuoni ordinati per terze, allora anche la triade è un accordo.<br>
+<font size=5>A</font>bbiamo detto che la triade è un insieme di tre note ordinate per terze e abbiamo anche detto che poichè si dice <i>accordo</i> l'unione di due o piùsuoni ordinati per terze, allora anche la triade è un accordo.<br>
 Ma cosa succede se prendiamo le note di un accordo e le disponiamo non più su di un'unica ottava ma su differenti ottave?<br>
 
 <br><img src="fragments/triade allargata.gif" Alt="Triade allargata di Do non raddoppiata"><br><br>
