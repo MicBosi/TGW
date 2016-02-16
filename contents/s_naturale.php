@@ -8,7 +8,7 @@ title: Scala minore naturale
 <font size=5>L</font>e diteggiature di questa scala sono esattamente identiche a quelle della Scala Maggiore, solo che viene considerata tonica la nota che sta 1 tono e 1/2 sotto.<br>
 
 <br>
-<font size=5>S</font>cala Pentatonica Minore.<br>
+<font size=5>S</font>cala Minore Naturale.<br>
 
 <pre class="scale-view">
 |-4--|----|-5--|-6--|----|-7--|----|-1t-|----|-2--|-3--|----|-4--|----|-5--|-6--
