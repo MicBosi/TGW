@@ -29,3 +29,5 @@ $faq_answer_page_description = "Frequently Asked Questions";
 $glossary_page_description = "Because knowledge is power!";
 $glossary_answer_page_description = "Frequently Asked Questions";
 $sitemap_page_description = "Shows briefly the content of the website";
+
+$canonical_url = "http://theguitarwizard.com".$_SERVER['REQUEST_URI'];

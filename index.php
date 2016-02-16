@@ -36,11 +36,21 @@
 <html>
     <head>
         <meta charset="utf-8">
+		<link rel="canonical" href="<?php echo $canonical_url; ?>" />
 		<title><?php echo $header['title']; ?></title>
-		<meta name="description" content="<?php echo $header['description']; ?>" >
+		
+		<meta property="og:url" content="<?php echo $canonical_url; ?>"/>
+		<meta property="og:type" content="blog"/>
+		<meta property="og:title" content="<?php echo $header['title']; ?>"/>
+		<meta property="og:image" content="http://theguitarwizard.com/images/tgw-logo.jpg"/>
+		<meta property="og:site_name" content="The Guitar Wizard"/>
+		<meta property="og:description" content="<?php echo $header['description']; ?>"/>
+		<meta property="og:author" content="<?php echo $header['author']; ?>" />
+
+		<meta name="description" content="<?php echo $header['description']; ?>" />
 		<meta name="keywords" content="<?php echo $header['keywords']; ?>" />
 		<meta name="author" content="<?php echo $header['author']; ?>" />
-		<meta name="copyright" content="&copy; 2000-2016 Michele Bosi">
+		<meta name="copyright" content="&copy; 2000-2016 Michele Bosi" />
 		<meta name="robots" content="index, follow" />
 		<link rel="shortcut icon" href="<?php echo "$base_website_address/favicon.ico" ?>" />
 		<link href="<?php echo "$base_website_address/css/style.css" ?>" rel="stylesheet" type="text/css" />
@@ -48,7 +58,25 @@
 		<meta name="google-site-verification" content="kdEdtblSQTOF5ty2Dhm7aBe7cus0NBMrxn9ky1d-OX4" />
     </head>
     <body>
-        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-bottom: 5px">
+		<script>
+		  window.fbAsyncInit = function() {
+			FB.init({
+			  appId      : '1463619127203730',
+			  xfbml      : true,
+			  version    : 'v2.5'
+			});
+		  };
+
+		  (function(d, s, id){
+			 var js, fjs = d.getElementsByTagName(s)[0];
+			 if (d.getElementById(id)) {return;}
+			 js = d.createElement(s); js.id = id;
+			 js.src = "//connect.facebook.net/en_US/sdk.js";
+			 fjs.parentNode.insertBefore(js, fjs);
+		   }(document, 'script', 'facebook-jssdk'));
+		</script>
+
+		<table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-bottom: 5px">
             <tbody>
                 <tr>
                     <td>
@@ -66,14 +94,19 @@
 <!-- content -->
 		<?php require("$template_directory/index.php"); ?>
 
+		<script src="js/jquery-1.12.0.min.js"></script>
+		<script src="js/tgw.js"></script>
+
+<!-- comments -->
+		<center>
+			<div class="fb-comments" data-href="<?php echo $canonical_url; ?>" data-numposts="10"></div>
+		</center>
+		
 <!-- footer -->
 		<div style="padding: 5px; margin: 8em 0 1em 0; font-family: 'IM Fell English SC', serif; font-size: 16px; text-align: center;">
 			<a href="<?=$base_website_address;?>/propositi.html">&copy; Copyright 2000-<?php echo date("Y") ?> Michele Bosi</a> <br>
 			I diritti di questo sito sono rilasciati con licenza <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
 		</div>
-
-		<script src="js/jquery-1.12.0.min.js"></script>
-		<script src="js/tgw.js"></script>
 
 		<?php if ($activate_google_analitics) { ?>
 			<script>
