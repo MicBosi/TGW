@@ -1,29 +1,31 @@
 <?php require("include/index.php"); 
 /*
 	TODO:
-	- 1) Sweep maggiore, sweep minore, triadi fix
-	- 2) JS ascii to high-quality picture converter (chords & scales & tabs)
-		--> http://www.wikihow.com/Play-Guitar-Chords
-	- 3) Fix lame copy
-	- 4) Live chord/hand-position photos
-	- 5) Responsive optimized theme
+	- 0) Intelligent JS tab renderer
+	- 1) Disqus comments
+	- 2) Ripensa tutto il contenuto
+		- how to tune guitar
+		- how to change strings
+		- video
+		- foto
+		- esempi: canzoni, progressioni, strumming, ritmi
+		- tools:
+			- song chords printer (create your songbook)
+			- song transposer
+			- chord progression editor/player
+	- 3) Live chord/hand-position photos
+	- 2) Fix lame copy
+	- 4) Responsive optimized theme
 	- progressions
 	- canzoni famose
-	- comments
 	- aggiustare struttura menu/quick-menu
 	- megatabs
-	- Update graphics:
-		==|> JS library to render chords and scales.
-
-		* Chords and scales generated via JS/Canvas/SVG (ex. http://chordography.blogspot.co.uk, http://einaregilsson.com/chord-image-generator)
-			* Traverse all canvas objects with 'chord' class and read "data-" fields for parameters.
-			* Library of preset chords.
-		* Accordi (photo, schemi, tabs, audio, video).
-		* Strumming (video, tabs).
-		* Chord transposer.
-		* Scale (box, tabs, video, audio) - Again using JS.
-		* Chord progression builder, interactive.
-			* Play/save/share songs.
+	* Accordi (photo, schemi, tabs, audio, video).
+	* Strumming (video, tabs).
+	* Chord transposer.
+	* Scale (box, tabs, video, audio) - Again using JS.
+	* Chord progression builder, interactive.
+		* Play/save/share songs.
 	- Divisione teoria/pratica.
 	- Video progressioni/accordi.
 	- FB comments.
