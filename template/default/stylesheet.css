@@ -1,4 +1,8 @@
 td.content_td { padding: 4px; }
 li { padding-left: 5px; margin: 0px; }
 ul { padding-left: 0px; margin: 0px; }
-div.li { padding:0px; padding-left: 5px; background: url(dot.png) no-repeat left 6px; }
+div.li { 
+	padding:0px; 
+	padding-left: 5px; 
+	background: url(dot.png) no-repeat left 12px;
+}

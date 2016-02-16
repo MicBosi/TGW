@@ -61,11 +61,13 @@
             </tbody>
         </table>
 		
+		<hr width="50%">
+
 <!-- content -->
 		<?php require("$template_directory/index.php"); ?>
 
 <!-- footer -->
-		<div style="padding: 5px; margin: 4em 0 1em 0; font-family: 'IM Fell English SC', serif; font-size: 16px; text-align: center;">
+		<div style="padding: 5px; margin: 8em 0 1em 0; font-family: 'IM Fell English SC', serif; font-size: 16px; text-align: center;">
 			<a href="<?=$base_website_address;?>/propositi.html">&copy; Copyright 2000-<?php echo date("Y") ?> Michele Bosi</a> <br>
 			Some Rights Reserved.
 		</div>

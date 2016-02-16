@@ -4,69 +4,11 @@ description: Corso di chitarra online, spartiti per chitarra, trova accordi, tab
 title: The Guitar Wizard - Corso di chitarra online, esercizi e tablature, trova spartiti per chitarra, accordi e testi di canzoni
 template: index
 -->
-<!-- GOOGLE ADSENSE -->
-<center>
-    <script type="text/javascript"><!--
-        google_ad_client = "pub-1457183695568112";
-        google_ad_width = 728;
-        google_ad_height = 90;
-        google_ad_format = "728x90_as";
-        google_ad_type = "text_image";
-        //2007-02-21: Leaderboard
-        google_ad_channel = "2981980269";
-        google_color_border = ["FFFFFF","336699","000000","6699CC"];
-        google_color_bg = ["FFFFFF","FFFFFF","F0F0F0","003366"];
-        google_color_link = ["0000FF","0000FF","0000FF","FFFFFF"];
-        google_color_text = ["000000","000000","000000","AECCEB"];
-        google_color_url = ["008000","008000","008000","AECCEB"];
-    </script>
-    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-</center>
-
 <table border=0 cellpadding="0" cellspacing="0">
     <tr>
-        <td valign=top align=center style="text-align: top; border: 1px solid white;">
-            <!-- SKYSCRAPER -->
-            <script type="text/javascript"><!--
-                google_ad_client = "pub-1457183695568112";
-                google_ad_width = 120;
-                google_ad_height = 600;
-                google_ad_format = "120x600_as";
-                google_ad_type = "text_image";
-                //2007-02-13: colonnasinistra
-                google_ad_channel = "1362361496";
-                google_color_border = ["FFFFFF","336699","000000","6699CC"];
-                google_color_bg = ["FFFFFF","FFFFFF","F0F0F0","003366"];
-                google_color_link = ["0000FF","0000FF","0000FF","FFFFFF"];
-                google_color_text = ["000000","000000","000000","AECCEB"];
-                google_color_url = ["008000","008000","008000","AECCEB"];
-                //--></script>
-            <script type="text/javascript"
-                src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-        </td>
         <td valign=top>
             <table border="0" cellpadding="4" cellspacing="5" width="100%">
                 <tbody>
-                    <tr>
-                        <td style="border: 1px solid gray;" align=center colspan=4>
-                            <!-- LINK BAR -->
-                            <script type="text/javascript"><!--
-                                google_ad_client = "pub-1457183695568112";
-                                google_ad_width = 728;
-                                google_ad_height = 15;
-                                google_ad_format = "728x15_0ads_al_s";
-                                //2007-02-13: linksadverts
-                                google_ad_channel = "1109785453";
-                                google_color_border = ["FFFFFF","336699","000000","6699CC"];
-                                google_color_bg = ["FFFFFF","FFFFFF","F0F0F0","003366"];
-                                google_color_link = ["0000FF","0000FF","0000FF","FFFFFF"];
-                                google_color_text = ["000000","000000","000000","AECCEB"];
-                                google_color_url = ["008000","008000","008000","AECCEB"];
-                                //--></script>
-                            <script type="text/javascript"
-                                src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-                        </td>
-                    </tr>
                     <tr>
                         <td style="border: 0px solid gray;" colspan=4 id="content-index">
 
@@ -406,59 +348,32 @@ template: index
 
                         </td>
                     </tr>
-                    <tr>
-                        <td valign="top" colspan="4">
-                            <div style="padding: 10px;">
-                                <script type="text/javascript"><!--
-                                    google_ad_client = "pub-1457183695568112";
-                                    google_ad_width = 250;
-                                    google_ad_height = 250;
-                                    google_ad_format = "250x250_as";
-                                    google_ad_type = "text_image";
-                                    //2007-03-07: boxgrandebasso
-                                    google_ad_channel = "5515745271";
-                                    google_color_border = ["FFFFFF","336699","000000","6699CC"];
-                                    google_color_bg = ["FFFFFF","FFFFFF","F0F0F0","003366"];
-                                    google_color_link = ["0000FF","0000FF","0000FF","FFFFFF"];
-                                    google_color_text = ["000000","000000","000000","AECCEB"];
-                                    google_color_url = ["008000","008000","008000","AECCEB"];
-                                </script>
-                                <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-                            </div>
-                        </td>
-                    </tr>
                 </tbody>
             </table>
         </td>
     </tr>
 </table>
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\LINK\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-<br>
+
+<center>
+<div style="height: 60px; margin: 2em auto; background-image: url('images/save1.jpg');"></div>
+<h1 style="font-weight: normal; font-size: 30px; color: gold"> Discografie, Spartiti, Accordi, Testi, Tablature Di Artisti Italiani E Stranieri </h1>
+<table border=0 width=800>
+    <tr>
+        <td align=left>
+            <?php $tab_search_off=1; require("$contents_dir/$spartiti_dir/tabdescription.php"); ?>
+            <?php require("$contents_dir/$spartiti_dir/tabgrid.php"); ?>
+        </td>
+    </tr>
+</table>
+</center>
+
+<center>
+<div style="height: 60px; margin: 2em auto; background-image: url('images/save1.jpg');"></div>
+<h1 style="font-weight: normal; font-size: 30px; color: gold">Musica, Corsi Di Chitarra, Scuole, Testi di Canzoni e Spartiti per Chitarra Online Gratis</h1>
+</center>
+
 <table border="0" cellpadding="3" cellspacing="1" width="100%">
     <tbody>
-        <tr>
-            <th colspan="3" style="border: 1px solid gray;" align="center" background="images/save1.jpg">
-                <h1 style="padding: 0px; margin: 0px; font-weight: normal; font-size: 16px">
-                    <font color="#fff080" size="5">
-                    &nbsp;
-                    </font>
-                </h1>
-            </th>
-        </tr>
-        <tr>
-            <th colspan="3" style="border: 0px solid gray;" align="center">
-                <h1 style="padding: 0px; margin: 0px; font-weight: normal; font-size: 16px">
-                    <font color="gold" size="5">
-                    Musica, Corsi Di Chitarra, Scuole, Testi di Canzoni e Spartiti per Chitarra Online Gratis
-                    </font>
-                </h1>
-                <br>
-            </th>
-        </tr>
         <tr>
             <td style="border: 1px solid gray;" valign="top" width="33%">
                 <h1 style="padding: 0px; margin: 0px; font-weight: normal; font-size: 16px">
@@ -506,33 +421,3 @@ template: index
         </tr>
     </tbody>
 </table>
-<br>
-<table border="0" cellpadding="3" cellspacing="1" width="100%">
-    <tbody>
-        <tr>
-            <th colspan="3" style="border: 1px solid gray;" align="center" background="images/save1.jpg">
-                <h1 style="padding: 0px; margin: 0px; font-weight: normal; font-size: 26px; color: fff080">
-                    &nbsp;
-                </h1>
-            </th>
-        </tr>
-        <tr>
-            <th colspan="3" style="border: 0px solid gray;" align="center">
-                <h1 style="padding: 0px; margin: 0px; font-weight: normal; font-size: 26px; color: fff080">
-                    Discografie, Spartiti, Accordi, Testi, Tablature Di Artisti Italiani E Stranieri
-                </h1>
-                <br>
-            </th>
-        </tr>
-    </tbody>
-</table>
-<center>
-<table border=0 width=800>
-    <tr>
-        <td align=left>
-            <?php $tab_search_off=1; require("$contents_dir/$spartiti_dir/tabdescription.php"); ?>
-            <?php require("$contents_dir/$spartiti_dir/tabgrid.php"); ?>
-        </td>
-    </tr>
-</table>
-</center>
