@@ -69,7 +69,7 @@
 <!-- footer -->
 		<div style="padding: 5px; margin: 8em 0 1em 0; font-family: 'IM Fell English SC', serif; font-size: 16px; text-align: center;">
 			<a href="<?=$base_website_address;?>/propositi.html">&copy; Copyright 2000-<?php echo date("Y") ?> Michele Bosi</a> <br>
-			Some Rights Reserved.
+			I diritti di questo sito sono rilasciati con licenza <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
 		</div>
 
 		<script src="js/jquery-1.12.0.min.js"></script>
