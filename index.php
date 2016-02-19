@@ -81,7 +81,7 @@
                     <td>
                         <center>
                             <h1 id="tgw-title"> <a href="<?php echo "$base_website_address"; ?>/" title="Lezioni di chitarra, guide di teoria e tecnica, spartiti, testi e accordi di canzoni">The Guitar Wizard</a></h1>
-                            <h2>Scopri La Magia Di Suonare Chitarra</h2>
+                            <h2>La Magia Di Suonare Chitarra</h2>
                         </center>
                     </td>
                 </tr>
