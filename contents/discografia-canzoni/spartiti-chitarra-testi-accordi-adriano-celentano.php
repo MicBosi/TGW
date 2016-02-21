@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Adriano Celentano</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Adriano Celentano:</h2>
 <h2>C'è Sempre Un Motivo (2004) </h2>
 <b>1</b>. Ancora Vivo - <a target="_blank" href="http://www.google.com/search?q=spartiti+Ancora+Vivo+Adriano+Celentano" title="Spartiti di Ancora Vivo">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Ancora+Vivo+Adriano+Celentano" title="Accordi di Ancora Vivo">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Ancora+Vivo+Adriano+Celentano" title="Testi di Ancora Vivo">testi</a><br>

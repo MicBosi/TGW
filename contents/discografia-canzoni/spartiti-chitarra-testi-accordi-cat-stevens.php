@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Cat Stevens</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Cat Stevens:</h2>
 <h2>The Very Best Of Cat Stevens (2000) </h2>
 <b>1</b>. Matthew & Son - <a target="_blank" href="http://www.google.com/search?q=spartiti+Matthew+%26+Son+Cat+Stevens" title="Spartiti di Matthew & Son">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Matthew+%26+Son+Cat+Stevens" title="Accordi di Matthew & Son">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Matthew+%26+Son+Cat+Stevens" title="Testi di Matthew & Son">testi</a><br>

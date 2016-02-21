@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Marco Masini</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Marco Masini:</h2>
 <h2>Tozzi Masini (2006) </h2>
 <b>1</b>. Come Si Fa - <a target="_blank" href="http://www.google.com/search?q=spartiti+Come+Si+Fa+Marco+Masini" title="Spartiti di Come Si Fa">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Come+Si+Fa+Marco+Masini" title="Accordi di Come Si Fa">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Come+Si+Fa+Marco+Masini" title="Testi di Come Si Fa">testi</a><br>

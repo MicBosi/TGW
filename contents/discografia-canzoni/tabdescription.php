@@ -32,7 +32,7 @@ le posizioni degli accordi si rimanda alla sezione <i>Accordi</i> di questo sito
 <?php if ( !isset($tab_search_off) )
 {
 ?>
-  <table border=0 width=600 cellspacing=0 cellpadding=10 style="border: 1px dashed white; padding: 5px">
+  <table border=0 width="100%" cellspacing=0 cellpadding=10 style="border: 1px dashed white; padding: 5px">
   <tr>
   <td>
   <h1>Tabs Finder</h1>
@@ -49,8 +49,8 @@ le posizioni degli accordi si rimanda alla sezione <i>Accordi</i> di questo sito
   <!-- Google CSE Search Box Ends -->
   </td>
   <td>
-  Questo motore di ricerca è basato su Google ma è ottimizzato per trovare accordi, testi, tablature e spartiti per chitarra! Mettilo alla prova!
-  <b>Specifica solamente il nome dell'autore e della canzone.</b>
+  Questo motore di ricerca è basato su Google ma è ottimizzato per trovare accordi, testi, tablature e spartiti per chitarra! Mettilo alla prova!<br>
+  Specifica solamente il nome dell'autore e della canzone.
   </tr>
   </tr>
   </table>

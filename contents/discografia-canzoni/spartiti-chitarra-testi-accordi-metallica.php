@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Metallica</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Metallica:</h2>
 <h2>St. Anger (2003) </h2>
 <b>1</b>. Frantic - <a target="_blank" href="http://www.google.com/search?q=spartiti+Frantic+Metallica" title="Spartiti di Frantic">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Frantic+Metallica" title="Accordi di Frantic">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Frantic+Metallica" title="Testi di Frantic">testi</a><br>

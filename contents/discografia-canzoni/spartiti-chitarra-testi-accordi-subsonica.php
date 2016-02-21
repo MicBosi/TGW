@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Subsonica</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Subsonica:</h2>
 <h2>Terrestre Live E Varie Altre Disfunzioni (2006) </h2>
 <b>1</b>. Live: Giorni A Perdere - <a target="_blank" href="http://www.google.com/search?q=spartiti+Live%3A+Giorni+A+Perdere+Subsonica" title="Spartiti di Live: Giorni A Perdere">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Live%3A+Giorni+A+Perdere+Subsonica" title="Accordi di Live: Giorni A Perdere">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Live%3A+Giorni+A+Perdere+Subsonica" title="Testi di Live: Giorni A Perdere">testi</a><br>

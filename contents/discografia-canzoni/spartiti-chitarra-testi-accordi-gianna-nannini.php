@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Gianna Nannini</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Gianna Nannini:</h2>
 <h2>Grazie (2006) </h2>
 <b>1</b>. Sei Nell?anima - <a target="_blank" href="http://www.google.com/search?q=spartiti+Sei+Nell%3Fanima+Gianna+Nannini" title="Spartiti di Sei Nell?anima">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Sei+Nell%3Fanima+Gianna+Nannini" title="Accordi di Sei Nell?anima">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Sei+Nell%3Fanima+Gianna+Nannini" title="Testi di Sei Nell?anima">testi</a><br>

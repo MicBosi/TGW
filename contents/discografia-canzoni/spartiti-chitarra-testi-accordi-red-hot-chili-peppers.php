@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Red Hot Chili Peppers</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Red Hot Chili Peppers:</h2>
 <h2>Stadium Arcadium (2006) </h2>
 <b>1</b>. Dani California - <a target="_blank" href="http://www.google.com/search?q=spartiti+Dani+California+Red+Hot+Chili+Peppers" title="Spartiti di Dani California">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Dani+California+Red+Hot+Chili+Peppers" title="Accordi di Dani California">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Dani+California+Red+Hot+Chili+Peppers" title="Testi di Dani California">testi</a><br>

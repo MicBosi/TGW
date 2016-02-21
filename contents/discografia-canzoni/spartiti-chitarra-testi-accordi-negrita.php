@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Negrita</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Negrita:</h2>
 <h2>L'uomo Sogna Di Volare (2005) </h2>
 <b>1</b>. Sale - <a target="_blank" href="http://www.google.com/search?q=spartiti+Sale+Negrita" title="Spartiti di Sale">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Sale+Negrita" title="Accordi di Sale">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Sale+Negrita" title="Testi di Sale">testi</a><br>

@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Pink Floyd</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Pink Floyd:</h2>
 <h2>Echoes (Disc 2) (2001) </h2>
 <b>1</b>. Shine On You Crazy Diamond (Part 1-7) - <a target="_blank" href="http://www.google.com/search?q=spartiti+Shine+On+You+Crazy+Diamond+%28Part+1-7%29+Pink+Floyd" title="Spartiti di Shine On You Crazy Diamond (Part 1-7)">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Shine+On+You+Crazy+Diamond+%28Part+1-7%29+Pink+Floyd" title="Accordi di Shine On You Crazy Diamond (Part 1-7)">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Shine+On+You+Crazy+Diamond+%28Part+1-7%29+Pink+Floyd" title="Testi di Shine On You Crazy Diamond (Part 1-7)">testi</a><br>

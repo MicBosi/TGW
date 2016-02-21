@@ -5,13 +5,20 @@ title: Introduzione Al Corso Di Chitarra
 -->
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
-<b><font size=5>L</font></b>a maggior parte degli aspiranti chitarristi usa una minima parte delle potenzialità del loro strumento (e quindi di se stessi), sia per il costo non indifferente di libri, lezioni e corsi di chitarra vari, sia perché spesso si vede un alone di sacralità e mistero dietro tutto quello che concerne le scale l'armonia e la teoria.<br>
-Infatti siamo portati a pensare che queste cose siano appannaggio dei soli professionisti e ignoriamo completamente che siano invece cose abbordabili da chiunque.<br>
-In realtà la chitarra si può suonare in molte maniere diverse, e non è necessario sapere tutto di essa per poterne apprezzare le infinite qualità.<br>
-Questo non vuol dire che la chitarra sia lo strumento dei musicisti falliti, l'ultima spiaggia per chi non è riuscito altrove!<br>
-Questa brutta reputazione le deriva ironicamente dal fatto che essa sia un ottimo strumento d'accompagnamento tanto quanto un eccellente strumento solistico, dalle invidiabili capacità timbriche ed espressive. Questa sua estrema versatilità ha permesso a milioni di persone di poter suonare, sebbene in modo alquanto limitato e rudimentale, a fronte di una minima esercitazione.<br>
-Questo non vuol dire che la chitarra sia uno strumento facile in assoluto, al contrario per poter sfruttare appieno le sue svariate potenzialità occorrono lunghi anni di appassionato studio... diciamo che con essa ognuno ha pane per i suoi denti!<br>
-Proprio in questa ottica ho cercato di sviluppare ogni argomento in questo corso di chitarra, ovvero in modo tale che ognuno possa decidere facilmente come spendere le proprie risorse. In realtà, dal mio punto di vista, una delle cose più difficili da fare è proprio scegliere come impiegare queste famose risorse, d'altronde bisogna essere più di un buon maestro di chitarra per avere la sensibilità necessaria a capire in modo soddisfacente quale siano le scelte migliori da fare per il proprio allievo/a. <br>
-Personalmente credo che sia importante mantenere un rapporto sereno con il proprio strumento e sapersi divertire con ciò che si sa fare, traendone sempre il massimo!<br><br>
-<b><font size=5>Q</font></b>uesto corso di chitarra vorrebbe essere una valida risorsa per tutti coloro i quali desiderano approfondire certi aspetti della musica e della tecnica chitarristica, e spero che essa possa crescere e perfezionarsi con anche il tuo aiuto, mandandomi le tue impressioni e consigli. Da parte mia io faro' tutto il possibile affinchè questo corso di chitarra sia il più possibile chiaro, accessibile e corretto.
+<p>L'obbiettivo di questo corso di chitarra e' di aprire le porte alla nostra creativita' attraverso un approccio semplice e dissacratore alla pratica della chitarra e alla teoria musicale. Il contenuto di questo sito riflette il mio personale punto di vista sulle cose e a volte sulla vita ma spero che questo non detragga troppo dal valore dei contenuti.</p>
+
+<p>Questo corso non pretende di prepararti ad entrare al conservatorio o a diventare un chitarrista professionista.<br>
+L'obbiettivo di questo corso invece e':<br>
+1) Condividere il mio personale e discutibile punto di vista. <br>
+2) Aiutare il chitarrista principiante a muovere i primi passi nel mondo della chitarra classica o elettrica.<br>
+3) Accelerare l'apprendimento attraverso un approccio basato sulla pratica degli accordi, delle progressioni e delle scale.<br>
+4) Fornire le basi teoriche degli accordi, delle scale e dell'armonia in modo il piu' chiaro e demistificato possibile. A volte le regole vanno sapute al solo scopo di evitarle! :)<br>
+5) Ispirarti a proseguire il tuo personale percorso di crescita fiducioso nelle tue capacita' tecnice e creative.
+</p>
+
+<p>La chitarra si può suonare in molte maniere diverse e non è necessario sapere tutto di essa per poterne apprezzare le infinite qualità. Queste qualita' e potenzialita' le permettono di essere sia un ottimo strumento d'accompagnamento tanto quanto un eccellente strumento solistico, dalle invidiabili capacità timbriche ed espressive. Questa sua estrema versatilità ha permesso a milioni di persone di poter suonare e avvicinarsi alla musica a fronte di una relativamente minima esercitazione.</p>
+
+<p>Personalmente credo che sia importante mantenere un rapporto sereno con il proprio strumento e sapersi divertire con ciò che si sa fare, traendone sempre il massimo!</p>
+
+<p>Questo corso di chitarra vorrebbe essere una valida risorsa per tutti coloro i quali desiderano approfondire certi aspetti della musica e della tecnica chitarristica, e spero che essa possa crescere e perfezionarsi con anche il tuo aiuto, mandandomi le tue impressioni e consigli. Da parte mia io faro' tutto il possibile affinchè questo corso di chitarra sia il più possibile chiaro, accessibile e corretto.</p>
 

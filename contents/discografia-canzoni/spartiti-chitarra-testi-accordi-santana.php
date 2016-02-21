@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Santana</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Santana:</h2>
 <h2>All That I Am (2005) </h2>
 <b>1</b>. Hermes - <a target="_blank" href="http://www.google.com/search?q=spartiti+Hermes+Santana" title="Spartiti di Hermes">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Hermes+Santana" title="Accordi di Hermes">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Hermes+Santana" title="Testi di Hermes">testi</a><br>

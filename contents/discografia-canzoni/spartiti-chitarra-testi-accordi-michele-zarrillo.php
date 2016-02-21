@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Michele Zarrillo</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Michele Zarrillo:</h2>
 <h2>L'alfabeto Degli Amanti (2006) </h2>
 <b>1</b>. L?alfabeto Degli Amanti - <a target="_blank" href="http://www.google.com/search?q=spartiti+L%3Falfabeto+Degli+Amanti+Michele+Zarrillo" title="Spartiti di L?alfabeto Degli Amanti">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+L%3Falfabeto+Degli+Amanti+Michele+Zarrillo" title="Accordi di L?alfabeto Degli Amanti">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+L%3Falfabeto+Degli+Amanti+Michele+Zarrillo" title="Testi di L?alfabeto Degli Amanti">testi</a><br>

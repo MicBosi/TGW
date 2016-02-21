@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Neffa</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Neffa:</h2>
 <h2>Alla Fine Della Notte (2006) </h2>
 <b>1</b>. Che Sarà Sarà - <a target="_blank" href="http://www.google.com/search?q=spartiti+Che+Sar%E0+Sar%E0+Neffa" title="Spartiti di Che Sarà Sarà">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Che+Sar%E0+Sar%E0+Neffa" title="Accordi di Che Sarà Sarà">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Che+Sar%E0+Sar%E0+Neffa" title="Testi di Che Sarà Sarà">testi</a><br>

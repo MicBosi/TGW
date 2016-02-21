@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Jovanotti</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Jovanotti:</h2>
 <h2>Buon Sangue - Lorenzo 2005 (2005) </h2>
 <b>1</b>. Tanto(3) - <a target="_blank" href="http://www.google.com/search?q=spartiti+Tanto%283%29+Jovanotti" title="Spartiti di Tanto(3)">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Tanto%283%29+Jovanotti" title="Accordi di Tanto(3)">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Tanto%283%29+Jovanotti" title="Testi di Tanto(3)">testi</a><br>

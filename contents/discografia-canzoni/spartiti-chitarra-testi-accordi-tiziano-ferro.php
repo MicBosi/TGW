@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Tiziano Ferro</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Tiziano Ferro:</h2>
 <h2>Nadie Está Solo (2006) </h2>
 <b>1</b>. Tarántula De Africa - <a target="_blank" href="http://www.google.com/search?q=spartiti+Tar%E1ntula+De+Africa+Tiziano+Ferro" title="Spartiti di Tarántula De Africa">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Tar%E1ntula+De+Africa+Tiziano+Ferro" title="Accordi di Tarántula De Africa">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Tar%E1ntula+De+Africa+Tiziano+Ferro" title="Testi di Tarántula De Africa">testi</a><br>

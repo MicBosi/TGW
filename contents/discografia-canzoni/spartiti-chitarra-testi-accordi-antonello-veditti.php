@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Antonello Veditti</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Antonello Veditti:</h2>
 <h2>Diamanti (2006) </h2>
 <b>1</b>. Alta Marea - <a target="_blank" href="http://www.google.com/search?q=spartiti+Alta+Marea+Antonello+Veditti" title="Spartiti di Alta Marea">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Alta+Marea+Antonello+Veditti" title="Accordi di Alta Marea">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Alta+Marea+Antonello+Veditti" title="Testi di Alta Marea">testi</a><br>

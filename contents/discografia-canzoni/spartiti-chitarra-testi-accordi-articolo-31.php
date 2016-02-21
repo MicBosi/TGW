@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Articolo 31</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Articolo 31:</h2>
 <h2>La Riconquista Del Forum - Live (2004) </h2>
 <b>1</b>. Nato Sbagliato - <a target="_blank" href="http://www.google.com/search?q=spartiti+Nato+Sbagliato+Articolo+31" title="Spartiti di Nato Sbagliato">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Nato+Sbagliato+Articolo+31" title="Accordi di Nato Sbagliato">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Nato+Sbagliato+Articolo+31" title="Testi di Nato Sbagliato">testi</a><br>

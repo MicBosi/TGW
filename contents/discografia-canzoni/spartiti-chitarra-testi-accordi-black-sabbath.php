@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Black Sabbath</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Black Sabbath:</h2>
 <h2>Reunion (1998) </h2>
 <b>1</b>. War Pigs - <a target="_blank" href="http://www.google.com/search?q=spartiti+War+Pigs+Black+Sabbath" title="Spartiti di War Pigs">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+War+Pigs+Black+Sabbath" title="Accordi di War Pigs">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+War+Pigs+Black+Sabbath" title="Testi di War Pigs">testi</a><br>

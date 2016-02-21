@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Gianluca Grignani</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Gianluca Grignani:</h2>
 <h2>Il Re Del Niente (Sanremo Edition) (2006) </h2>
 <b>1</b>. Liberi Di Sognare - <a target="_blank" href="http://www.google.com/search?q=spartiti+Liberi+Di+Sognare+Gianluca+Grignani" title="Spartiti di Liberi Di Sognare">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Liberi+Di+Sognare+Gianluca+Grignani" title="Accordi di Liberi Di Sognare">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Liberi+Di+Sognare+Gianluca+Grignani" title="Testi di Liberi Di Sognare">testi</a><br>

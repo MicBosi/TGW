@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Ivan Graziani</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Ivan Graziani:</h2>
 <h2>Per Sempre Ivan (1999) </h2>
 <b>1</b>. Vita - <a target="_blank" href="http://www.google.com/search?q=spartiti+Vita+Ivan+Graziani" title="Spartiti di Vita">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Vita+Ivan+Graziani" title="Accordi di Vita">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Vita+Ivan+Graziani" title="Testi di Vita">testi</a><br>

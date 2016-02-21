@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Guns'N'Roses</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Guns'N'Roses:</h2>
 <h2>Greatest Hits (2004) </h2>
 <b>1</b>. Welcome To The Jungle - <a target="_blank" href="http://www.google.com/search?q=spartiti+Welcome+To+The+Jungle+Guns%27N%27Roses" title="Spartiti di Welcome To The Jungle">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Welcome+To+The+Jungle+Guns%27N%27Roses" title="Accordi di Welcome To The Jungle">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Welcome+To+The+Jungle+Guns%27N%27Roses" title="Testi di Welcome To The Jungle">testi</a><br>

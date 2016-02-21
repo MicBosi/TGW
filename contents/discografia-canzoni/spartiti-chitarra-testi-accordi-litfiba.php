@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Litfiba</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Litfiba:</h2>
 <h2>Essere O Sembrare (2005) </h2>
 <b>1</b>. La Tela Del Ragno - <a target="_blank" href="http://www.google.com/search?q=spartiti+La+Tela+Del+Ragno+Litfiba" title="Spartiti di La Tela Del Ragno">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+La+Tela+Del+Ragno+Litfiba" title="Accordi di La Tela Del Ragno">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+La+Tela+Del+Ragno+Litfiba" title="Testi di La Tela Del Ragno">testi</a><br>

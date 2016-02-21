@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Nirvana</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Nirvana:</h2>
 <h2>With The Lights Out - Cd 3 (2004) </h2>
 <b>1</b>. Rape Me (Solo Acoustic) - <a target="_blank" href="http://www.google.com/search?q=spartiti+Rape+Me+%28Solo+Acoustic%29+Nirvana" title="Spartiti di Rape Me (Solo Acoustic)">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Rape+Me+%28Solo+Acoustic%29+Nirvana" title="Accordi di Rape Me (Solo Acoustic)">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Rape+Me+%28Solo+Acoustic%29+Nirvana" title="Testi di Rape Me (Solo Acoustic)">testi</a><br>

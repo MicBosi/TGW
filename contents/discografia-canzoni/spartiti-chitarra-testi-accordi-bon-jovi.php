@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Bon Jovi</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Bon Jovi:</h2>
 <h2>Have A Nice Day (2005) </h2>
 <b>1</b>. Have A Nice Day - <a target="_blank" href="http://www.google.com/search?q=spartiti+Have+A+Nice+Day+Bon+Jovi" title="Spartiti di Have A Nice Day">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Have+A+Nice+Day+Bon+Jovi" title="Accordi di Have A Nice Day">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Have+A+Nice+Day+Bon+Jovi" title="Testi di Have A Nice Day">testi</a><br>

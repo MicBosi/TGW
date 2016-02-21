@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Mango</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Mango:</h2>
 <h2>L'albero Delle Fate (2007) </h2>
 <b>1</b>. Chissà Se Nevica - <a target="_blank" href="http://www.google.com/search?q=spartiti+Chiss%E0+Se+Nevica+Mango" title="Spartiti di Chissà Se Nevica">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Chiss%E0+Se+Nevica+Mango" title="Accordi di Chissà Se Nevica">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Chiss%E0+Se+Nevica+Mango" title="Testi di Chissà Se Nevica">testi</a><br>

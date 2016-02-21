@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Eros Ramazzotti</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Eros Ramazzotti:</h2>
 <h2>Calma Aparente (2005) </h2>
 <b>1</b>. Nuestra Vida - <a target="_blank" href="http://www.google.com/search?q=spartiti+Nuestra+Vida+Eros+Ramazzotti" title="Spartiti di Nuestra Vida">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Nuestra+Vida+Eros+Ramazzotti" title="Accordi di Nuestra Vida">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Nuestra+Vida+Eros+Ramazzotti" title="Testi di Nuestra Vida">testi</a><br>

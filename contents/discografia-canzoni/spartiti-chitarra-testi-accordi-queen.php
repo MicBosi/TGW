@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Queen</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Queen:</h2>
 <h2>The Platinum Collection Disc 3 (2002) </h2>
 <b>1</b>. The Show Must Go On - <a target="_blank" href="http://www.google.com/search?q=spartiti+The+Show+Must+Go+On+Queen" title="Spartiti di The Show Must Go On">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+The+Show+Must+Go+On+Queen" title="Accordi di The Show Must Go On">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+The+Show+Must+Go+On+Queen" title="Testi di The Show Must Go On">testi</a><br>

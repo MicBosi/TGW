@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Le Vibrazioni</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Le Vibrazioni:</h2>
 <h2>Officine Meccaniche (2006) </h2>
 <b>1</b>. Fermi Senza Forma - <a target="_blank" href="http://www.google.com/search?q=spartiti+Fermi+Senza+Forma+Le+Vibrazioni" title="Spartiti di Fermi Senza Forma">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Fermi+Senza+Forma+Le+Vibrazioni" title="Accordi di Fermi Senza Forma">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Fermi+Senza+Forma+Le+Vibrazioni" title="Testi di Fermi Senza Forma">testi</a><br>

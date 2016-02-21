@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Iron Maiden</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Iron Maiden:</h2>
 <h2>A Matter Of Life And Death (2006) </h2>
 <b>1</b>. Different World - <a target="_blank" href="http://www.google.com/search?q=spartiti+Different+World+Iron+Maiden" title="Spartiti di Different World">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Different+World+Iron+Maiden" title="Accordi di Different World">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Different+World+Iron+Maiden" title="Testi di Different World">testi</a><br>

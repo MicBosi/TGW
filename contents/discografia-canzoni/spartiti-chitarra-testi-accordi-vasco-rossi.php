@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Vasco Rossi</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Vasco Rossi:</h2>
 <h2>Ti Amo (2006) </h2>
 <b>1</b>. Incredibile Romantica - <a target="_blank" href="http://www.google.com/search?q=spartiti+Incredibile+Romantica+Vasco+Rossi" title="Spartiti di Incredibile Romantica">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Incredibile+Romantica+Vasco+Rossi" title="Accordi di Incredibile Romantica">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Incredibile+Romantica+Vasco+Rossi" title="Testi di Incredibile Romantica">testi</a><br>

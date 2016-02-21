@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Max Gazzè</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Max Gazzè:</h2>
 <h2>Max Gazzè - Raduni 1995/2005 - Disc 2 (2005) </h2>
 <b>1</b>. Di Nascosto - <a target="_blank" href="http://www.google.com/search?q=spartiti+Di+Nascosto+Max+Gazz%E8" title="Spartiti di Di Nascosto">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Di+Nascosto+Max+Gazz%E8" title="Accordi di Di Nascosto">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Di+Nascosto+Max+Gazz%E8" title="Testi di Di Nascosto">testi</a><br>

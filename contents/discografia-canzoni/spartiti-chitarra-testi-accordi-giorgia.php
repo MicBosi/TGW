@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Giorgia</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Giorgia:</h2>
 <h2>MTV Unplugged (2005) </h2>
 <b>1</b>. Love's In Need Of Love Today - <a target="_blank" href="http://www.google.com/search?q=spartiti+Love%27s+In+Need+Of+Love+Today+Giorgia" title="Spartiti di Love's In Need Of Love Today">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Love%27s+In+Need+Of+Love+Today+Giorgia" title="Accordi di Love's In Need Of Love Today">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Love%27s+In+Need+Of+Love+Today+Giorgia" title="Testi di Love's In Need Of Love Today">testi</a><br>

@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Nek</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Nek:</h2>
 <h2>Esencial (2006) </h2>
 <b>1</b>. Laura No Está - <a target="_blank" href="http://www.google.com/search?q=spartiti+Laura+No+Est%E1+Nek" title="Spartiti di Laura No Está">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Laura+No+Est%E1+Nek" title="Accordi di Laura No Está">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Laura+No+Est%E1+Nek" title="Testi di Laura No Está">testi</a><br>

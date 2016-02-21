@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Van Halen</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Van Halen:</h2>
 <h2>The Best Of Both Worlds (Cd 2) (2004) </h2>
 <b>1</b>. Panama - <a target="_blank" href="http://www.google.com/search?q=spartiti+Panama+Van+Halen" title="Spartiti di Panama">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Panama+Van+Halen" title="Accordi di Panama">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Panama+Van+Halen" title="Testi di Panama">testi</a><br>

@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Paolo Meneguzzi</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Paolo Meneguzzi:</h2>
 <h2>Musica (2007) </h2>
 <b>1</b>. Stai Con Me - <a target="_blank" href="http://www.google.com/search?q=spartiti+Stai+Con+Me+Paolo+Meneguzzi" title="Spartiti di Stai Con Me">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Stai+Con+Me+Paolo+Meneguzzi" title="Accordi di Stai Con Me">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Stai+Con+Me+Paolo+Meneguzzi" title="Testi di Stai Con Me">testi</a><br>

@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Raf</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Raf:</h2>
 <h2>Passeggeri Distratti (2006) </h2>
 <b>1</b>. Salta Più In Alto - <a target="_blank" href="http://www.google.com/search?q=spartiti+Salta+Pi%F9+In+Alto+Raf" title="Spartiti di Salta Più In Alto">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Salta+Pi%F9+In+Alto+Raf" title="Accordi di Salta Più In Alto">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Salta+Pi%F9+In+Alto+Raf" title="Testi di Salta Più In Alto">testi</a><br>

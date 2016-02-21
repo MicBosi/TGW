@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Syria</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Syria:</h2>
 <h2>Non E' Peccato (2005) </h2>
 <b>1</b>. Senza Regole - <a target="_blank" href="http://www.google.com/search?q=spartiti+Senza+Regole+Syria" title="Spartiti di Senza Regole">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Senza+Regole+Syria" title="Accordi di Senza Regole">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Senza+Regole+Syria" title="Testi di Senza Regole">testi</a><br>

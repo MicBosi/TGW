@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Francesco Baccini</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Francesco Baccini:</h2>
 <h2>Fra..gi..le (2006) </h2>
 <b>1</b>. Fra..gi..le - <a target="_blank" href="http://www.google.com/search?q=spartiti+Fra..gi..le+Francesco+Baccini" title="Spartiti di Fra..gi..le">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Fra..gi..le+Francesco+Baccini" title="Accordi di Fra..gi..le">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Fra..gi..le+Francesco+Baccini" title="Testi di Fra..gi..le">testi</a><br>

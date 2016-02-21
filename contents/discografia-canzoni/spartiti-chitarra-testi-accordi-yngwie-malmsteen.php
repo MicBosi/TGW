@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Yngwie Malmsteen</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Yngwie Malmsteen:</h2>
 <h2>Unleash The Fury (2005) </h2>
 <b>1</b>. Locked & Loaded - <a target="_blank" href="http://www.google.com/search?q=spartiti+Locked+%26+Loaded+Yngwie+Malmsteen" title="Spartiti di Locked & Loaded">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Locked+%26+Loaded+Yngwie+Malmsteen" title="Accordi di Locked & Loaded">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Locked+%26+Loaded+Yngwie+Malmsteen" title="Testi di Locked & Loaded">testi</a><br>

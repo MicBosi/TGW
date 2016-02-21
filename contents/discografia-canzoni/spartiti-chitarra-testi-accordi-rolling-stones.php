@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Rolling Stones</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Rolling Stones:</h2>
 <h2>Rarities 1971-2003 (2005) </h2>
 <b>1</b>. Fancyman Blues - <a target="_blank" href="http://www.google.com/search?q=spartiti+Fancyman+Blues+Rolling+Stones" title="Spartiti di Fancyman Blues">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Fancyman+Blues+Rolling+Stones" title="Accordi di Fancyman Blues">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Fancyman+Blues+Rolling+Stones" title="Testi di Fancyman Blues">testi</a><br>

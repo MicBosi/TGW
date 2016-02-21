@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Cesare Cremonini</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Cesare Cremonini:</h2>
 <h2>Maggese (2005) </h2>
 <b>1</b>. Maggese - <a target="_blank" href="http://www.google.com/search?q=spartiti+Maggese+Cesare+Cremonini" title="Spartiti di Maggese">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Maggese+Cesare+Cremonini" title="Accordi di Maggese">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Maggese+Cesare+Cremonini" title="Testi di Maggese">testi</a><br>

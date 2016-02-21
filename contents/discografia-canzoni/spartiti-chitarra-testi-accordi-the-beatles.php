@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di The Beatles</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia The Beatles:</h2>
 <h2>Love (2006) </h2>
 <b>1</b>. Because - <a target="_blank" href="http://www.google.com/search?q=spartiti+Because+The+Beatles" title="Spartiti di Because">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Because+The+Beatles" title="Accordi di Because">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Because+The+Beatles" title="Testi di Because">testi</a><br>

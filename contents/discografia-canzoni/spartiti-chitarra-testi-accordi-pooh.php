@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Pooh</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Pooh:</h2>
 <h2>Noi Con Voi (2006) </h2>
 <b>1</b>. Rotolando Respirando - <a target="_blank" href="http://www.google.com/search?q=spartiti+Rotolando+Respirando+Pooh" title="Spartiti di Rotolando Respirando">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Rotolando+Respirando+Pooh" title="Accordi di Rotolando Respirando">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Rotolando+Respirando+Pooh" title="Testi di Rotolando Respirando">testi</a><br>

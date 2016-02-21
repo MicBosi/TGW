@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Renato Carosone</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Renato Carosone:</h2>
 <h2>varie </h2>
 <b>1</b>. 'Na Canzuncella Doce Doce - <a target="_blank" href="http://www.google.com/search?q=spartiti+%27Na+Canzuncella+Doce+Doce+Renato+Carosone" title="Spartiti di 'Na Canzuncella Doce Doce">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+%27Na+Canzuncella+Doce+Doce+Renato+Carosone" title="Accordi di 'Na Canzuncella Doce Doce">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+%27Na+Canzuncella+Doce+Doce+Renato+Carosone" title="Testi di 'Na Canzuncella Doce Doce">testi</a><br>

@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Led Zeppelin</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Led Zeppelin:</h2>
 <h2>Coda (1982) </h2>
 <b>1</b>. We're Gonna Groove - <a target="_blank" href="http://www.google.com/search?q=spartiti+We%27re+Gonna+Groove+Led+Zeppelin" title="Spartiti di We're Gonna Groove">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+We%27re+Gonna+Groove+Led+Zeppelin" title="Accordi di We're Gonna Groove">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+We%27re+Gonna+Groove+Led+Zeppelin" title="Testi di We're Gonna Groove">testi</a><br>

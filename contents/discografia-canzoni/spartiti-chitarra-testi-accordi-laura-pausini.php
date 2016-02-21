@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Laura Pausini</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Laura Pausini:</h2>
 <h2>Yo Canto (2006) </h2>
 <b>1</b>. Yo Canto - <a target="_blank" href="http://www.google.com/search?q=spartiti+Yo+Canto+Laura+Pausini" title="Spartiti di Yo Canto">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Yo+Canto+Laura+Pausini" title="Accordi di Yo Canto">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Yo+Canto+Laura+Pausini" title="Testi di Yo Canto">testi</a><br>

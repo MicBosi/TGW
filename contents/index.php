@@ -24,13 +24,13 @@ template: index
                             <h2>introduzione alla chitarra</h2>
                             <ul>
                                 <li>
-                                    <a title="introduzione al corso di chitarra e spartiti" href="gwintro.html">Introduzione al corso di chitarra</a>
+                                    <a title="propositi su questo corso di chitarra" href="propositi.html">Scopri The Guitar Wizard</a>
                                 </li>
                                 <li>
-                                    <a title="propositi su questo corso di chitarra" href="propositi.html">Obbiettivi di questo corso di chitarra</a>
+                                    <a title="introduzione al corso di chitarra e spartiti" href="gwintro.html">Introduzione al Corso di Chitarra</a>
                                 </li>
                                 <li>
-                                    <a title="come studiare e imparare a suonare la chitarra" href="gwpercorsi.html">Come cominciare a suonare la chitarra</a>
+                                    <a title="come studiare e imparare a suonare la chitarra" href="gwpercorsi.html">Come Cominciare a Suonare la Chitarra</a>
                                 </li>
                             </ul>
                             <h2>la chitarra</h2>

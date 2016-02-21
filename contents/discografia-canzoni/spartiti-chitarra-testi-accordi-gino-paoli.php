@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Gino Paoli</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Gino Paoli:</h2>
 <h2>Canzoni Varie </h2>
 <b>1</b>. Albergo A Ore - <a target="_blank" href="http://www.google.com/search?q=spartiti+Albergo+A+Ore+Gino+Paoli" title="Spartiti di Albergo A Ore">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Albergo+A+Ore+Gino+Paoli" title="Accordi di Albergo A Ore">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Albergo+A+Ore+Gino+Paoli" title="Testi di Albergo A Ore">testi</a><br>

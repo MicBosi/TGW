@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di AC/DC</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia AC/DC:</h2>
 <h2>Stiff Upper Lip (2000) </h2>
 <b>1</b>. Stiff Upper Lip - <a target="_blank" href="http://www.google.com/search?q=spartiti+Stiff+Upper+Lip+AC%2FDC" title="Spartiti di Stiff Upper Lip">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Stiff+Upper+Lip+AC%2FDC" title="Accordi di Stiff Upper Lip">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Stiff+Upper+Lip+AC%2FDC" title="Testi di Stiff Upper Lip">testi</a><br>

@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Lucio Dalla</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Lucio Dalla:</h2>
 <h2>12000 Lune (2006) </h2>
 <b>1</b>. Caruso - <a target="_blank" href="http://www.google.com/search?q=spartiti+Caruso+Lucio+Dalla" title="Spartiti di Caruso">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Caruso+Lucio+Dalla" title="Accordi di Caruso">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Caruso+Lucio+Dalla" title="Testi di Caruso">testi</a><br>

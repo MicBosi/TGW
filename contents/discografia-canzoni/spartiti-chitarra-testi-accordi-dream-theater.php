@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Dream Theater</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Dream Theater:</h2>
 <h2>Octavarium (2005) </h2>
 <b>1</b>. The Root Of All Evil - <a target="_blank" href="http://www.google.com/search?q=spartiti+The+Root+Of+All+Evil+Dream+Theater" title="Spartiti di The Root Of All Evil">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+The+Root+Of+All+Evil+Dream+Theater" title="Accordi di The Root Of All Evil">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+The+Root+Of+All+Evil+Dream+Theater" title="Testi di The Root Of All Evil">testi</a><br>

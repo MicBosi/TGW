@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Tiromancino</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Tiromancino:</h2>
 <h2>L'alba Di Domani (2007) </h2>
 <b>1</b>. Angoli Di Cielo - <a target="_blank" href="http://www.google.com/search?q=spartiti+Angoli+Di+Cielo+Tiromancino" title="Spartiti di Angoli Di Cielo">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Angoli+Di+Cielo+Tiromancino" title="Accordi di Angoli Di Cielo">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Angoli+Di+Cielo+Tiromancino" title="Testi di Angoli Di Cielo">testi</a><br>

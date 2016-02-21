@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Irene Grandi</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Irene Grandi:</h2>
 <h2>Indelebile (2005) </h2>
 <b>1</b>. Lasciala Andare - <a target="_blank" href="http://www.google.com/search?q=spartiti+Lasciala+Andare+Irene+Grandi" title="Spartiti di Lasciala Andare">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Lasciala+Andare+Irene+Grandi" title="Accordi di Lasciala Andare">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Lasciala+Andare+Irene+Grandi" title="Testi di Lasciala Andare">testi</a><br>

@@ -1,27 +1,24 @@
 <!--
 keywords: spartiti, chitarra, spartiti chitarra, testi, canzoni, tablature, corso, lezioni, scale, accordi, sweep, tapping, picking, musica
 description: Questa lezione illustra i principali obbiettivi di questo corso di chitarra online.
-title: Obbiettivi Di Questo Corso Di Chitarra Online
+title: Scopri The Guitar Wizard
 -->
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
-<h2>
-Cosa è <i>The Guitar Wizard</i>?</h2>
-<i>The Guitar Wizard</i> vuole essere non solo un corso di chitarra online ma una facile e veloce guida al mondo della musica oltre che della chitarra. Il suo obbiettivo è quello di esporre in maniera chiara e semplice, per quanto possibile, argomenti ritenuti ostici e antipatici dai più ma che invece sono i più divertenti e interessanti da esplorare.
-<font size=5>A</font>l momento <i>The Guitar Wizard</i> stà venendo totalmente ristrutturato, sia il corso di chitarra in sé che il resto del sito (uscita prevista per fine primavera) e nella prossima versione sarà migliorato graficamente, tecnologicamente ed arricchito di contenuti multimediali.
-<h2>
-A Chi Interessa <i>The Guitar Wizard</i>?</h2>
-<font size=5>A</font> tutti coloro che vogliono essere creativi con la musica e la chitarra, che vogliono trarre il massimo dal loro strumento e cercano un corso di chitarra online semplice ma approfondito.
+<h2>Cosa è <i>The Guitar Wizard</i>?</h2>
+<p><i>The Guitar Wizard</i> vuole essere non solo un corso di chitarra online ma una facile e veloce guida al mondo della musica oltre che della chitarra. Il suo obbiettivo è quello di esporre in maniera chiara e semplice, per quanto possibile, argomenti ritenuti ostici e antipatici dai più ma che invece possono essere divertenti e interessanti da esplorare.</p>
 
-<h2>
-Come è Strutturato <i>The Guitar Wizard</i>?</h2>
-<i>The Guitar Wizard</i> è un corso di chitarra online diviso in tanti singoli argomenti organizzati in sezioni e spiegati in dettaglio uno a uno. Essi sono disposti in  ordine, cosi' che possano essere consultati in maniera sequenziale seguendo un filo logico.
-Nonostante tale disposizione logica, io suggerisco di riferirsi alla sezione "percorsi" per sfruttare al meglio <i>The Guitar Wizard</i>.
-Essa è la sezione chiave di tutto il corso di chitarra: ti permetterà di ottimizzare il tuo tempo e di pianificare in maniera efficiente e personalizzata il tuo percorso di studio.
+<h2>A Chi Interessa <i>The Guitar Wizard</i>?</h2>
+<p>A tutti coloro che vogliono essere creativi con la musica e la chitarra, che vogliono trarre il massimo dal loro strumento e cercano un corso di chitarra online semplice ma approfondito. I contenuti del sito si rivolgono sia a chi comincia con la chitarra classica ma anche agli amanti della chitarra elettrica.</p>
 
-<h2>
-Chi Sviluppa <i>The Guitar Wizard</i>?</h2>
-<font size=5>Q</font>uesto corso di chitarra è sviluppato da Michele Bosi (chitarrista tutto meno che professionista), che nel suo tempo libero migliora e aggiunge gli argomenti che via via apprende e affronta nel suo percorso di studi da autodidatta.
-<font size=5>T</font>utti possono partecipare allo sviluppo di <i>The Guitar Wizard</i>. Chiunque voglia arricchire questo corso di chitarra online con la propria esperienza e con le proprie opinioni puo' contattarmi tramite email a: <br>
+<h2>Come è Strutturato <i>The Guitar Wizard</i>?</h2>
+<p><i>The Guitar Wizard</i> è un corso di chitarra online diviso in tanti singoli argomenti organizzati in sezioni e spiegati in dettaglio uno a uno. Essi sono disposti in  ordine, cosi' che possano essere consultati in maniera sequenziale seguendo un filo logico.
+Il succo del corso e' incentrato sulla pratica, le posizioni degli accordi e delle scale. In secondo luogo ho cercato di fornire un background di teoria che ti permettera' di capire il perche' delle cose e quindi di esprimire al meglio la tua creativita'.</p>
 
-<p> <center> <i>&#x68;&#x65;&#x6C;&#x6C;&#x6F;&#x40;&#x6D;&#x69;&#x63;&#x68;&#x65;&#x6C;&#x65;&#x62;&#x6F;&#x73;&#x69;&#x2E;&#x63;&#x6F;&#x6D;</i> </center> </p>
+<h2>Come e' nato <i>The Guitar Wizard</i>?</h2>
+<p>Questo corso di chitarra è nato nel giugno 2000 come raccolta di note e pensieri personali riguardo la musica e la chitarra. Il che rende <i>The Guitar Wizard</i> piu' vecchio di Facebook e Twitter! Negli anni il sito ha subito varie revisioni e cambi di stile. L'ultima revisione fatta a febbraio 2016 ha completamente aggiornato il tema del sito, gli schemi degli accordi e delle scale, aggiunto la possibilita' di lasciare commenti via Facebook e rivisto il testo di varie pagine.</p>
+
+<p>Buona lettura!</p>
+
+<p style=""><i>Michele<br>
+<?php echo date ("d M Y", getlastmod()); ?></i></p>

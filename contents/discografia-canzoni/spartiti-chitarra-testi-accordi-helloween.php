@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Helloween</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Helloween:</h2>
 <h2>Keeper Of The Seven Keys - The Legacy (2005) </h2>
 <b>1</b>. The King For A Thousand Years - <a target="_blank" href="http://www.google.com/search?q=spartiti+The+King+For+A+Thousand+Years+Helloween" title="Spartiti di The King For A Thousand Years">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+The+King+For+A+Thousand+Years+Helloween" title="Accordi di The King For A Thousand Years">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+The+King+For+A+Thousand+Years+Helloween" title="Testi di The King For A Thousand Years">testi</a><br>

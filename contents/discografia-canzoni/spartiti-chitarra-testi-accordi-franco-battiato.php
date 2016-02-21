@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Franco Battiato</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Franco Battiato:</h2>
 <h2>Il Vuoto (2007) </h2>
 <b>1</b>. Il Vuoto - <a target="_blank" href="http://www.google.com/search?q=spartiti+Il+Vuoto+Franco+Battiato" title="Spartiti di Il Vuoto">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Il+Vuoto+Franco+Battiato" title="Accordi di Il Vuoto">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Il+Vuoto+Franco+Battiato" title="Testi di Il Vuoto">testi</a><br>

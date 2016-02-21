@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Avril Lavigne</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Avril Lavigne:</h2>
 <h2>The Best Damn Thing (2007) </h2>
 <b>1</b>. Girlfriend - <a target="_blank" href="http://www.google.com/search?q=spartiti+Girlfriend+Avril+Lavigne" title="Spartiti di Girlfriend">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Girlfriend+Avril+Lavigne" title="Accordi di Girlfriend">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Girlfriend+Avril+Lavigne" title="Testi di Girlfriend">testi</a><br>

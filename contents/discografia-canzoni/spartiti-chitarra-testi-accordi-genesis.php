@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Genesis</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Genesis:</h2>
 <h2>Calling All Stations (1997) </h2>
 <b>1</b>. Calling All Stations - <a target="_blank" href="http://www.google.com/search?q=spartiti+Calling+All+Stations+Genesis" title="Spartiti di Calling All Stations">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Calling+All+Stations+Genesis" title="Accordi di Calling All Stations">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Calling+All+Stations+Genesis" title="Testi di Calling All Stations">testi</a><br>

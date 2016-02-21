@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Pino Daniele</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Pino Daniele:</h2>
 <h2>Il Mio Nome E' Pino Daniele E Vivo Qui (2007) </h2>
 <b>1</b>. Back Home - <a target="_blank" href="http://www.google.com/search?q=spartiti+Back+Home+Pino+Daniele" title="Spartiti di Back Home">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Back+Home+Pino+Daniele" title="Accordi di Back Home">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Back+Home+Pino+Daniele" title="Testi di Back Home">testi</a><br>

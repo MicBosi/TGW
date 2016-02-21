@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Zero Assoluto</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Zero Assoluto:</h2>
 <h2>Appena Prima Di Partire (2007) </h2>
 <b>1</b>. Ora Che Ci Sei - <a target="_blank" href="http://www.google.com/search?q=spartiti+Ora+Che+Ci+Sei+Zero+Assoluto" title="Spartiti di Ora Che Ci Sei">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Ora+Che+Ci+Sei+Zero+Assoluto" title="Accordi di Ora Che Ci Sei">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Ora+Che+Ci+Sei+Zero+Assoluto" title="Testi di Ora Che Ci Sei">testi</a><br>

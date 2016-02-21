@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Jimi Hendrix</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Jimi Hendrix:</h2>
 <h2>Radio One (1988) </h2>
 <b>1</b>. Radio One Theme - <a target="_blank" href="http://www.google.com/search?q=spartiti+Radio+One+Theme+Jimi+Hendrix" title="Spartiti di Radio One Theme">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Radio+One+Theme+Jimi+Hendrix" title="Accordi di Radio One Theme">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Radio+One+Theme+Jimi+Hendrix" title="Testi di Radio One Theme">testi</a><br>

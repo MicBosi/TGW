@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Biagio Antonacci</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Biagio Antonacci:</h2>
 <h2>Vicky Love (2007) </h2>
 <b>1</b>. E Soffocamento - <a target="_blank" href="http://www.google.com/search?q=spartiti+E+Soffocamento+Biagio+Antonacci" title="Spartiti di E Soffocamento">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+E+Soffocamento+Biagio+Antonacci" title="Accordi di E Soffocamento">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+E+Soffocamento+Biagio+Antonacci" title="Testi di E Soffocamento">testi</a><br>

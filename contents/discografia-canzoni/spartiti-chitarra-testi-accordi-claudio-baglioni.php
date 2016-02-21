@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Claudio Baglioni</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Claudio Baglioni:</h2>
 <h2>Gli Altri Tutti Qui - Collezione 1967-2006 - Disco 1 (2006) </h2>
 <b>1</b>. Se La Ragazza Che Avevi - <a target="_blank" href="http://www.google.com/search?q=spartiti+Se+La+Ragazza+Che+Avevi+Claudio+Baglioni" title="Spartiti di Se La Ragazza Che Avevi">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Se+La+Ragazza+Che+Avevi+Claudio+Baglioni" title="Accordi di Se La Ragazza Che Avevi">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Se+La+Ragazza+Che+Avevi+Claudio+Baglioni" title="Testi di Se La Ragazza Che Avevi">testi</a><br>

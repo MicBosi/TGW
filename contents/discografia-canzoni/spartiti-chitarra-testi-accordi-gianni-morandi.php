@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Gianni Morandi</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Gianni Morandi:</h2>
 <h2>Il Tempo Migliore (2006) </h2>
 <b>1</b>. Il Tempo Migliore - <a target="_blank" href="http://www.google.com/search?q=spartiti+Il+Tempo+Migliore+Gianni+Morandi" title="Spartiti di Il Tempo Migliore">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Il+Tempo+Migliore+Gianni+Morandi" title="Accordi di Il Tempo Migliore">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Il+Tempo+Migliore+Gianni+Morandi" title="Testi di Il Tempo Migliore">testi</a><br>

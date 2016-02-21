@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di U2</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia U2:</h2>
 <h2>18 Singles (2006) </h2>
 <b>1</b>. Beautiful Day - <a target="_blank" href="http://www.google.com/search?q=spartiti+Beautiful+Day+U2" title="Spartiti di Beautiful Day">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Beautiful+Day+U2" title="Accordi di Beautiful Day">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Beautiful+Day+U2" title="Testi di Beautiful Day">testi</a><br>

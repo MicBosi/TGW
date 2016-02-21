@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Francesco Guccini</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Francesco Guccini:</h2>
 <h2>Anfiteatro Live (2005) </h2>
 <b>1</b>. Canzone Per Un'amica - <a target="_blank" href="http://www.google.com/search?q=spartiti+Canzone+Per+Un%27amica+Francesco+Guccini" title="Spartiti di Canzone Per Un'amica">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Canzone+Per+Un%27amica+Francesco+Guccini" title="Accordi di Canzone Per Un'amica">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Canzone+Per+Un%27amica+Francesco+Guccini" title="Testi di Canzone Per Un'amica">testi</a><br>

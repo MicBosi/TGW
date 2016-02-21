@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di 883</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia 883:</h2>
 <h2>Tutto Max - Disc 2 (2005) </h2>
 <b>1</b>. Grazie Mille Remix 2000 - <a target="_blank" href="http://www.google.com/search?q=spartiti+Grazie+Mille+Remix+2000+883" title="Spartiti di Grazie Mille Remix 2000">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Grazie+Mille+Remix+2000+883" title="Accordi di Grazie Mille Remix 2000">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Grazie+Mille+Remix+2000+883" title="Testi di Grazie Mille Remix 2000">testi</a><br>

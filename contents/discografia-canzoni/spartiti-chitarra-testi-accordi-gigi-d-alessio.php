@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Gigi D'Alessio</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Gigi D'Alessio:</h2>
 <h2>Made In Italy (2006) </h2>
 <b>1</b>. Brividi D'amore - <a target="_blank" href="http://www.google.com/search?q=spartiti+Brividi+D%27amore+Gigi+D%27Alessio" title="Spartiti di Brividi D'amore">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Brividi+D%27amore+Gigi+D%27Alessio" title="Accordi di Brividi D'amore">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Brividi+D%27amore+Gigi+D%27Alessio" title="Testi di Brividi D'amore">testi</a><br>

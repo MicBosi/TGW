@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Green Day</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Green Day:</h2>
 <h2>American Idiot (2004) </h2>
 <b>1</b>. American Idiot - <a target="_blank" href="http://www.google.com/search?q=spartiti+American+Idiot+Green+Day" title="Spartiti di American Idiot">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+American+Idiot+Green+Day" title="Accordi di American Idiot">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+American+Idiot+Green+Day" title="Testi di American Idiot">testi</a><br>

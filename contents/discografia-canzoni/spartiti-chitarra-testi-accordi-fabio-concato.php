@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Fabio Concato</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Fabio Concato:</h2>
 <h2>Oltre Il Giardino (2007) </h2>
 <b>1</b>. Oltre Il Giardino - <a target="_blank" href="http://www.google.com/search?q=spartiti+Oltre+Il+Giardino+Fabio+Concato" title="Spartiti di Oltre Il Giardino">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Oltre+Il+Giardino+Fabio+Concato" title="Accordi di Oltre Il Giardino">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Oltre+Il+Giardino+Fabio+Concato" title="Testi di Oltre Il Giardino">testi</a><br>

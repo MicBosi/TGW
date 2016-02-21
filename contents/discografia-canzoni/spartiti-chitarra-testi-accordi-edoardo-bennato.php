@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Edoardo Bennato</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Edoardo Bennato:</h2>
 <h2>La Fantastica Storia Del Pifferaio Magico (2005) </h2>
 <b>1</b>. La Fantastica Storia - <a target="_blank" href="http://www.google.com/search?q=spartiti+La+Fantastica+Storia+Edoardo+Bennato" title="Spartiti di La Fantastica Storia">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+La+Fantastica+Storia+Edoardo+Bennato" title="Accordi di La Fantastica Storia">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+La+Fantastica+Storia+Edoardo+Bennato" title="Testi di La Fantastica Storia">testi</a><br>

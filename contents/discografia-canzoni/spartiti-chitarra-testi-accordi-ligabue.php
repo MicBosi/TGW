@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Ligabue</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Ligabue:</h2>
 <h2>Nome e Cognome (2005) </h2>
 <b>1</b>. Intro - <a target="_blank" href="http://www.google.com/search?q=spartiti+Intro+Ligabue" title="Spartiti di Intro">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Intro+Ligabue" title="Accordi di Intro">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Intro+Ligabue" title="Testi di Intro">testi</a><br>

@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Velvet</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Velvet:</h2>
 <h2>Velvet (2007) </h2>
 <b>1</b>. Io Sarò Lì - <a target="_blank" href="http://www.google.com/search?q=spartiti+Io+Sar%F2+L%EC+Velvet" title="Spartiti di Io Sarò Lì">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Io+Sar%F2+L%EC+Velvet" title="Accordi di Io Sarò Lì">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Io+Sar%F2+L%EC+Velvet" title="Testi di Io Sarò Lì">testi</a><br>

@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Ivano Fossati</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Ivano Fossati:</h2>
 <h2>Ho Sognato Una Strada (2006) </h2>
 <b>1</b>. La Casa Del Serpente - <a target="_blank" href="http://www.google.com/search?q=spartiti+La+Casa+Del+Serpente+Ivano+Fossati" title="Spartiti di La Casa Del Serpente">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+La+Casa+Del+Serpente+Ivano+Fossati" title="Accordi di La Casa Del Serpente">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+La+Casa+Del+Serpente+Ivano+Fossati" title="Testi di La Casa Del Serpente">testi</a><br>

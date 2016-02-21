@@ -6,7 +6,7 @@ template: tablature
 -->
 <h1>Trova spartiti per chitarra, accordi, testi e tablature di Riccardo Cocciante</h1><h2>Leggere gli spartiti per chitarra, gli accordi e le tablature:</h2>
 <?php require("tabdescription.php"); ?>
-<?php require("adsense_leaderboard.php"); ?>
+
 <h2>Discografia Riccardo Cocciante:</h2>
 <h2>Tutti I Miei Sogni (2006) </h2>
 <b>1</b>. Ora Che Io Sono Luce - <a target="_blank" href="http://www.google.com/search?q=spartiti+Ora+Che+Io+Sono+Luce+Riccardo+Cocciante" title="Spartiti di Ora Che Io Sono Luce">spartiti</a>, <a target="_blank" href="http://www.google.com/search?q=accordi+Ora+Che+Io+Sono+Luce+Riccardo+Cocciante" title="Accordi di Ora Che Io Sono Luce">accordi</a>, <a target="_blank" href="http://www.google.com/search?q=testi+Ora+Che+Io+Sono+Luce+Riccardo+Cocciante" title="Testi di Ora Che Io Sono Luce">testi</a><br>
