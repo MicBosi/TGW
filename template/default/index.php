@@ -18,6 +18,13 @@
                             <h2 class="back-link" style="margin: 0; padding: 0;"><a href="<?php echo $base_website_address; ?>" target="_top">Torna al menù principale</a></h2>
                         </div>
                     </div>
+
+                    <!-- comments -->
+                    <div style="margin-top: 2em; text-align: center;">
+                        <h2>Commenti, Pensieri &amp; Domande</h2>
+                        <div class="fb-comments" data-href="<?php echo $canonical_url; ?>" data-numposts="10"></div>
+                    </div>
+                    
                 </div>
             </td>
             <td valign=top width=200 style="border: 1px solid gray; padding: 4px">

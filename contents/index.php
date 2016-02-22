@@ -39,7 +39,7 @@ template: index
                                     <a title="anatomia della chitarra" href="anatomia_base.html">Breve Anatomia</a>
                                 </li>
                                 <li>
-                                    <a title="quale chitarra sciegliere e studiare" href="quale_chitarra.html">Quale Chitarra</a>
+                                    <a title="quale chitarra sciegliere e studiare" href="quale_chitarra.html">Con quale chitarra cominciare a suonare</a>
                                 </li>
                                 <li>
                                     <a title="posizioni delle note sulla chitarra" href="posizioni_note.html">Posizioni Delle Note</a>

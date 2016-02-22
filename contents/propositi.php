@@ -20,5 +20,5 @@ Il succo del corso e' incentrato sulla pratica, le posizioni degli accordi e del
 
 <p>Buona lettura!</p>
 
-<p style=""><i>Michele<br>
+<p style=""><i><a href="https://michelebosi.com" target="_target">Michele</a><br>
 <?php echo date ("d M Y", getlastmod()); ?></i></p>

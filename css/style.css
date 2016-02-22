@@ -1,25 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=IM+Fell+English+SC|Quintessential&subset=latin,latin-ext);
-/*
-	font-family: 'Great Vibes', cursive;
-	font-family: 'Niconne', cursive;
-	font-family: 'Alex Brush', cursive;
-	font-family: 'Allura', cursive;
-	font-family: 'Fontdiner Swanky', cursive;
-	font-family: 'Merienda One', cursive;
-	font-family: 'Italianno', cursive;
-	font-family: 'Mr De Haviland', cursive;
-	font-family: 'Arizonia', cursive;
-	font-family: 'Oleo Script Swash Caps', cursive;
-	font-family: 'IM Fell English SC', serif;
-	font-family: 'Pompiere', cursive;
-	font-family: 'Henny Penny', cursive;
-	font-family: 'Griffy', cursive;
-	font-family: 'Italiana', serif;
-	font-family: 'Stalemate', cursive;
-	font-family: 'Quintessential', cursive;
-	font-family: 'Ruthie', cursive;
-	font-family: 'Lakki Reddy', cursive;
-*/
+@import url(https://fonts.googleapis.com/css?family=IM+Fell+English+SC|Lora&subset=latin,latin-ext);
+/*@import url(https://fonts.googleapis.com/css?family=IM+Fell+English+SC|Quintessential&subset=latin,latin-ext);*/
 a:link,
 a:visited {
     text-decoration: none;
@@ -35,7 +15,8 @@ body {
     background-repeat: no-repeat;
     background-color: white;
     color: #444444;
-    font-family: 'Quintessential', cursive;
+    font-family: 'Lora', cursive;
+    font-size: 20px;
 }
 h1, h2 {
     font-weight: normal;
@@ -56,8 +37,8 @@ table.tabindex td {
 }
 #default-content {
     padding: 0 1em;
-    font-family: 'Quintessential', cursive;
-    font-size: 22px;
+    font-family: 'Lora', cursive;
+    font-size: 20px;
     line-height: 1.8;
     font-weight: normal;
 }
@@ -73,11 +54,10 @@ table.tabindex td {
     font-weight: normal;
 }
 #default-content p {
-    font-family: 'Quintessential', cursive;
+    font-family: 'Lora', cursive;
 }
 #default-content ul {
-    font-family: 'Quintessential', cursive;
-    font-size: 20px;
+    font-family: 'Lora', cursive;
 }
 #content-index h1 {
     text-transform: capitalize;
@@ -92,12 +72,12 @@ table.tabindex td {
     font-weight: normal;
 }
 #content-index p {
-    font-family: 'Quintessential', cursive;
-    font-size: 28px;
+    font-family: 'Lora', cursive;
+    /*font-size: 24px;*/
 }
 #content-index ul {
-    font-family: 'Quintessential', cursive;
-    font-size: 20px;
+    font-family: 'Lora', cursive;
+    /*font-size: 20px;*/
 }
 #tgw-title {
     font-family: 'IM Fell English SC', serif;
@@ -107,6 +87,9 @@ table.tabindex td {
     font-weight: normal;
     font-size: 60px;
     color: #fff080;
+}
+#tgw-subtitle {
+    font-family: 'IM Fell English SC', serif;
 }
 h2.back-link {
     text-transform: capitalize;

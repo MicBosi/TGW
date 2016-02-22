@@ -81,7 +81,7 @@
                     <td>
                         <center>
                             <h1 id="tgw-title"> <a href="<?php echo "$base_website_address"; ?>/" title="Lezioni di chitarra, guide di teoria e tecnica, spartiti, testi e accordi di canzoni">The Guitar Wizard</a></h1>
-                            <h2>La Magia Di Suonare Chitarra</h2>
+                            <h2 id="tgw-subtitle">Corso veloce per imparare a suonare la chitarra da zero</h2>
                         </center>
                     </td>
                 </tr>
@@ -96,18 +96,9 @@
 		<script src="js/jquery-1.12.0.min.js"></script>
 		<script src="js/tgw.js"></script>
 
-<!-- comments -->
-		<div style="margin-top: 2em; text-align: center;">
-			<h1>
-				Lascia un commento o una domanda
-			</h1>
-			<div class="fb-comments" data-href="<?php echo $canonical_url; ?>" data-numposts="10"></div>
-		</div>
-		
 <!-- footer -->
 		<div style="padding: 5px; margin: 8em 0 1em 0; font-family: 'IM Fell English SC', serif; font-size: 16px; text-align: center;">
-			<a href="<?=$base_website_address;?>/propositi.html">&copy; Copyright 2000-<?php echo date("Y") ?> Michele Bosi</a> <br>
-			I diritti di questo sito sono rilasciati con licenza <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+			I contenuti di questo sito sono rilasciati con licenza <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
 		</div>
 
 		<?php if ($activate_google_analitics) { ?>
