@@ -5,10 +5,10 @@ title: Percorsi di studio della chitarra
 -->
 <h1 class="title"><?php echo $header['title']; ?></h1>
 
-<p>Se dovessi cominciare oggi a suonare la chitarra, a grandi linee questo e' il percorso di studio che cercherei di seguire:</p>
+<p>Se dovessi cominciare oggi a suonare la chitarra questo e' il percorso di studio che a grandi linee cercherei di seguire:</p>
 
 <ul>
-	<li>Imparare l'anatomia e la terminologia della chitarra, capotasto, ponte, buca, chiavette, i nomi delle corde, etc.</li>
+	<li>Imparare l'anatomia e la terminologia della chitarra: capotasto, ponte, buca, chiavette, i nomi delle corde, etc.</li>
 	<li>Come accordare la chitarra sia ad orecchio che con l'accordatore elettronico.</li>
 	<li>Come si cambiano le corde in una chitarra classica, folk ed elettrica.</li>
 	<li>Plettri: presentazione dei vari tipi, forme e materiali.</li>

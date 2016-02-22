@@ -7,6 +7,7 @@ global $base_website_address;
 global $content_file;
 
 $content_file = isset($_GET['data']) ? $_GET['data'] : "index";
+// $content_file = isset($_SERVER['REQUEST_URI']) ? $_SERVER['REQUEST_URI'] : 'index';
 
 $content_file = strtolower($content_file);
 
