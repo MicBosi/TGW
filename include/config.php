@@ -20,8 +20,7 @@ $contents_dir = __DIR__."/../contents";
 $cfg_dir = __DIR__."/cfg";
 $spartiti_dir = "discografia-canzoni";
 $rss_description = "The Guitar Wizard";
-$activate_google_analitics = false; // $_SERVER['SERVER_NAME'] != 'localhost';
-$enable_adsense = true;
+$activate_google_analitics = $_SERVER['SERVER_NAME'] != 'localhost';
 
 $links_page_description = "Only the best websites from internet";
 $faq_page_description = "A quick answer to all your questions";
